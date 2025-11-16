@@ -48,7 +48,7 @@ The project leverages the NLTK library for grammar handling and parsing. It is d
 - Other dependencies: Listed in `requirements.txt` 
 
 ## Installation
-1. Clone the repository[https://github.com/HienLe2004/nlp-251] (if not have):
+1. Clone the [repository](https://github.com/HienLe2004/nlp-251) (if not have):
    ```
    git clone <repository-url>
    cd <project-directory>
