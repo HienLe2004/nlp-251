@@ -1,0 +1,147 @@
+Đổi bún chả thành 3 UNIT
+Tôi muốn đặt 3 trà sữa vào 12 giờ
+Thay phở bò bằng 2 UNIT
+Thay trà sữa bằng 3 UNIT
+Hủy phở bò
+Tôi muốn đặt 3 phở bò
+Tôi muốn đặt 1 phở bò vào 12 giờ
+Đổi cơm tấm thành 3 UNIT
+Tôi muốn đặt 1 phở bò
+Tôi muốn đặt 1 cơm tấm giao lúc 12
+Tôi muốn đặt 1 cơm tấm
+Tôi muốn đặt 2 phở bò
+Cho mình 3 phở bò
+Cho tôi 2 cơm tấm
+Tôi muốn đặt 2 bún chả vào 12 giờ
+Cho tôi 3 phở bò
+Thay đổi bún chả thành 1
+Đổi gà rán thành 3 UNIT
+Cho tôi 1 gà rán
+Có những món nào trong menu?
+Tôi muốn đặt 2 bún chả giao lúc 12
+Tôi muốn đặt 3 cơm tấm giao lúc 12
+Cho mình 3 gà rán
+Tôi muốn đặt 2 trà sữa
+Tôi muốn đặt 2 cơm tấm
+Cho mình 1 cơm tấm
+Cho mình 1 phở bò
+Thay đổi phở bò thành 3
+Hủy cơm tấm
+Tôi muốn đặt 2 phở bò vào 12 giờ
+Xóa bún chả khỏi đơn
+Cho tôi xem menu
+Đổi gà rán thành 2 UNIT
+Tôi muốn đặt 1 bún chả giao lúc 12
+Bỏ phở bò đi
+Cho tôi 1 trà sữa
+Tôi muốn đặt 3 cơm tấm vào 12 giờ
+Cho mình 2 trà sữa
+Cho mình 2 gà rán
+Đổi trà sữa thành 1 UNIT
+Hủy bún chả
+Thay gà rán bằng 1 UNIT
+Thay đổi gà rán thành 1
+Tôi muốn đặt 3 phở bò giao lúc 12
+Cho mình 3 trà sữa
+Thay gà rán bằng 3 UNIT
+Tôi muốn đặt 1 gà rán giao lúc 12
+Tôi muốn đặt 3 phở bò vào 12 giờ
+Cho mình 2 cơm tấm
+Cho tôi 1 cơm tấm
+Cho tôi 3 gà rán
+Cho mình 1 trà sữa
+Xóa gà rán khỏi đơn
+Thay đổi cơm tấm thành 1
+Xóa phở bò khỏi đơn
+trà sữa giá bao nhiêu?
+Cho tôi 1 phở bò
+Thay đổi phở bò thành 2
+Tôi muốn đặt 3 bún chả giao lúc 12
+Cho tôi 2 gà rán
+Tôi muốn đặt 2 cơm tấm vào 12 giờ
+Tôi muốn đặt 3 trà sữa giao lúc 12
+Thay trà sữa bằng 1 UNIT
+Cho mình 1 bún chả
+Cho mình 2 bún chả
+Thay bún chả bằng 1 UNIT
+Thay bún chả bằng 3 UNIT
+Tôi muốn đặt 1 phở bò giao lúc 12
+Đổi gà rán thành 1 UNIT
+Thay phở bò bằng 1 UNIT
+Thay đổi cơm tấm thành 3
+Giá phở bò
+Giá cơm tấm
+Tôi muốn đặt 3 cơm tấm
+Thay cơm tấm bằng 3 UNIT
+Hủy trà sữa
+Tôi muốn đặt 3 trà sữa
+Đổi phở bò thành 1 UNIT
+Thay gà rán bằng 2 UNIT
+Tôi muốn đặt 2 gà rán
+Bỏ trà sữa đi
+Cho tôi 3 cơm tấm
+Đổi trà sữa thành 3 UNIT
+bún chả giá bao nhiêu?
+Tôi muốn đặt 3 gà rán vào 12 giờ
+Thay bún chả bằng 2 UNIT
+Thay đổi phở bò thành 1
+Thay đổi cơm tấm thành 2
+Đổi bún chả thành 2 UNIT
+Đổi cơm tấm thành 2 UNIT
+Hủy gà rán
+Thay đổi trà sữa thành 3
+Tôi muốn đặt 3 bún chả
+Đổi phở bò thành 2 UNIT
+Tôi muốn đặt 2 trà sữa giao lúc 12
+Thay đổi gà rán thành 3
+Đổi trà sữa thành 2 UNIT
+Cho mình 3 cơm tấm
+Cho tôi 1 bún chả
+Tôi muốn đặt 2 cơm tấm giao lúc 12
+Cho tôi 2 bún chả
+Thay đổi gà rán thành 2
+Đổi phở bò thành 3 UNIT
+Thay đổi bún chả thành 3
+Tôi muốn đặt 1 gà rán
+Cho tôi 2 trà sữa
+Thay cơm tấm bằng 1 UNIT
+Cho tôi 3 bún chả
+Tôi muốn đặt 1 trà sữa giao lúc 12
+Tôi muốn đặt 2 gà rán giao lúc 12
+Tôi muốn đặt 2 phở bò giao lúc 12
+Thay trà sữa bằng 2 UNIT
+gà rán giá bao nhiêu?
+Thay đổi trà sữa thành 1
+Cho mình 2 phở bò
+Cho tôi 2 phở bò
+Tôi muốn đặt 3 gà rán
+Giá bún chả
+Tôi muốn đặt 1 cơm tấm vào 12 giờ
+Tôi muốn đặt 2 trà sữa vào 12 giờ
+Bỏ bún chả đi
+Tôi muốn đặt 1 gà rán vào 12 giờ
+Tôi muốn đặt 1 trà sữa vào 12 giờ
+Thay đổi trà sữa thành 2
+phở bò giá bao nhiêu?
+Giá trà sữa
+Cho mình 1 gà rán
+cơm tấm giá bao nhiêu?
+Xóa trà sữa khỏi đơn
+Cho tôi 3 trà sữa
+Tôi muốn đặt 3 gà rán giao lúc 12
+Bỏ gà rán đi
+Đổi cơm tấm thành 1 UNIT
+Tôi muốn đặt 2 bún chả
+Thay đổi bún chả thành 2
+Tôi muốn đặt 1 bún chả vào 12 giờ
+Xóa cơm tấm khỏi đơn
+Đổi bún chả thành 1 UNIT
+Tôi muốn đặt 1 bún chả
+Thay cơm tấm bằng 2 UNIT
+Thay phở bò bằng 3 UNIT
+Giá gà rán
+Tôi muốn đặt 3 bún chả vào 12 giờ
+Tôi muốn đặt 1 trà sữa
+Bỏ cơm tấm đi
+Cho mình 3 bún chả
+Tôi muốn đặt 2 gà rán vào 12 giờ

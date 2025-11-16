@@ -1,0 +1,79 @@
+# Sentence 1
+# Logical form
+OrderIntent()
+Order(item='phở bò', quantity=2)
+DeliverTime('giao lúc 12')
+# Procedural semantics
+procedure: create_order(session)
+procedure: add_to_cart(item='phở bò', qty=2)
+procedure: set_delivery_time('giao lúc 12')
+
+# Sentence 2
+# Logical form
+()
+# Procedural semantics
+()
+
+# Sentence 3
+# Logical form
+OrderIntent()
+Order(item='trà sữa', quantity=1)
+# Procedural semantics
+procedure: create_order(session)
+procedure: add_to_cart(item='trà sữa', qty=1)
+
+# Sentence 4
+# Logical form
+Cancel(item='gà rán')
+# Procedural semantics
+procedure: remove_from_cart('gà rán')
+
+# Sentence 5
+# Logical form
+AskPrice(item='phở bò')
+# Procedural semantics
+procedure: query_price('phở bò')
+
+# Sentence 6
+# Logical form
+AskMenu()
+# Procedural semantics
+procedure: list_menu()
+
+# Sentence 7
+# Logical form
+AskMyOrder()
+# Procedural semantics
+procedure: show_cart()
+
+# Sentence 8
+# Logical form
+OrderIntent()
+Order(item='cơm tấm', quantity=1)
+# Procedural semantics
+procedure: create_order(session)
+procedure: add_to_cart(item='cơm tấm', qty=1)
+
+# Sentence 9
+# Logical form
+Cancel(item='gà rán')
+# Procedural semantics
+procedure: remove_from_cart('gà rán')
+
+# Sentence 10
+# Logical form
+()
+# Procedural semantics
+()
+
+# Sentence 11
+# Logical form
+Modify(item='phở bò,', quantity=3)
+# Procedural semantics
+procedure: set_item_quantity('phở bò,', 3)
+
+# Sentence 12
+# Logical form
+AskMyOrder()
+# Procedural semantics
+procedure: show_cart()

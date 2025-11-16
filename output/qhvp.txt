@@ -1,0 +1,44 @@
+# Sentence 1
+intent(order)
+order_db_add(item:phở bò, price:45000, quantity:2)
+deliver_time(giao lúc 12)
+
+# Sentence 2
+intent(ask_availability)
+ask_availability(item:bún chả)
+
+# Sentence 3
+intent(order)
+order_db_add(item:trà sữa, price:30000, quantity:1)
+
+# Sentence 4
+intent(cancel_item)
+order_db_remove(item:gà rán)
+
+# Sentence 5
+intent(ask_price)
+db_query_price(item:phở bò, price:45000)
+
+# Sentence 6
+db_query_all_menu
+
+# Sentence 7
+order_db_list
+
+# Sentence 8
+intent(order)
+order_db_add(item:cơm tấm, price:40000, quantity:1)
+
+# Sentence 9
+intent(cancel_item)
+order_db_remove(item:gà rán)
+
+# Sentence 10
+()
+
+# Sentence 11
+intent(modify_item)
+order_db_modify(item:phở bò, quantity:3)
+
+# Sentence 12
+order_db_list

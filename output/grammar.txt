@@ -1,0 +1,6 @@
+# grammar (compact)
+ORDER -> Tôi muốn đặt QUANTITY ITEM TIME | Cho tôi QUANTITY ITEM | Cho mình QUANTITY ITEM
+MODIFY -> Đổi ITEM thành QUANTITY UNIT | Thay ITEM bằng QUANTITY UNIT | Thay đổi ITEM thành QUANTITY
+CANCEL -> Bỏ ITEM đi | Hủy ITEM | Xóa ITEM khỏi đơn
+ASK_MENU -> Có những món nào trong menu? | Cho tôi xem menu
+ASK_PRICE -> ITEM giá bao nhiêu? | Giá ITEM
