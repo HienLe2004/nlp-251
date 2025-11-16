@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "name": "phở bò",
+      "price": 50000,
+      "options": ["tái", "nhiều rau", "không cay"]
+    },
+    {
+      "name": "bún chả",
+      "price": 40000,
+      "options": ["không cay", "nhiều rau"]
+    },
+    {
+      "name": "trà sữa",
+      "price": 30000,
+      "options": ["ít đường", "nhiều đá"]
+    },
+    {
+      "name": "gà rán",
+      "price": 60000,
+      "options": ["cay", "không cay"]
+    },
+    {
+      "name": "cơm rang",
+      "price": 35000,
+      "options": ["hải sản", "thịt"]
+    },
+    {
+      "name": "nem",
+      "price": 20000,
+      "options": ["chay", "mặn"]
+    },
+    {
+      "name": "bánh mì",
+      "price": 15000,
+      "options": ["thịt", "trứng"]
+    }
+  ],
+  "unit": ["phần", "ly", "suất", "cốc", "cái", "ổ", "tô", "bát"],
+  "number": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tám", "chín", "mười", "mười một", "mười hai"]
+}

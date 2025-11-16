@@ -1,147 +1,3984 @@
-Đổi bún chả thành 3 UNIT
-Tôi muốn đặt 3 trà sữa vào 12 giờ
-Thay phở bò bằng 2 UNIT
-Thay trà sữa bằng 3 UNIT
-Hủy phở bò
-Tôi muốn đặt 3 phở bò
-Tôi muốn đặt 1 phở bò vào 12 giờ
-Đổi cơm tấm thành 3 UNIT
-Tôi muốn đặt 1 phở bò
-Tôi muốn đặt 1 cơm tấm giao lúc 12
-Tôi muốn đặt 1 cơm tấm
-Tôi muốn đặt 2 phở bò
-Cho mình 3 phở bò
-Cho tôi 2 cơm tấm
-Tôi muốn đặt 2 bún chả vào 12 giờ
-Cho tôi 3 phở bò
-Thay đổi bún chả thành 1
-Đổi gà rán thành 3 UNIT
-Cho tôi 1 gà rán
-Có những món nào trong menu?
-Tôi muốn đặt 2 bún chả giao lúc 12
-Tôi muốn đặt 3 cơm tấm giao lúc 12
-Cho mình 3 gà rán
-Tôi muốn đặt 2 trà sữa
-Tôi muốn đặt 2 cơm tấm
-Cho mình 1 cơm tấm
-Cho mình 1 phở bò
-Thay đổi phở bò thành 3
-Hủy cơm tấm
-Tôi muốn đặt 2 phở bò vào 12 giờ
-Xóa bún chả khỏi đơn
-Cho tôi xem menu
-Đổi gà rán thành 2 UNIT
-Tôi muốn đặt 1 bún chả giao lúc 12
-Bỏ phở bò đi
-Cho tôi 1 trà sữa
-Tôi muốn đặt 3 cơm tấm vào 12 giờ
-Cho mình 2 trà sữa
-Cho mình 2 gà rán
-Đổi trà sữa thành 1 UNIT
-Hủy bún chả
-Thay gà rán bằng 1 UNIT
-Thay đổi gà rán thành 1
-Tôi muốn đặt 3 phở bò giao lúc 12
-Cho mình 3 trà sữa
-Thay gà rán bằng 3 UNIT
-Tôi muốn đặt 1 gà rán giao lúc 12
-Tôi muốn đặt 3 phở bò vào 12 giờ
-Cho mình 2 cơm tấm
-Cho tôi 1 cơm tấm
-Cho tôi 3 gà rán
-Cho mình 1 trà sữa
-Xóa gà rán khỏi đơn
-Thay đổi cơm tấm thành 1
-Xóa phở bò khỏi đơn
-trà sữa giá bao nhiêu?
-Cho tôi 1 phở bò
-Thay đổi phở bò thành 2
-Tôi muốn đặt 3 bún chả giao lúc 12
-Cho tôi 2 gà rán
-Tôi muốn đặt 2 cơm tấm vào 12 giờ
-Tôi muốn đặt 3 trà sữa giao lúc 12
-Thay trà sữa bằng 1 UNIT
-Cho mình 1 bún chả
-Cho mình 2 bún chả
-Thay bún chả bằng 1 UNIT
-Thay bún chả bằng 3 UNIT
-Tôi muốn đặt 1 phở bò giao lúc 12
-Đổi gà rán thành 1 UNIT
-Thay phở bò bằng 1 UNIT
-Thay đổi cơm tấm thành 3
-Giá phở bò
-Giá cơm tấm
-Tôi muốn đặt 3 cơm tấm
-Thay cơm tấm bằng 3 UNIT
-Hủy trà sữa
-Tôi muốn đặt 3 trà sữa
-Đổi phở bò thành 1 UNIT
-Thay gà rán bằng 2 UNIT
-Tôi muốn đặt 2 gà rán
-Bỏ trà sữa đi
-Cho tôi 3 cơm tấm
-Đổi trà sữa thành 3 UNIT
-bún chả giá bao nhiêu?
-Tôi muốn đặt 3 gà rán vào 12 giờ
-Thay bún chả bằng 2 UNIT
-Thay đổi phở bò thành 1
-Thay đổi cơm tấm thành 2
-Đổi bún chả thành 2 UNIT
-Đổi cơm tấm thành 2 UNIT
-Hủy gà rán
-Thay đổi trà sữa thành 3
-Tôi muốn đặt 3 bún chả
-Đổi phở bò thành 2 UNIT
-Tôi muốn đặt 2 trà sữa giao lúc 12
-Thay đổi gà rán thành 3
-Đổi trà sữa thành 2 UNIT
-Cho mình 3 cơm tấm
-Cho tôi 1 bún chả
-Tôi muốn đặt 2 cơm tấm giao lúc 12
-Cho tôi 2 bún chả
-Thay đổi gà rán thành 2
-Đổi phở bò thành 3 UNIT
-Thay đổi bún chả thành 3
-Tôi muốn đặt 1 gà rán
-Cho tôi 2 trà sữa
-Thay cơm tấm bằng 1 UNIT
-Cho tôi 3 bún chả
-Tôi muốn đặt 1 trà sữa giao lúc 12
-Tôi muốn đặt 2 gà rán giao lúc 12
-Tôi muốn đặt 2 phở bò giao lúc 12
-Thay trà sữa bằng 2 UNIT
-gà rán giá bao nhiêu?
-Thay đổi trà sữa thành 1
-Cho mình 2 phở bò
-Cho tôi 2 phở bò
-Tôi muốn đặt 3 gà rán
-Giá bún chả
-Tôi muốn đặt 1 cơm tấm vào 12 giờ
-Tôi muốn đặt 2 trà sữa vào 12 giờ
-Bỏ bún chả đi
-Tôi muốn đặt 1 gà rán vào 12 giờ
-Tôi muốn đặt 1 trà sữa vào 12 giờ
-Thay đổi trà sữa thành 2
-phở bò giá bao nhiêu?
-Giá trà sữa
-Cho mình 1 gà rán
-cơm tấm giá bao nhiêu?
-Xóa trà sữa khỏi đơn
-Cho tôi 3 trà sữa
-Tôi muốn đặt 3 gà rán giao lúc 12
-Bỏ gà rán đi
-Đổi cơm tấm thành 1 UNIT
-Tôi muốn đặt 2 bún chả
-Thay đổi bún chả thành 2
-Tôi muốn đặt 1 bún chả vào 12 giờ
-Xóa cơm tấm khỏi đơn
-Đổi bún chả thành 1 UNIT
-Tôi muốn đặt 1 bún chả
-Thay cơm tấm bằng 2 UNIT
-Thay phở bò bằng 3 UNIT
-Giá gà rán
-Tôi muốn đặt 3 bún chả vào 12 giờ
-Tôi muốn đặt 1 trà sữa
-Bỏ cơm tấm đi
-Cho mình 3 bún chả
-Tôi muốn đặt 2 gà rán vào 12 giờ
+thêm vào mười hai ly phở bò giúp tôi
+tôi muốn lấy 1 tô trà sữa lúc mười một giờ
+cho tôi hủy bánh mì giúp tôi
+cho thêm 5 bát bún chả
+làm ơn cho tôi cho 1 cốc phở bò hải sản
+làm ơn cho tôi cho 7 ly nem chay bảy giờ
+tôi muốn hủy món bún chả
+thêm vào 9 cơm rang tái trong đơn hàng
+thêm hai phở bò
+cho tôi đặt mười một nem trứng 11 giờ trưa
+làm ơn cho cho 2 phở bò tái
+làm ơn cho tôi đặt 5 ổ bánh mì
+cho thêm 5 gà rán giúp tôi
+làm ơn cho tôi bỏ món gà rán vào đơn
+tôi muốn cho mười một cơm rang lúc mười giờ sáng
+thêm bốn cốc trà sữa trong đơn hàng
+cho thêm 10 cái cơm rang cay trong đơn hàng
+làm ơn cho xóa cơm rang vào đơn nhé
+làm ơn cho tôi hủy món trà sữa
+thêm tám bát bánh mì
+tôi muốn đặt sáu tô gà rán mười một giờ trưa
+cho thêm 12 gà rán cay
+thêm vào bốn gà rán
+làm ơn cho tôi đặt 12 phần bún chả lúc hai giờ sáng
+cho thêm 6 tô phở bò không cay
+có món trà sữa không
+thêm 4 ly phở bò nhiều đá giúp tôi
+cho thêm 4 ổ gà rán vào đơn nhé
+có bún chả không
+làm ơn cho tôi bỏ gà rán vào đơn
+thêm vào 1 bún chả chay vào đơn nhé
+làm ơn cho tôi lấy mười tô trà sữa tái
+thêm vào 3 gà rán vào đơn nhé
+cho thêm ba ly nem
+làm ơn cho tôi lấy năm ly gà rán không cay bảy giờ
+tôi muốn lấy 5 tô trà sữa
+cho thêm mười cái cơm rang
+thêm chín tô phở bò thịt giúp tôi
+cho tôi xóa món trà sữa vào đơn nhé
+cho thêm 2 suất bánh mì
+cho thêm 5 gà rán
+cho tôi bỏ món bánh mì
+làm ơn cho xóa phở bò
+cho thêm bốn cơm rang chay vào đơn nhé
+cho tôi cho 2 cơm rang nhiều rau
+làm ơn cho tôi hủy gà rán vào đơn
+tôi muốn cho hai bánh mì thịt
+làm ơn cho lấy mười một cơm rang 9 giờ sáng
+tôi muốn cho 12 cơm rang chay 12 giờ
+cho thêm 10 gà rán không cay
+làm ơn cho bỏ phở bò trong đơn hàng
+tôi muốn cho 3 phở bò mười một giờ
+thêm vào 3 cơm rang
+cho thêm hai bánh mì nhiều rau
+tôi muốn bỏ bánh mì vào đơn
+thêm vào 11 cốc phở bò vào đơn nhé
+cho tôi cho ba ly gà rán
+thêm vào ba bún chả hải sản
+thêm 2 cốc gà rán vào đơn nhé
+làm ơn cho cho năm cốc gà rán mười một giờ
+làm ơn cho hủy nem vào đơn
+cho thêm 2 ổ bánh mì
+tôi muốn đặt 6 bún chả cay giao lúc mười giờ
+làm ơn cho tôi đặt bảy phần gà rán cay vào lúc 10 giờ trưa
+làm ơn cho tôi cho 8 tô phở bò thịt sáu giờ sáng
+tôi muốn xóa bánh mì vào đơn
+cho tôi lấy tám trà sữa trứng
+cho tôi lấy hai gà rán 1 giờ trưa
+làm ơn cho tôi cho 11 phần bánh mì ít đường vào mười hai giờ tối
+cho thêm một gà rán
+cho thêm 7 suất bún chả thịt
+làm ơn cho tôi cho 5 phở bò
+cho thêm 9 bún chả chay
+làm ơn cho tôi lấy 7 bánh mì 5 giờ
+tôi muốn đặt 12 trà sữa
+cho tôi lấy 8 phở bò chín giờ
+làm ơn cho đặt bảy nem
+cho tôi lấy năm phần phở bò thịt lúc 12 giờ
+thêm 8 trà sữa ít đường
+cho thêm 4 trà sữa không cay
+thêm 8 tô bánh mì
+cho thêm mười hai phở bò vào đơn
+thêm sáu nem giúp tôi
+làm ơn cho bỏ gà rán vào đơn
+cho tôi đặt 8 bánh mì ít đường
+cho thêm 8 trà sữa
+thêm vào mười một cốc cơm rang
+làm ơn cho tôi hủy cơm rang vào đơn nhé
+tôi muốn cho tám bánh mì tám giờ
+làm ơn cho đặt tám cái bánh mì
+thêm 9 suất cơm rang vào đơn
+cho tôi cho mười hai nem không cay 8 giờ chiều
+làm ơn cho tôi cho ba tô gà rán không cay lúc ba giờ tối
+thêm vào 6 nem giúp tôi
+cho tôi hủy món trà sữa
+cho thêm năm bún chả trong đơn hàng
+tôi muốn lấy ba bún chả hải sản
+thêm vào sáu cốc gà rán nhiều rau vào đơn nhé
+làm ơn cho tôi cho 7 nem
+thêm vào tám nem
+làm ơn cho cho mười bún chả
+thêm vào mười ổ bún chả hải sản
+cho thêm hai phở bò mặn trong đơn hàng
+làm ơn cho cho 6 cốc gà rán chay vào 11 giờ trưa
+làm ơn cho tôi lấy bốn cái bún chả
+thêm sáu ổ cơm rang vào đơn nhé
+tôi muốn đặt 8 phở bò
+làm ơn cho tôi xóa món phở bò vào đơn nhé
+thêm vào chín cốc trà sữa vào đơn
+làm ơn cho đặt mười một gà rán
+làm ơn cho tôi cho 3 bún chả 4 giờ
+có những món nào
+cho tôi xóa món bún chả
+làm ơn cho tôi lấy 5 bún chả trứng ba giờ
+cho tôi cho 12 tô bánh mì vào 9 giờ
+làm ơn cho đặt 3 ổ bún chả 1 giờ chiều
+thêm vào 10 trà sữa nhiều đá
+tôi muốn xóa nem trong đơn hàng
+tôi muốn đặt 11 ổ phở bò hải sản mười một giờ
+cho thêm chín ổ cơm rang trong đơn hàng
+làm ơn cho tôi bỏ gà rán
+làm ơn cho cho 1 gà rán nhiều rau 7 giờ trưa
+làm ơn cho tôi đặt bốn cốc gà rán bốn giờ trưa
+làm ơn cho xóa món phở bò vào đơn nhé
+tôi muốn lấy 8 ly gà rán vào 1 giờ trưa
+cho tôi lấy 12 tô bánh mì
+thêm vào 5 nem giúp tôi
+làm ơn cho tôi lấy mười gà rán giao 12 giờ
+tôi muốn hủy món nem trong đơn hàng
+thêm vào 12 tô bánh mì nhiều đá
+làm ơn cho cho 4 suất nem lúc 3 giờ tối
+tôi muốn đặt ba cơm rang nhiều đá
+thêm vào mười một phần bún chả tái vào đơn nhé
+làm ơn cho tôi lấy chín cơm rang thịt
+làm ơn cho lấy 8 cơm rang 1 giờ chiều
+thêm vào 10 bún chả trứng
+làm ơn cho tôi cho chín ổ nem nhiều rau vào lúc 7 giờ
+gà rán bao nhiêu tiền
+cho tôi đặt chín cái trà sữa 12 giờ sáng
+cho tôi xóa món bún chả trong đơn hàng
+tôi muốn xóa gà rán vào đơn
+làm ơn cho hủy món gà rán
+làm ơn cho tôi lấy 10 nem vào lúc bảy giờ
+làm ơn cho tôi đặt 2 phở bò lúc sáu giờ trưa
+làm ơn cho tôi bỏ món cơm rang
+làm ơn cho hủy món trà sữa giúp tôi
+thêm 6 ổ trà sữa trong đơn hàng
+thêm chín gà rán cay vào đơn nhé
+tôi muốn lấy 6 trà sữa
+thêm vào 1 cơm rang vào đơn
+cho tôi bỏ cơm rang
+làm ơn cho tôi đặt mười hai phở bò
+làm ơn cho tôi đặt 7 ổ trà sữa không cay
+thêm vào bốn ly bún chả cay vào đơn nhé
+quán có phở bò không
+thêm bảy nem ít đường
+thêm 6 ly bánh mì không cay
+làm ơn cho đặt 12 cơm rang
+cho thêm 10 gà rán
+thêm 4 cốc bún chả thịt giúp tôi
+cho tôi cho tám cốc bánh mì chín giờ
+làm ơn cho cho 6 gà rán không cay
+cho thêm bảy gà rán vào đơn nhé
+tôi muốn hủy cơm rang
+cho tôi đặt bốn ly nem mặn giao mười giờ tối
+làm ơn cho tôi lấy sáu tô nem
+làm ơn cho cho 10 phở bò vào lúc bốn giờ sáng
+cho tôi cho chín phần nem 9 giờ
+làm ơn cho cho sáu phở bò ít đường 4 giờ
+làm ơn cho lấy 4 cốc cơm rang tái
+cho tôi đặt 8 trà sữa
+cho tôi xóa món bánh mì giúp tôi
+thêm vào 9 gà rán giúp tôi
+thêm mười hai cái phở bò chay trong đơn hàng
+thêm 3 trà sữa trong đơn hàng
+tôi muốn xóa món phở bò trong đơn hàng
+làm ơn cho tôi lấy 5 cái gà rán không cay
+làm ơn cho tôi đặt tám phần phở bò hải sản sáu giờ sáng
+thêm vào sáu cốc phở bò
+cho tôi xóa trà sữa
+cho thêm 4 phở bò tái
+cho tôi lấy một bún chả
+làm ơn cho tôi cho 5 suất cơm rang
+thêm 10 bánh mì không cay vào đơn
+cho thêm bảy ổ gà rán cay
+thêm vào 9 ổ cơm rang trong đơn hàng
+tôi muốn đặt bốn cái bánh mì tái vào một giờ trưa
+làm ơn cho đặt một cơm rang thịt mười hai giờ
+cho tôi cho 12 tô cơm rang 10 giờ
+thêm vào một cơm rang trong đơn hàng
+tôi muốn xóa trà sữa giúp tôi
+cho thêm 6 cái bánh mì chay
+thêm 2 trà sữa nhiều rau
+làm ơn cho đặt mười một bát bún chả hải sản
+thêm vào bốn cái phở bò ít đường vào đơn nhé
+tôi muốn cho 11 suất nem
+thêm mười tô gà rán giúp tôi
+làm ơn cho cho bảy bún chả
+cho thêm 6 suất trà sữa
+tôi muốn hủy trà sữa vào đơn
+làm ơn cho hủy nem vào đơn nhé
+thêm 10 trà sữa
+làm ơn cho tôi lấy 9 trà sữa
+thêm vào tám nem tái giúp tôi
+tôi muốn cho mười hai cốc trà sữa chay 11 giờ
+cho thêm bốn tô cơm rang cay
+cho thêm 7 cơm rang trứng
+thêm bốn trà sữa tái
+tôi muốn hủy cơm rang vào đơn
+bánh mì bao nhiêu tiền
+làm ơn cho đặt 1 bún chả nhiều rau tám giờ sáng
+thêm 11 cái nem nhiều rau vào đơn
+làm ơn cho tôi cho năm trà sữa
+thêm vào 7 tô cơm rang không cay vào đơn
+cho thêm 10 phở bò
+cho thêm 2 cái phở bò
+cho tôi lấy bốn bún chả nhiều đá
+thêm 8 suất phở bò thịt
+làm ơn cho hủy bánh mì vào đơn nhé
+cho thêm mười bún chả trong đơn hàng
+thêm vào 6 tô phở bò trong đơn hàng
+thêm vào 6 gà rán mặn vào đơn nhé
+làm ơn cho đặt 5 cơm rang mặn mười giờ
+bún chả giá bao nhiêu
+làm ơn cho tôi hủy món phở bò trong đơn hàng
+cho tôi lấy mười hai bánh mì 4 giờ chiều
+tôi muốn cho 12 phần gà rán trứng
+làm ơn cho lấy 4 nem chay
+làm ơn cho tôi cho 11 ổ cơm rang 3 giờ sáng
+thêm 10 bánh mì vào đơn
+làm ơn cho tôi lấy ba bánh mì nhiều rau
+thêm vào bốn cốc phở bò
+tôi muốn đặt ba trà sữa
+làm ơn cho đặt hai gà rán thịt
+cho thêm 10 phần phở bò vào đơn nhé
+cho thêm 3 nem thịt vào đơn
+cho thêm 4 phần trà sữa
+thêm vào hai cốc cơm rang vào đơn nhé
+thêm 11 phở bò
+có gà rán không
+thêm 2 cơm rang chay
+tôi muốn lấy bốn nem mười giờ tối
+thêm mười nem cay
+cho thêm 3 cái trà sữa giúp tôi
+làm ơn cho đặt mười cơm rang giao lúc sáu giờ
+cho tôi bỏ món gà rán vào đơn
+làm ơn cho tôi hủy món phở bò vào đơn nhé
+thêm vào chín bún chả thịt vào đơn
+làm ơn cho tôi cho 7 cơm rang cay bốn giờ chiều
+làm ơn cho tôi hủy nem trong đơn hàng
+tôi muốn bỏ món trà sữa vào đơn
+làm ơn cho lấy tám ly bánh mì hải sản bảy giờ
+làm ơn cho tôi đặt bảy tô phở bò vào một giờ tối
+làm ơn cho đặt 1 suất bún chả không cay vào lúc hai giờ
+thêm 12 ổ phở bò hải sản
+cho thêm 7 gà rán giúp tôi
+cho tôi lấy 9 bánh mì
+tôi muốn lấy 3 cốc nem bốn giờ tối
+thêm vào mười cái cơm rang không cay
+thêm 2 phở bò trứng vào đơn
+cho thêm 2 ly bánh mì tái
+cho thêm 8 bát nem giúp tôi
+cho thêm 11 bún chả
+thêm 10 bún chả vào đơn
+tôi muốn cho 10 cốc phở bò nhiều đá
+cho thêm sáu ổ trà sữa cay
+làm ơn cho tôi bỏ món bánh mì trong đơn hàng
+thêm 2 bún chả
+cho tôi đặt 5 cốc phở bò
+thêm vào 4 cơm rang
+cho tôi đặt 3 cái trà sữa
+cho thêm 1 tô phở bò không cay
+có bánh mì không
+thêm vào 11 tô gà rán vào đơn nhé
+cho thêm bảy ly phở bò vào đơn nhé
+thêm 8 tô phở bò tái vào đơn
+tôi muốn cho 2 gà rán không cay
+cho thêm 8 bánh mì
+thêm vào 4 cái bánh mì vào đơn
+thêm vào tám tô nem
+thêm vào mười nem
+tôi muốn xóa gà rán trong đơn hàng
+làm ơn cho bỏ trà sữa vào đơn nhé
+làm ơn cho tôi đặt năm cái bánh mì thịt
+làm ơn cho lấy 9 bánh mì trứng
+làm ơn cho cho 7 phở bò ít đường
+tôi muốn đặt 4 cái bún chả giao một giờ
+cho thêm bảy ly nem hải sản
+cho tôi lấy hai cốc cơm rang
+làm ơn cho tôi đặt 12 suất bún chả
+thêm vào bốn ly cơm rang
+làm ơn cho tôi hủy nem vào đơn
+tôi muốn lấy 7 bún chả
+làm ơn cho lấy 4 gà rán trứng
+cho tôi lấy 3 ly nem giao mười giờ chiều
+thêm vào 8 cơm rang trong đơn hàng
+thêm tám cơm rang mặn vào đơn nhé
+làm ơn cho tôi đặt hai phở bò tái lúc 12 giờ chiều
+thêm vào 12 ly nem tái
+cho tôi lấy mười hai suất gà rán thịt
+thêm chín tô bún chả mặn
+tôi muốn bỏ gà rán trong đơn hàng
+cho thêm năm cốc bánh mì cay
+thêm mười một cốc nem
+làm ơn cho tôi đặt 3 bánh mì mặn
+thêm vào 7 nem ít đường vào đơn
+thêm 9 bún chả tái
+làm ơn cho tôi cho 2 phần trà sữa 4 giờ
+làm ơn cho tôi cho 4 suất trà sữa tái giao lúc 2 giờ
+làm ơn cho cho tám suất bánh mì
+làm ơn cho đặt 2 trà sữa mặn
+cho thêm 6 bún chả không cay
+cho tôi xóa bánh mì vào đơn nhé
+cho tôi cho 12 cái bún chả thịt 3 giờ chiều
+cho tôi cho một gà rán vào bảy giờ
+thêm vào 6 bát gà rán nhiều rau
+tôi muốn lấy hai ổ gà rán
+cho thêm 2 cái phở bò mặn trong đơn hàng
+cho thêm năm bát cơm rang vào đơn nhé
+cho thêm 3 cơm rang cay
+thêm vào 1 phần bánh mì trong đơn hàng
+cho tôi đặt mười một cái gà rán nhiều đá vào lúc 5 giờ
+thêm một bánh mì thịt
+thêm bốn suất gà rán ít đường vào đơn nhé
+cho thêm ba cơm rang nhiều đá vào đơn
+cho thêm 5 phở bò thịt vào đơn
+thêm vào 8 ổ cơm rang
+tôi muốn bỏ trà sữa
+làm ơn cho tôi bỏ món trà sữa vào đơn
+cho thêm 8 phở bò cay
+cho thêm 1 nem trong đơn hàng
+tôi muốn đặt một tô gà rán vào 11 giờ trưa
+làm ơn cho cho 5 nem 6 giờ sáng
+tôi muốn cho 12 bún chả nhiều rau
+cho thêm 12 ly gà rán thịt
+làm ơn cho đặt 4 ổ trà sữa 2 giờ tối
+thêm mười hai cái cơm rang
+thêm mười gà rán ít đường trong đơn hàng
+làm ơn cho tôi hủy bún chả vào đơn nhé
+cho tôi đặt 8 gà rán
+làm ơn cho tôi đặt 4 bún chả chay giao 11 giờ chiều
+thêm 5 phở bò thịt vào đơn
+cho tôi đặt sáu phở bò giao 3 giờ chiều
+tôi muốn đặt 9 bát gà rán
+cho thêm 9 trà sữa mặn
+thêm sáu gà rán
+thêm vào 1 ổ nem chay
+tôi muốn cho 10 tô cơm rang chín giờ
+thêm vào 5 gà rán giúp tôi
+cho thêm tám cơm rang cay trong đơn hàng
+cho tôi đặt 2 bún chả bảy giờ trưa
+thêm hai phần cơm rang vào đơn
+làm ơn cho tôi xóa món gà rán giúp tôi
+thêm ba bánh mì
+cho tôi cho 7 trà sữa vào lúc 4 giờ sáng
+thêm năm trà sữa thịt
+quán có món nem không
+thêm vào 1 bát trà sữa vào đơn
+thêm vào chín gà rán mặn
+thêm năm ly gà rán trong đơn hàng
+làm ơn cho đặt ba cơm rang nhiều đá
+cho tôi đặt mười phần gà rán mặn
+thêm vào 4 tô phở bò
+tôi muốn bỏ phở bò
+làm ơn cho tôi hủy nem
+ở đây có món phở bò không
+thêm 8 bánh mì ít đường
+làm ơn cho tôi hủy trà sữa
+làm ơn cho tôi cho 9 gà rán hải sản giao năm giờ chiều
+thêm vào 1 bún chả vào đơn nhé
+tôi muốn cho 9 ly bún chả
+thêm 5 phở bò
+làm ơn cho hủy bún chả vào đơn
+làm ơn cho tôi cho mười một suất phở bò chay
+thêm 9 phở bò vào đơn nhé
+thêm vào 4 bánh mì
+thêm hai phở bò chay vào đơn
+làm ơn cho tôi lấy 12 cái gà rán thịt mười giờ chiều
+tôi muốn lấy năm gà rán
+làm ơn cho tôi lấy chín phở bò mặn giao lúc một giờ trưa
+tôi muốn cho bốn phở bò nhiều đá mười hai giờ tối
+làm ơn cho tôi cho mười hai ly bánh mì
+thêm vào 6 cái phở bò
+cho tôi hủy món nem
+tôi muốn bỏ món cơm rang
+làm ơn cho xóa món nem giúp tôi
+cho tôi xóa nem vào đơn nhé
+tôi muốn đặt sáu bánh mì 8 giờ
+cho tôi xóa bánh mì trong đơn hàng
+làm ơn cho tôi cho tám ổ bánh mì 10 giờ tối
+cho thêm 9 ổ trà sữa vào đơn
+làm ơn cho tôi đặt 1 bát trà sữa mặn năm giờ tối
+cho thêm 6 gà rán vào đơn
+thêm vào 9 gà rán cay
+làm ơn cho tôi cho 12 gà rán tái giao 10 giờ chiều
+làm ơn cho cho mười gà rán lúc 9 giờ
+thêm 1 cốc bún chả nhiều đá giúp tôi
+làm ơn cho cho 1 phở bò bảy giờ
+cho tôi xóa gà rán trong đơn hàng
+cho tôi đặt 9 tô trà sữa ít đường
+làm ơn cho tôi cho 12 cái nem vào 1 giờ trưa
+thêm vào 6 phần bún chả
+cho tôi cho hai ly gà rán không cay
+thêm bảy bún chả vào đơn nhé
+cho thêm chín nem trứng
+làm ơn cho tôi hủy phở bò
+cho tôi hủy trà sữa
+cho tôi hủy món bánh mì trong đơn hàng
+làm ơn cho tôi xóa bánh mì trong đơn hàng
+làm ơn cho tôi đặt 10 nem ba giờ trưa
+thêm 9 ly gà rán vào đơn nhé
+thêm ba bún chả trứng
+làm ơn cho cho 1 ổ bánh mì giao 12 giờ
+làm ơn cho xóa món nem
+thêm vào 10 phở bò nhiều đá vào đơn
+làm ơn cho lấy 11 ly phở bò
+tôi muốn lấy 10 phần phở bò
+làm ơn cho tôi cho 12 cơm rang ít đường
+cho tôi bỏ món nem trong đơn hàng
+làm ơn cho cho 8 bún chả mặn giao lúc hai giờ trưa
+làm ơn cho tôi cho năm cái bánh mì không cay 7 giờ chiều
+cho thêm một phở bò vào đơn nhé
+cho thêm 2 cốc nem giúp tôi
+cho tôi hủy món bún chả
+thêm vào 8 bát trà sữa mặn trong đơn hàng
+làm ơn cho cho sáu suất bún chả
+cho thêm 7 gà rán không cay vào đơn nhé
+thêm hai cơm rang vào đơn nhé
+làm ơn cho hủy bánh mì
+tôi muốn lấy 12 bún chả cay
+cho tôi lấy bảy phần phở bò không cay giao 1 giờ
+thêm vào 7 phở bò giúp tôi
+thêm năm bún chả nhiều đá trong đơn hàng
+cho thêm 7 ly trà sữa nhiều đá vào đơn
+thêm 11 cốc trà sữa mặn
+thêm 6 phở bò giúp tôi
+thêm 11 trà sữa giúp tôi
+thêm mười hai bún chả trứng vào đơn
+tôi muốn hủy món gà rán trong đơn hàng
+thêm 4 trà sữa trứng
+thêm vào bốn bún chả
+cho thêm bốn cơm rang chay vào đơn
+thêm một ly phở bò tái
+làm ơn cho đặt 8 gà rán giao mười giờ tối
+cho tôi đặt 11 ly phở bò hải sản giao lúc 9 giờ
+thêm vào 8 suất gà rán trứng
+làm ơn cho đặt 1 ổ bún chả cay lúc bảy giờ sáng
+cho tôi đặt 9 ổ bánh mì
+làm ơn cho tôi lấy bảy tô phở bò tái
+làm ơn cho tôi hủy món gà rán
+thêm 6 phở bò
+làm ơn cho bỏ món phở bò
+cho thêm sáu tô phở bò
+cho thêm 11 gà rán nhiều đá
+cho tôi lấy 11 bánh mì cay
+làm ơn cho lấy 3 phở bò nhiều rau
+cho thêm 9 phở bò trứng giúp tôi
+cho thêm bảy tô gà rán mặn
+làm ơn cho tôi cho 8 phần cơm rang
+tôi muốn lấy 6 cốc nem hải sản 3 giờ
+làm ơn cho tôi cho 8 ổ gà rán
+cho thêm 6 bún chả trong đơn hàng
+cho thêm bảy bún chả giúp tôi
+làm ơn cho lấy sáu cốc bánh mì
+làm ơn cho tôi cho 8 cơm rang
+làm ơn cho tôi hủy món bánh mì vào đơn
+làm ơn cho tôi cho một phở bò ba giờ trưa
+cho thêm 9 gà rán ít đường
+thêm bốn phở bò thịt
+thêm vào 11 ổ nem
+cho tôi cho 5 gà rán trứng
+tôi muốn cho mười một nem mặn 12 giờ
+làm ơn cho tôi cho tám bát cơm rang
+làm ơn cho tôi đặt bốn cái nem vào lúc chín giờ chiều
+làm ơn cho tôi lấy tám bánh mì
+tôi muốn lấy một cái trà sữa ít đường
+cho tôi lấy hai bún chả
+cho tôi xóa món trà sữa
+món bún chả bao nhiêu tiền
+cho thêm sáu bún chả
+làm ơn cho tôi cho 1 ly bún chả
+cho tôi cho hai phở bò nhiều đá vào mười một giờ chiều
+thêm 2 trà sữa chay vào đơn
+tôi muốn cho tám bánh mì chay
+thêm 1 suất trà sữa nhiều rau
+thêm vào 8 nem không cay
+tôi muốn cho 9 cái phở bò
+làm ơn cho cho 1 ổ cơm rang giao 10 giờ trưa
+làm ơn cho lấy 10 trà sữa tám giờ sáng
+làm ơn cho tôi lấy năm cơm rang hải sản
+tôi muốn lấy 11 ly bún chả vào lúc bốn giờ tối
+thêm vào 4 cái gà rán vào đơn nhé
+làm ơn cho lấy 8 cốc nem lúc bảy giờ
+thêm vào 10 bún chả hải sản
+thêm 7 phở bò chay
+tôi muốn đặt năm trà sữa tái giao bảy giờ
+làm ơn cho tôi hủy món bánh mì trong đơn hàng
+thêm tám gà rán ít đường giúp tôi
+cho thêm ba bát gà rán
+cho thêm một phần gà rán nhiều rau
+làm ơn cho tôi cho 12 ly nem thịt
+ở đây có bún chả không
+cho tôi bỏ bánh mì vào đơn nhé
+thêm mười một bún chả trong đơn hàng
+tôi muốn đặt 5 bát nem giao 2 giờ
+nhà hàng có món trà sữa không
+làm ơn cho tôi đặt 7 ổ cơm rang
+làm ơn cho tôi đặt 6 phở bò ít đường giao lúc 2 giờ
+nhà hàng có món bánh mì không
+tôi muốn hủy bún chả giúp tôi
+cho tôi đặt 11 nem
+cho thêm ba bát gà rán giúp tôi
+làm ơn cho lấy mười hai trà sữa thịt mười giờ tối
+làm ơn cho tôi hủy món bánh mì vào đơn nhé
+làm ơn cho tôi xóa món trà sữa giúp tôi
+làm ơn cho cho 6 bún chả lúc 11 giờ
+cho tôi cho ba cơm rang thịt
+làm ơn cho lấy hai tô phở bò lúc mười hai giờ
+cho thêm 5 cốc bún chả mặn vào đơn
+thêm vào mười hai cái bánh mì trong đơn hàng
+thêm 9 phần cơm rang vào đơn nhé
+cho tôi đặt 1 suất gà rán lúc sáu giờ
+làm ơn cho bỏ nem giúp tôi
+làm ơn cho tôi cho 7 bún chả hải sản giao 6 giờ tối
+làm ơn cho bỏ trà sữa
+thêm vào mười một tô nem
+làm ơn cho tôi bỏ món cơm rang giúp tôi
+làm ơn cho tôi lấy 8 gà rán nhiều đá 1 giờ tối
+có món nem không
+thêm 1 cơm rang
+cho thêm 2 tô nem chay vào đơn
+thêm năm ly bánh mì
+làm ơn cho tôi đặt 6 nem mặn
+cho thêm ba ly nem thịt
+tôi muốn lấy 6 bún chả hải sản
+thêm vào mười cái nem
+thêm 8 bát bún chả
+thêm vào 2 bánh mì giúp tôi
+tôi muốn cho 6 trà sữa ít đường vào lúc 6 giờ chiều
+thêm 4 bún chả vào đơn
+cho tôi hủy cơm rang trong đơn hàng
+thêm vào hai bún chả
+cho thêm 4 tô cơm rang nhiều đá giúp tôi
+cho thêm mười bánh mì cay vào đơn
+thêm vào 3 suất phở bò trong đơn hàng
+thêm vào 8 phở bò vào đơn nhé
+cho tôi cho 12 trà sữa tái
+làm ơn cho tôi xóa nem
+làm ơn cho đặt 5 nem mặn
+làm ơn cho tôi hủy bánh mì vào đơn
+tôi muốn lấy 5 bún chả
+cho thêm ba cơm rang nhiều đá vào đơn nhé
+làm ơn cho lấy hai phần cơm rang vào 8 giờ
+cho thêm một cốc nem
+thêm mười bánh mì nhiều rau
+cho thêm 5 ổ bún chả vào đơn
+cho tôi hủy món bánh mì
+thêm 8 nem
+cho thêm tám suất nem tái
+thêm vào 1 cốc nem hải sản giúp tôi
+tôi muốn hủy món nem vào đơn nhé
+thêm vào 9 suất trà sữa
+làm ơn cho tôi đặt 5 nem mười giờ tối
+cho tôi lấy 3 bún chả không cay
+tôi muốn hủy nem vào đơn nhé
+thêm vào 2 bún chả giúp tôi
+thêm một cốc nem vào đơn nhé
+làm ơn cho cho 3 gà rán vào năm giờ
+làm ơn cho tôi đặt sáu bún chả
+thêm vào 6 cốc nem giúp tôi
+cho thêm bảy bánh mì trong đơn hàng
+làm ơn cho đặt chín cái phở bò mặn
+thêm vào 8 phở bò nhiều đá trong đơn hàng
+làm ơn cho tôi xóa món trà sữa
+tôi muốn lấy 11 cơm rang tái
+thêm ba nem
+cho thêm chín gà rán
+làm ơn cho đặt ba ổ nem hải sản giao ba giờ trưa
+làm ơn cho tôi đặt 9 phần bánh mì
+cho tôi lấy 1 phở bò 9 giờ
+thêm bảy cốc trà sữa
+cho thêm sáu ổ cơm rang vào đơn nhé
+cho thêm mười hai nem trong đơn hàng
+làm ơn cho đặt 5 trà sữa giao ba giờ chiều
+món nem bao nhiêu tiền
+cho thêm 9 suất trà sữa
+làm ơn cho đặt tám phần nem
+làm ơn cho đặt 10 bún chả mặn giao 1 giờ
+làm ơn cho tôi cho 8 bún chả hai giờ chiều
+thêm vào tám nem nhiều rau trong đơn hàng
+làm ơn cho tôi lấy 3 cơm rang vào 1 giờ
+cho thêm 1 ly gà rán chay
+làm ơn cho hủy trà sữa giúp tôi
+làm ơn cho tôi lấy 6 phần bún chả giao hai giờ
+thêm vào 12 phở bò chay vào đơn nhé
+thêm vào tám tô nem không cay
+làm ơn cho tôi đặt 6 ổ nem hải sản
+làm ơn cho xóa cơm rang
+thêm hai cốc cơm rang cay vào đơn
+làm ơn cho tôi xóa món cơm rang
+cho tôi bỏ món bánh mì vào đơn nhé
+thêm mười hai ly cơm rang ít đường vào đơn
+làm ơn cho tôi cho hai ổ cơm rang trứng
+tôi muốn cho bốn bát phở bò không cay hai giờ trưa
+thêm vào chín tô nem trong đơn hàng
+tôi muốn hủy món bún chả vào đơn nhé
+tôi muốn xóa món trà sữa vào đơn
+thêm 2 bún chả không cay
+cho thêm mười hai bát phở bò trong đơn hàng
+làm ơn cho tôi cho 8 ly nem tái
+thêm 2 gà rán mặn
+làm ơn cho tôi xóa nem trong đơn hàng
+làm ơn cho lấy mười hai phở bò trứng giao lúc tám giờ sáng
+làm ơn cho tôi bỏ bánh mì trong đơn hàng
+làm ơn cho tôi lấy 10 ly trà sữa mặn
+tôi muốn đặt 10 cơm rang thịt vào lúc 12 giờ tối
+làm ơn cho tôi cho bảy phở bò
+thêm vào một ly trà sữa
+thêm vào 8 phần bún chả ít đường vào đơn
+làm ơn cho lấy 11 bát gà rán 1 giờ
+tôi muốn lấy năm cái phở bò giao lúc 6 giờ trưa
+thêm 7 bát trà sữa trong đơn hàng
+thêm 9 bún chả thịt vào đơn nhé
+cho tôi xóa món gà rán
+tôi muốn lấy ba tô nem
+cho tôi bỏ món phở bò vào đơn
+làm ơn cho tôi cho mười bát bánh mì vào lúc 2 giờ trưa
+cho tôi xóa cơm rang
+làm ơn cho tôi bỏ bánh mì vào đơn
+thêm bảy trà sữa không cay
+cho tôi xóa bánh mì giúp tôi
+cho thêm bảy trà sữa hải sản
+thêm vào 8 cái bún chả trứng
+thêm 10 bún chả nhiều đá vào đơn nhé
+thêm một ổ cơm rang mặn vào đơn
+thêm hai bát gà rán
+thêm 11 phần cơm rang hải sản giúp tôi
+thêm mười bún chả
+tôi muốn đặt 8 trà sữa mặn
+làm ơn cho lấy 8 suất bánh mì tái 12 giờ
+tôi muốn lấy tám tô cơm rang ít đường giao 2 giờ tối
+tôi muốn cho 11 suất cơm rang vào 4 giờ trưa
+cho thêm 3 tô trà sữa trứng vào đơn
+làm ơn cho hủy gà rán vào đơn
+thêm vào 8 bát trà sữa
+cho thêm một cái gà rán
+làm ơn cho hủy món nem vào đơn nhé
+thêm hai phở bò thịt
+cho thêm 3 nem cay vào đơn
+làm ơn cho đặt 5 bánh mì mặn 8 giờ sáng
+tôi muốn đặt mười phần cơm rang
+làm ơn cho đặt ba phần bún chả ít đường 3 giờ trưa
+làm ơn cho cho 4 bún chả trứng giao mười giờ
+thêm vào 4 phần trà sữa
+thêm mười hai phần gà rán ít đường vào đơn
+cho thêm mười hai nem vào đơn nhé
+cho tôi bỏ cơm rang vào đơn
+thêm vào bảy cơm rang
+cho thêm mười trà sữa vào đơn nhé
+cho thêm mười ổ trà sữa
+tôi muốn hủy cơm rang giúp tôi
+cho tôi lấy 5 ổ gà rán thịt
+cho thêm 6 suất phở bò vào đơn
+làm ơn cho tôi lấy chín bát bún chả
+tôi muốn lấy 2 bát bún chả trứng
+làm ơn cho đặt mười hai cơm rang ít đường
+làm ơn cho xóa món cơm rang trong đơn hàng
+làm ơn cho tôi xóa gà rán giúp tôi
+thêm vào sáu nem tái
+làm ơn cho tôi lấy mười hai nem
+thêm vào chín phần bánh mì
+tôi muốn cho mười một suất gà rán nhiều rau 6 giờ
+thêm bốn gà rán vào đơn
+tôi muốn cho 2 cái bánh mì nhiều rau lúc 3 giờ
+thêm hai tô cơm rang vào đơn
+thêm vào bốn cốc gà rán trứng vào đơn nhé
+cho thêm 9 nem giúp tôi
+làm ơn cho cho một cơm rang ít đường vào 1 giờ chiều
+cho thêm mười hai cơm rang
+cho thêm mười một tô bún chả
+tôi muốn xóa gà rán giúp tôi
+tôi muốn cho 2 suất bánh mì
+thêm 9 tô cơm rang
+thêm vào 5 cơm rang trứng
+cho tôi đặt năm phở bò
+tôi muốn đặt năm suất phở bò cay vào lúc sáu giờ chiều
+thêm vào bốn ly gà rán vào đơn nhé
+làm ơn cho tôi cho 1 cốc bánh mì
+thêm vào tám bát phở bò tái
+làm ơn cho tôi đặt 10 cốc cơm rang hải sản lúc 10 giờ
+làm ơn cho cho bốn ổ nem
+làm ơn cho đặt bốn bát bún chả trứng một giờ trưa
+thêm bảy cái trà sữa chay
+cho tôi đặt 12 bún chả cay
+tôi muốn lấy 8 gà rán tái vào lúc chín giờ sáng
+cho thêm ba bánh mì nhiều đá giúp tôi
+làm ơn cho tôi cho 8 gà rán cay
+thêm 4 phở bò
+cho thêm 5 bánh mì
+cho tôi lấy 6 cái gà rán
+cho tôi bỏ món nem vào đơn nhé
+tôi muốn đặt 9 cái cơm rang ít đường 11 giờ
+làm ơn cho đặt sáu phần trà sữa ít đường
+cho thêm 12 trà sữa tái vào đơn nhé
+cho tôi cho 2 nem giao lúc mười một giờ
+tôi muốn bỏ món bún chả vào đơn
+thêm vào 8 gà rán thịt
+tôi muốn đặt sáu tô bún chả ít đường
+thêm một phần phở bò vào đơn nhé
+thêm vào 11 bún chả vào đơn nhé
+thêm 9 trà sữa nhiều đá giúp tôi
+làm ơn cho đặt 6 ổ trà sữa 8 giờ
+tôi muốn lấy sáu nem mặn
+làm ơn cho lấy 3 bánh mì nhiều rau
+làm ơn cho đặt 8 ổ bún chả mặn giao chín giờ
+làm ơn cho tôi hủy món trà sữa trong đơn hàng
+làm ơn cho tôi hủy món nem vào đơn nhé
+làm ơn cho tôi lấy 1 trà sữa nhiều rau giao mười giờ
+cho thêm 1 suất gà rán vào đơn nhé
+cho thêm ba phần phở bò
+cho tôi cho bốn suất phở bò nhiều rau 1 giờ
+làm ơn cho tôi lấy sáu ổ bánh mì lúc sáu giờ
+tôi muốn xóa món bún chả
+thêm 5 cốc gà rán vào đơn nhé
+thêm vào một nem trứng
+thêm vào sáu suất bún chả cay vào đơn nhé
+thêm 1 phở bò vào đơn
+cho tôi cho 4 nem giao lúc ba giờ
+thêm vào mười hai gà rán trong đơn hàng
+làm ơn cho tôi đặt 7 cơm rang ít đường vào lúc mười hai giờ
+thêm năm bánh mì
+làm ơn cho lấy 9 phở bò trứng
+thêm 2 gà rán ít đường vào đơn
+cho thêm 12 ổ bánh mì
+cho tôi cho 7 bánh mì mười một giờ chiều
+làm ơn cho tôi lấy 11 ly gà rán ít đường
+cho thêm 7 phần cơm rang thịt
+làm ơn cho lấy mười trà sữa
+tôi muốn hủy món bánh mì giúp tôi
+làm ơn cho lấy bảy bát bánh mì giao lúc chín giờ
+có phở bò không
+làm ơn cho lấy mười một suất bún chả vào ba giờ chiều
+làm ơn cho tôi lấy chín cơm rang
+thêm vào 4 ổ bún chả ít đường
+làm ơn cho tôi đặt tám gà rán giao lúc chín giờ
+cho tôi cho tám ly gà rán
+tôi muốn đặt 10 tô phở bò giao tám giờ
+thêm 4 trà sữa giúp tôi
+làm ơn cho tôi đặt 2 cơm rang vào lúc bảy giờ tối
+làm ơn cho tôi bỏ cơm rang vào đơn nhé
+thêm một gà rán mặn giúp tôi
+làm ơn cho tôi lấy 1 gà rán
+tôi muốn lấy một tô bánh mì không cay
+món bánh mì giá bao nhiêu
+làm ơn cho tôi lấy chín phở bò chay
+cho thêm một phở bò
+làm ơn cho lấy mười một nem
+cho thêm 4 phần gà rán
+thêm vào hai cơm rang
+làm ơn cho tôi xóa món bánh mì
+cho thêm 7 tô cơm rang ít đường trong đơn hàng
+thêm 12 bánh mì tái
+làm ơn cho tôi đặt mười hai ổ trà sữa nhiều rau giao bốn giờ chiều
+làm ơn cho tôi cho 3 nem 5 giờ trưa
+làm ơn cho tôi đặt bốn bún chả mặn
+cho tôi hủy món cơm rang vào đơn nhé
+tôi muốn cho 1 bánh mì mặn
+thêm vào bốn bún chả chay
+tôi muốn đặt hai ổ bánh mì cay
+cho thêm 8 tô bún chả vào đơn
+cho tôi bỏ bún chả
+cho tôi đặt tám cơm rang 11 giờ
+cho tôi xóa cơm rang vào đơn nhé
+thêm tám nem chay giúp tôi
+thêm 9 nem chay
+tôi muốn cho 12 gà rán thịt
+tôi muốn bỏ món bún chả vào đơn nhé
+cho thêm 8 cốc cơm rang vào đơn
+cho thêm mười cốc nem nhiều đá
+làm ơn cho tôi xóa món trà sữa vào đơn nhé
+cho tôi bỏ món bún chả
+tôi muốn hủy bánh mì
+thêm vào 1 cái nem trong đơn hàng
+thêm vào 8 phở bò hải sản giúp tôi
+tôi muốn bỏ nem
+thêm 9 nem
+cho tôi xóa món gà rán vào đơn nhé
+thêm vào mười một bánh mì cay
+làm ơn cho tôi cho mười hai bánh mì vào lúc bốn giờ
+cho tôi bỏ món nem giúp tôi
+thêm năm cái nem vào đơn nhé
+tôi muốn cho 11 cơm rang hải sản 3 giờ chiều
+thêm bốn phở bò chay trong đơn hàng
+làm ơn cho cho 12 cái bún chả lúc 12 giờ
+làm ơn cho tôi đặt 7 suất trà sữa
+làm ơn cho cho bảy ly gà rán
+thêm 9 bánh mì thịt vào đơn nhé
+làm ơn cho cho mười hai gà rán
+tôi muốn đặt bảy cốc nem nhiều đá
+làm ơn cho tôi xóa nem giúp tôi
+tôi muốn đặt bốn phở bò
+thêm vào 9 phở bò
+làm ơn cho cho 9 bún chả
+làm ơn cho tôi bỏ món trà sữa trong đơn hàng
+thêm vào 11 ổ gà rán vào đơn nhé
+tôi muốn hủy cơm rang vào đơn nhé
+thêm 7 ổ phở bò
+tôi muốn cho 12 cơm rang nhiều đá
+tôi muốn lấy 11 cốc trà sữa nhiều đá mười giờ trưa
+làm ơn cho tôi lấy 5 cơm rang chay lúc 2 giờ chiều
+quán có nem không
+làm ơn cho đặt 8 phần bún chả
+thêm mười bát cơm rang không cay vào đơn
+thêm 5 cơm rang trứng trong đơn hàng
+làm ơn cho tôi đặt bốn bát cơm rang mặn
+làm ơn cho tôi cho bảy nem ít đường giao 1 giờ tối
+thêm mười suất bánh mì chay
+cho thêm 8 nem vào đơn nhé
+ở đây có món nem không
+thêm vào 2 bánh mì không cay vào đơn
+cho thêm 9 suất nem trong đơn hàng
+làm ơn cho cho 10 tô cơm rang
+tôi muốn bỏ món cơm rang vào đơn nhé
+thêm 2 cơm rang cay giúp tôi
+thêm 5 bún chả
+thêm vào chín cái nem
+làm ơn cho cho bảy cơm rang
+cho thêm năm phần bánh mì
+nhà hàng có món phở bò không
+làm ơn cho tôi xóa món gà rán
+tôi muốn xóa món gà rán
+thêm 11 ổ gà rán giúp tôi
+làm ơn cho tôi cho 7 ly bánh mì chay
+thêm 3 cốc nem vào đơn
+cho thêm mười hai bát bánh mì cay
+thêm vào 10 phần bánh mì trong đơn hàng
+làm ơn cho tôi cho 2 gà rán mặn giao lúc 6 giờ tối
+làm ơn cho lấy mười nem 3 giờ
+cho thêm hai nem vào đơn
+thêm vào chín trà sữa cay trong đơn hàng
+tôi muốn xóa trà sữa vào đơn nhé
+thêm chín ly nem mặn
+cho tôi lấy 1 gà rán cay lúc mười một giờ
+thêm 6 cái bánh mì
+cho thêm 4 bánh mì chay giúp tôi
+thêm 9 cái cơm rang giúp tôi
+làm ơn cho tôi cho bốn ly gà rán thịt tám giờ
+cho tôi đặt 2 suất bún chả không cay
+làm ơn cho tôi bỏ món gà rán giúp tôi
+cho tôi lấy 11 phần phở bò nhiều đá chín giờ
+làm ơn cho tôi cho 12 cơm rang
+cho thêm mười nem cay giúp tôi
+làm ơn cho tôi lấy mười cốc gà rán lúc tám giờ chiều
+thêm 8 bún chả nhiều rau trong đơn hàng
+thêm vào năm suất phở bò ít đường
+cho thêm 8 tô phở bò vào đơn
+làm ơn cho tôi lấy năm gà rán sáu giờ
+quán có món phở bò không
+thêm vào mười hai bún chả thịt
+tôi muốn hủy bánh mì giúp tôi
+cho thêm bốn phở bò trứng giúp tôi
+tôi muốn xóa phở bò
+cho tôi lấy ba bánh mì ít đường giao lúc một giờ
+cho thêm 11 cơm rang giúp tôi
+cho tôi đặt 7 cơm rang năm giờ sáng
+làm ơn cho tôi cho năm nem giao lúc 8 giờ
+thêm vào 5 ly cơm rang vào đơn
+thêm vào 4 cốc trà sữa mặn vào đơn nhé
+cho tôi lấy sáu cơm rang vào 10 giờ trưa
+tôi muốn xóa cơm rang trong đơn hàng
+tôi muốn đặt 2 trà sữa
+cho tôi lấy 6 cái bánh mì
+làm ơn cho xóa bún chả trong đơn hàng
+làm ơn cho cho 1 cơm rang
+quán có trà sữa không
+cho tôi cho 2 trà sữa
+thêm vào 6 bún chả thịt giúp tôi
+tôi muốn lấy 1 cơm rang chay
+làm ơn cho tôi lấy sáu bún chả 1 giờ tối
+thêm vào 8 cái trà sữa
+làm ơn cho cho 4 gà rán mặn 6 giờ trưa
+cho thêm ba cơm rang vào đơn
+thêm vào sáu cốc bún chả giúp tôi
+làm ơn cho đặt 6 cơm rang 12 giờ
+cho thêm ba tô trà sữa
+thêm bảy suất bún chả
+làm ơn cho đặt 11 suất bánh mì
+làm ơn cho tôi lấy 1 gà rán 1 giờ
+tôi muốn đặt bốn ly gà rán mặn
+cho thêm hai ly nem nhiều đá
+tôi muốn lấy mười ổ bánh mì mười hai giờ
+cho tôi đặt 11 phần cơm rang
+tôi muốn lấy 9 ổ phở bò cay lúc 11 giờ chiều
+thêm vào sáu ly nem vào đơn
+làm ơn cho lấy 2 suất nem 6 giờ
+làm ơn cho tôi đặt 1 nem 7 giờ sáng
+cho tôi bỏ bánh mì giúp tôi
+cho thêm 1 phở bò tái vào đơn
+thêm mười tô bánh mì vào đơn
+thêm 3 suất nem giúp tôi
+làm ơn cho cho mười gà rán nhiều đá chín giờ sáng
+làm ơn cho tôi lấy hai cái trà sữa
+cho thêm 9 phần trà sữa trong đơn hàng
+thêm 9 ổ gà rán giúp tôi
+tôi đã đặt những món gì
+cho tôi cho 2 trà sữa vào lúc hai giờ tối
+làm ơn cho hủy phở bò trong đơn hàng
+cho tôi lấy tám cái trà sữa vào năm giờ trưa
+có nem không
+cho tôi lấy ba bát cơm rang
+tôi muốn đặt 11 bún chả không cay 11 giờ
+cho thêm 1 phần gà rán ít đường trong đơn hàng
+làm ơn cho tôi đặt mười một cái nem
+làm ơn cho lấy bốn phở bò không cay
+cho tôi lấy mười phần nem vào mười hai giờ tối
+làm ơn cho đặt 4 ly gà rán giao lúc chín giờ chiều
+làm ơn cho tôi lấy mười ổ trà sữa hải sản giao lúc tám giờ
+làm ơn cho lấy 10 ly gà rán mặn
+làm ơn cho đặt mười bún chả cay 9 giờ
+cho tôi đặt tám bát trà sữa
+làm ơn cho cho ba cốc trà sữa giao 3 giờ sáng
+thêm vào 2 ổ bún chả vào đơn
+cho thêm 12 trà sữa không cay vào đơn nhé
+thêm 1 nem giúp tôi
+tôi muốn bỏ món gà rán vào đơn nhé
+tôi muốn cho bảy cái bún chả
+làm ơn cho tôi lấy 12 bún chả mặn
+thêm mười ổ bánh mì
+tôi muốn cho năm cốc nem vào 9 giờ trưa
+cho thêm mười hai ly trà sữa vào đơn nhé
+làm ơn cho hủy bún chả vào đơn nhé
+thêm tám bún chả vào đơn nhé
+thêm vào 8 cơm rang vào đơn
+tôi muốn lấy mười hai phở bò hải sản giao lúc một giờ
+cho thêm 2 nem vào đơn nhé
+tôi muốn bỏ món phở bò
+làm ơn cho xóa món trà sữa trong đơn hàng
+cho thêm 8 ổ bún chả mặn
+làm ơn cho đặt 4 bánh mì hải sản một giờ
+tôi muốn đặt 6 cốc cơm rang
+tôi muốn xóa món trà sữa
+thêm vào 9 tô cơm rang thịt vào đơn
+làm ơn cho tôi lấy một cái phở bò hải sản
+thêm vào 5 bánh mì vào đơn nhé
+cho thêm mười hai nem thịt
+làm ơn cho tôi đặt mười hai cốc nem lúc bốn giờ
+làm ơn cho hủy món nem giúp tôi
+làm ơn cho đặt 12 ổ trà sữa giao năm giờ
+thêm vào 4 suất bún chả nhiều rau trong đơn hàng
+cho thêm 6 bún chả hải sản vào đơn nhé
+cho tôi cho 7 cốc phở bò
+tôi muốn đặt 4 nem
+thêm hai cái nem không cay
+cho thêm mười hai bát bánh mì vào đơn
+làm ơn cho tôi lấy 3 cái bánh mì 8 giờ
+làm ơn cho tôi cho tám gà rán nhiều đá
+làm ơn cho cho 6 phần bánh mì hải sản 6 giờ sáng
+làm ơn cho tôi đặt bốn cái nem vào một giờ
+làm ơn cho tôi xóa trà sữa vào đơn nhé
+cho tôi lấy bảy phở bò
+cho tôi bỏ bún chả vào đơn
+tôi muốn lấy 5 bánh mì thịt 1 giờ sáng
+làm ơn cho tôi bỏ món nem
+làm ơn cho tôi cho 6 tô nem 10 giờ
+thêm vào ba phở bò
+cho thêm ba phở bò mặn
+thêm vào chín gà rán thịt giúp tôi
+làm ơn cho tôi xóa gà rán
+làm ơn cho đặt 8 trà sữa ít đường lúc 9 giờ sáng
+tôi muốn lấy 8 bát gà rán thịt sáu giờ
+cho thêm bảy cơm rang nhiều rau giúp tôi
+làm ơn cho lấy bảy cái bún chả
+thêm 10 suất bánh mì vào đơn
+thêm vào 7 bánh mì chay
+thêm vào hai ly nem
+tôi muốn lấy 12 phở bò mặn lúc 9 giờ
+làm ơn cho tôi đặt một phở bò
+cho tôi bỏ gà rán trong đơn hàng
+tôi muốn lấy một trà sữa cay
+tôi muốn đặt năm cơm rang ba giờ tối
+làm ơn cho đặt tám bún chả trứng chín giờ chiều
+thêm vào 8 gà rán
+làm ơn cho đặt 3 tô nem
+làm ơn cho tôi hủy gà rán
+cho thêm 2 trà sữa cay
+cho tôi cho năm ly bún chả mặn mười hai giờ
+làm ơn cho đặt 1 trà sữa hải sản
+làm ơn cho tôi cho 4 ổ phở bò thịt
+cho thêm 5 bánh mì cay vào đơn
+làm ơn cho tôi cho 12 bát bún chả ít đường
+làm ơn cho đặt 7 phở bò
+cho tôi lấy 11 cái bánh mì vào mười giờ
+cho tôi xóa nem
+thêm 9 bát bún chả
+làm ơn cho tôi lấy năm phở bò tái giao mười hai giờ trưa
+làm ơn cho bỏ bánh mì trong đơn hàng
+thêm vào bốn bún chả hải sản giúp tôi
+tôi muốn cho 3 trà sữa 7 giờ chiều
+tôi muốn cho ba nem
+làm ơn cho cho mười cơm rang thịt
+thêm vào sáu cơm rang tái vào đơn nhé
+tôi muốn đặt 7 bánh mì
+tôi muốn bỏ bún chả vào đơn nhé
+thêm vào một tô bún chả giúp tôi
+thêm 1 ổ trà sữa nhiều đá vào đơn nhé
+cho thêm 1 phở bò thịt vào đơn
+tôi muốn cho bốn phở bò ba giờ trưa
+cho thêm chín ổ trà sữa cay trong đơn hàng
+làm ơn cho tôi bỏ nem vào đơn nhé
+thêm 5 cái cơm rang
+tôi muốn lấy 3 bánh mì hai giờ chiều
+ở đây có bánh mì không
+thêm mười hai phở bò vào đơn
+cho tôi hủy cơm rang
+cho thêm 8 bát phở bò
+cho tôi đặt 8 suất bún chả chay
+cho thêm một bát gà rán mặn vào đơn
+cho thêm sáu gà rán mặn
+tôi muốn đặt 5 phở bò vào lúc 5 giờ
+tôi muốn cho 4 ly bún chả 1 giờ trưa
+làm ơn cho lấy 11 cái trà sữa
+tôi muốn bỏ món bánh mì vào đơn
+làm ơn cho tôi đặt tám cốc bún chả cay 8 giờ chiều
+làm ơn cho tôi xóa món phở bò trong đơn hàng
+thêm vào mười hai tô bánh mì
+cho tôi đặt 5 phần bánh mì 8 giờ chiều
+làm ơn cho tôi lấy ba cơm rang lúc bốn giờ tối
+làm ơn cho tôi bỏ phở bò vào đơn
+thêm mười bát bún chả
+quán có món bánh mì không
+cho tôi lấy 3 phở bò không cay giao mười giờ
+làm ơn cho đặt 5 gà rán giao lúc 6 giờ chiều
+thêm vào 4 cơm rang chay vào đơn
+cho thêm mười nem trong đơn hàng
+có món phở bò không
+nem bao nhiêu tiền
+làm ơn cho cho mười ly cơm rang năm giờ
+có món bánh mì không
+làm ơn cho lấy bảy suất gà rán hải sản giao một giờ
+cho tôi xóa món bún chả giúp tôi
+cho tôi lấy 3 cốc nem mười giờ
+cho thêm 12 tô cơm rang
+cho thêm mười ổ bánh mì vào đơn nhé
+làm ơn cho tôi hủy món bún chả vào đơn
+cho thêm bốn bánh mì vào đơn nhé
+làm ơn cho tôi lấy chín bánh mì
+thêm vào sáu bánh mì vào đơn
+thêm vào bảy phở bò trong đơn hàng
+tôi muốn đặt 6 gà rán
+làm ơn cho tôi bỏ bún chả vào đơn nhé
+làm ơn cho bỏ cơm rang vào đơn nhé
+tôi muốn cho bảy bát phở bò
+thêm vào bảy trà sữa chay
+làm ơn cho tôi lấy hai ổ cơm rang nhiều đá
+tôi muốn cho 8 gà rán nhiều rau ba giờ sáng
+làm ơn cho xóa món bún chả trong đơn hàng
+cho thêm 8 bát cơm rang trứng
+làm ơn cho tôi đặt hai cái nem lúc 4 giờ
+tôi muốn bỏ món bún chả giúp tôi
+làm ơn cho tôi xóa trà sữa
+cho tôi đặt mười hai ổ cơm rang
+thêm vào sáu bánh mì giúp tôi
+làm ơn cho đặt 9 tô phở bò giao lúc 12 giờ
+cho tôi đặt 8 gà rán hải sản vào chín giờ
+thêm 7 bún chả vào đơn
+làm ơn cho tôi hủy món cơm rang trong đơn hàng
+thêm 12 phần trà sữa nhiều đá vào đơn
+cho tôi bỏ trà sữa trong đơn hàng
+làm ơn cho tôi cho 3 bánh mì mặn
+làm ơn cho tôi đặt tám cơm rang
+thêm vào 6 nem
+tôi muốn xóa món trà sữa vào đơn nhé
+cho tôi xóa món bún chả vào đơn
+làm ơn cho tôi đặt 7 cái cơm rang trứng
+cho thêm 5 bánh mì nhiều rau vào đơn nhé
+thêm vào 11 trà sữa
+thêm mười hai phở bò vào đơn nhé
+thêm vào mười một ổ trà sữa trứng
+làm ơn cho tôi cho 12 phở bò ít đường
+cho thêm chín cái bánh mì giúp tôi
+làm ơn cho tôi đặt mười một suất bún chả nhiều đá 1 giờ tối
+thêm vào sáu phở bò giúp tôi
+làm ơn cho tôi lấy sáu cơm rang không cay
+làm ơn cho tôi hủy bún chả vào đơn
+làm ơn cho cho 3 cái nem giao mười hai giờ tối
+thêm mười bánh mì ít đường vào đơn
+thêm vào tám bát bún chả
+cho tôi bỏ món gà rán trong đơn hàng
+thêm 4 ổ bún chả tái trong đơn hàng
+thêm vào 12 nem vào đơn
+cho thêm mười suất trà sữa ít đường
+thêm năm cơm rang vào đơn
+thêm vào 10 gà rán vào đơn nhé
+tôi muốn đặt hai phở bò vào lúc 1 giờ tối
+thêm vào 9 phần bún chả mặn
+nhà hàng có món bún chả không
+làm ơn cho tôi xóa món cơm rang vào đơn nhé
+cho thêm bốn gà rán
+tôi muốn đặt 5 bún chả nhiều rau vào lúc 4 giờ
+làm ơn cho cho 3 cơm rang mặn
+cho thêm 7 bánh mì giúp tôi
+làm ơn cho đặt 6 ly cơm rang mặn giao lúc 10 giờ
+tôi muốn lấy mười hai cơm rang không cay
+tôi muốn hủy gà rán vào đơn
+thêm 2 nem
+cho thêm 12 cơm rang giúp tôi
+tôi muốn đặt tám suất bún chả vào lúc tám giờ sáng
+làm ơn cho lấy bốn cơm rang hải sản
+tôi muốn lấy mười hai gà rán giao 4 giờ
+làm ơn cho tôi cho bảy gà rán mặn
+ở đây có nem không
+làm ơn cho cho 3 bánh mì bảy giờ trưa
+cho thêm 2 cơm rang tái vào đơn
+thêm vào 12 tô nem mặn vào đơn nhé
+cho thêm 7 cái trà sữa nhiều rau giúp tôi
+cho thêm 9 cốc trà sữa vào đơn nhé
+cho tôi hủy món gà rán vào đơn nhé
+cho tôi lấy 1 ly trà sữa chín giờ sáng
+thêm vào 8 bát phở bò
+thêm mười phở bò
+thêm một trà sữa trong đơn hàng
+làm ơn cho tôi cho mười một bát phở bò hải sản
+làm ơn cho bỏ món phở bò vào đơn nhé
+tôi muốn đặt 10 suất nem
+thêm vào một ly bún chả
+làm ơn cho lấy 7 bún chả
+thêm sáu tô phở bò hải sản giúp tôi
+làm ơn cho tôi đặt 1 phở bò 7 giờ tối
+thêm vào 5 trà sữa trong đơn hàng
+làm ơn cho tôi cho 4 nem
+thêm mười hai cốc nem vào đơn
+thêm vào 9 cơm rang vào đơn nhé
+cho tôi lấy ba suất phở bò cay
+làm ơn cho tôi bỏ món bún chả
+thêm vào 6 ly trà sữa mặn giúp tôi
+cho thêm chín nem tái
+tôi muốn bỏ món bánh mì giúp tôi
+làm ơn cho tôi cho bảy bát cơm rang mặn mười giờ
+làm ơn cho tôi xóa bánh mì vào đơn
+thêm vào mười hai cơm rang không cay
+cho tôi đặt một cơm rang
+thêm 2 cốc nem cay trong đơn hàng
+thêm vào sáu gà rán tái vào đơn nhé
+thêm 8 suất nem trứng trong đơn hàng
+cho tôi đặt bốn cốc gà rán
+cho tôi đặt năm phở bò bảy giờ trưa
+cho thêm 10 nem mặn vào đơn nhé
+cho tôi cho 10 tô gà rán thịt
+làm ơn cho hủy món bún chả
+cho thêm tám bún chả cay
+làm ơn cho tôi xóa món trà sữa trong đơn hàng
+thêm vào 11 bánh mì vào đơn nhé
+làm ơn cho tôi bỏ món phở bò giúp tôi
+món cơm rang bao nhiêu tiền
+thêm vào 1 cốc bánh mì vào đơn nhé
+thêm hai gà rán nhiều đá
+cho thêm năm suất nem chay vào đơn nhé
+tôi muốn xóa bún chả vào đơn nhé
+làm ơn cho bỏ bánh mì vào đơn
+làm ơn cho lấy ba tô nem
+làm ơn cho lấy mười một cơm rang giao 12 giờ chiều
+cho tôi đặt hai bún chả
+tôi muốn lấy 9 ly bún chả trứng
+cho thêm ba bún chả
+cho tôi bỏ món cơm rang
+cho thêm mười hai gà rán hải sản vào đơn
+thêm vào 9 cái phở bò ít đường
+thêm vào chín ổ phở bò trong đơn hàng
+làm ơn cho tôi xóa cơm rang trong đơn hàng
+tôi muốn đặt 9 suất bánh mì
+cho thêm sáu trà sữa mặn
+thêm mười hai cốc phở bò trứng giúp tôi
+làm ơn cho đặt 9 nem nhiều đá
+cho tôi lấy tám cái phở bò
+cho tôi hủy cơm rang vào đơn
+thêm vào mười hai cơm rang không cay vào đơn nhé
+thêm 12 phở bò
+thêm 5 tô gà rán vào đơn nhé
+cho tôi đặt năm suất gà rán chay
+làm ơn cho hủy bún chả giúp tôi
+gà rán giá bao nhiêu
+thêm vào 11 cơm rang thịt
+tôi muốn cho 8 trà sữa mười giờ trưa
+cho thêm năm tô nem
+cho tôi xóa món phở bò trong đơn hàng
+làm ơn cho xóa gà rán trong đơn hàng
+cho tôi cho 4 suất gà rán ít đường giao lúc 6 giờ
+thêm ba bát cơm rang trong đơn hàng
+làm ơn cho lấy 1 phần gà rán nhiều rau vào lúc 8 giờ
+cho thêm một cơm rang
+cho thêm 9 nem
+cho tôi đặt 1 suất bún chả nhiều đá
+cho thêm 1 phần bún chả thịt
+thêm vào hai bát cơm rang mặn
+làm ơn cho tôi bỏ món gà rán
+thêm 9 cốc bún chả
+cho thêm mười một cái bún chả chay trong đơn hàng
+cho thêm bảy bún chả vào đơn nhé
+làm ơn cho tôi đặt 1 cốc nem lúc chín giờ
+cho thêm tám phần bún chả
+tôi muốn đặt tám bún chả thịt
+thêm 9 bánh mì trong đơn hàng
+thêm vào bốn gà rán trứng vào đơn
+làm ơn cho tôi lấy 11 cốc nem tái
+làm ơn cho đặt mười hai bánh mì
+làm ơn cho đặt 4 bánh mì vào lúc bảy giờ
+thêm vào năm ly nem vào đơn
+tôi muốn đặt bốn cái cơm rang
+làm ơn cho tôi đặt 1 cốc bún chả cay mười một giờ
+làm ơn cho tôi cho bảy ổ nem
+làm ơn cho tôi cho mười ly gà rán thịt 12 giờ chiều
+thêm 6 bún chả giúp tôi
+cho thêm hai phần phở bò
+làm ơn cho tôi cho 7 nem trứng
+thêm mười hai bún chả cay vào đơn
+thêm vào 5 nem vào đơn nhé
+cho tôi đặt bảy trà sữa
+cho thêm 10 bát bánh mì
+làm ơn cho lấy 12 ổ bánh mì
+tôi muốn cho ba phở bò không cay mười giờ tối
+thêm 4 bát cơm rang ít đường vào đơn
+cho tôi hủy phở bò vào đơn nhé
+cho tôi đặt 11 suất phở bò không cay
+làm ơn cho lấy 11 bánh mì hải sản
+cho thêm hai tô nem giúp tôi
+làm ơn cho cho sáu bánh mì
+tôi muốn đặt 3 phở bò
+cho thêm 10 cái bánh mì
+thêm 4 bún chả chay vào đơn nhé
+thêm 2 bánh mì thịt
+cho tôi đặt 6 gà rán tái
+cho tôi hủy món phở bò
+làm ơn cho tôi đặt 8 bún chả
+làm ơn cho tôi hủy bánh mì vào đơn nhé
+làm ơn cho lấy 6 bánh mì một giờ chiều
+làm ơn cho hủy món nem
+thêm vào bảy bát nem vào đơn
+cho tôi đặt 3 phở bò
+thêm vào bảy cốc gà rán thịt vào đơn nhé
+cho thêm 1 phần gà rán trứng
+làm ơn cho lấy 1 phần trà sữa giao lúc tám giờ tối
+cho thêm 1 cốc bún chả chay
+thêm 12 phần phở bò mặn
+cho tôi bỏ cơm rang vào đơn nhé
+cho thêm năm phở bò
+cho thêm 1 gà rán vào đơn
+cho tôi lấy hai cơm rang không cay 12 giờ trưa
+cho tôi cho 10 trà sữa tái
+làm ơn cho tôi đặt 11 ly gà rán giao lúc 6 giờ sáng
+thêm vào mười hai phở bò nhiều đá
+thêm bảy tô gà rán thịt
+thêm vào 10 bánh mì vào đơn nhé
+làm ơn cho tôi cho bốn gà rán cay lúc 10 giờ
+cho tôi đặt tám nem cay giao lúc bốn giờ
+làm ơn cho đặt 6 phở bò trứng
+thêm 6 bún chả ít đường
+làm ơn cho tôi xóa nem vào đơn
+cho thêm năm phần nem tái
+cho tôi lấy tám phở bò 9 giờ
+thêm vào hai ổ phở bò
+thêm 8 bún chả
+cho tôi bỏ món trà sữa
+làm ơn cho tôi cho hai cái trà sữa trứng
+cho thêm 6 gà rán cay
+thêm hai trà sữa
+cho tôi cho một suất nem sáu giờ
+làm ơn cho hủy món gà rán trong đơn hàng
+cho tôi cho bảy bún chả chay vào mười một giờ trưa
+tôi muốn cho mười gà rán nhiều đá 10 giờ chiều
+tôi muốn cho mười một bánh mì 8 giờ
+cho tôi cho 12 bát bánh mì mặn giao lúc 10 giờ trưa
+tôi muốn đặt bốn ổ bánh mì tái
+làm ơn cho tôi đặt mười ổ trà sữa không cay
+thêm vào một trà sữa
+món nem giá bao nhiêu
+làm ơn cho lấy 11 phần nem
+cho thêm mười hai trà sữa
+cho thêm 9 ổ gà rán nhiều rau giúp tôi
+cho tôi cho mười một tô trà sữa
+làm ơn cho bỏ món nem vào đơn
+làm ơn cho cho mười một trà sữa thịt 5 giờ trưa
+cho tôi lấy 1 phần gà rán vào lúc 1 giờ sáng
+tôi muốn bỏ nem vào đơn
+tôi muốn cho 2 phở bò mặn
+thêm chín ổ bánh mì trong đơn hàng
+thêm vào tám ổ phở bò
+làm ơn cho đặt bốn ổ gà rán
+cho tôi bỏ món phở bò trong đơn hàng
+cho thêm 9 trà sữa thịt trong đơn hàng
+thêm vào mười hai cái cơm rang nhiều đá
+làm ơn cho cho 6 cái gà rán tám giờ chiều
+tôi muốn cho 8 bún chả nhiều rau
+làm ơn cho tôi hủy món bánh mì
+tôi muốn đặt 11 ổ cơm rang mặn giao 3 giờ
+cho thêm mười hai cốc cơm rang tái trong đơn hàng
+cho thêm một ổ bún chả trong đơn hàng
+cho tôi đặt chín bún chả 5 giờ tối
+làm ơn cho tôi lấy mười một bát gà rán mặn
+cho thêm mười hai ly nem
+thêm ba cái trà sữa cay
+làm ơn cho cho 9 gà rán trứng năm giờ
+thêm vào mười phần gà rán
+làm ơn cho cho 12 phần bún chả vào lúc 6 giờ sáng
+thêm vào mười hai cơm rang giúp tôi
+tôi muốn lấy bảy gà rán nhiều đá
+tôi muốn bỏ bánh mì vào đơn nhé
+thêm mười phần trà sữa
+làm ơn cho lấy 4 bánh mì ít đường
+cho tôi cho 3 ổ trà sữa mặn chín giờ chiều
+cho thêm 10 cái gà rán mặn giúp tôi
+thêm bảy tô phở bò mặn
+thêm tám bún chả
+cho tôi cho năm bún chả
+cho tôi cho một bún chả giao chín giờ trưa
+làm ơn cho lấy 9 ổ phở bò
+cho thêm bảy trà sữa chay vào đơn nhé
+cho tôi đặt mười tô gà rán
+tôi muốn đặt 1 cái cơm rang bảy giờ tối
+thêm vào sáu bún chả thịt vào đơn
+làm ơn cho cho 9 phở bò nhiều rau
+cho tôi bỏ món phở bò vào đơn nhé
+thêm vào 8 gà rán tái vào đơn
+làm ơn cho bỏ món bánh mì
+tôi muốn đặt mười một bánh mì năm giờ chiều
+làm ơn cho tôi cho một phần bánh mì ít đường 7 giờ trưa
+làm ơn cho tôi đặt 4 nem mười hai giờ trưa
+cho tôi cho mười ly trà sữa
+cho tôi đặt 5 trà sữa
+thêm một nem giúp tôi
+tôi muốn đặt tám phần phở bò trứng 5 giờ trưa
+làm ơn cho tôi bỏ món nem trong đơn hàng
+tôi muốn lấy mười một tô trà sữa tám giờ
+làm ơn cho tôi bỏ trà sữa vào đơn
+cho tôi đặt chín tô trà sữa nhiều đá
+cho tôi đặt bốn bát phở bò 6 giờ
+cho tôi xóa bún chả
+thêm 1 bún chả vào đơn nhé
+làm ơn cho tôi cho 3 cái cơm rang ít đường
+cho thêm hai phần cơm rang vào đơn
+làm ơn cho tôi lấy mười hai bún chả mặn lúc mười hai giờ tối
+làm ơn cho tôi cho 12 suất trà sữa trứng
+làm ơn cho cho 8 nem hải sản
+thêm 6 cơm rang vào đơn nhé
+làm ơn cho tôi lấy 6 phở bò nhiều rau giao hai giờ trưa
+thêm vào tám bún chả
+làm ơn cho tôi xóa món nem giúp tôi
+thêm vào 6 bánh mì tái
+làm ơn cho tôi đặt 10 bát trà sữa nhiều rau giao lúc chín giờ chiều
+cho tôi cho 6 phở bò hải sản một giờ chiều
+cho thêm 4 phần phở bò trong đơn hàng
+cho tôi bỏ gà rán giúp tôi
+làm ơn cho bỏ món trà sữa giúp tôi
+nhà hàng có trà sữa không
+thêm mười một trà sữa vào đơn
+cho tôi cho ba bát bánh mì cay giao chín giờ
+cho tôi hủy món phở bò vào đơn nhé
+cho thêm 11 phần gà rán nhiều đá giúp tôi
+thêm vào 4 ổ trà sữa trong đơn hàng
+làm ơn cho đặt 8 nem trứng sáu giờ
+tôi muốn đặt mười hai phở bò
+thêm bốn phần bánh mì vào đơn nhé
+tôi muốn lấy ba cơm rang ít đường giao lúc tám giờ chiều
+thêm vào 1 ổ bánh mì không cay trong đơn hàng
+làm ơn cho tôi cho 5 ly phở bò vào 7 giờ
+tôi muốn đặt 8 ly cơm rang vào năm giờ trưa
+làm ơn cho cho ba ly cơm rang giao 8 giờ
+thêm 8 cốc gà rán không cay vào đơn nhé
+thêm vào năm tô bún chả
+cho thêm mười hai suất bún chả nhiều đá
+cho thêm 10 trà sữa hải sản trong đơn hàng
+cho thêm một cái phở bò không cay
+làm ơn cho tôi bỏ gà rán giúp tôi
+thêm vào hai bánh mì
+làm ơn cho tôi lấy 7 ly trà sữa không cay giao lúc 10 giờ
+làm ơn cho cho 5 cốc cơm rang nhiều đá
+tôi muốn lấy 12 cốc bánh mì trứng
+thêm tám bánh mì trứng trong đơn hàng
+làm ơn cho tôi cho chín bánh mì ít đường lúc 1 giờ
+làm ơn cho bỏ phở bò vào đơn nhé
+làm ơn cho tôi đặt bảy ly bún chả chay
+cho tôi xóa món phở bò
+tôi muốn cho 5 nem nhiều đá giao một giờ trưa
+thêm vào 11 tô trà sữa
+thêm 10 bát phở bò trứng vào đơn nhé
+cho thêm một phần nem trong đơn hàng
+tôi muốn lấy 6 gà rán giao 10 giờ
+làm ơn cho tôi cho 5 phần gà rán
+thêm bốn bún chả tái
+làm ơn cho tôi bỏ cơm rang trong đơn hàng
+thêm 2 bún chả giúp tôi
+tôi muốn xóa bún chả giúp tôi
+cho thêm mười hai cốc phở bò
+tôi muốn cho bốn tô bún chả tái
+cho thêm tám tô bánh mì ít đường
+cho tôi bỏ món trà sữa vào đơn
+làm ơn cho tôi đặt 7 bánh mì
+làm ơn cho hủy món bánh mì
+làm ơn cho đặt tám phở bò một giờ
+thêm 6 nem cay
+thêm vào 7 cái nem không cay vào đơn nhé
+cho thêm 9 phần nem thịt
+tôi muốn đặt 7 trà sữa hải sản 11 giờ tối
+cho thêm sáu bát nem trong đơn hàng
+tôi muốn xóa phở bò vào đơn
+làm ơn cho tôi lấy 10 suất bánh mì mặn
+cho tôi cho 4 cơm rang
+làm ơn cho tôi lấy 4 trà sữa mặn
+làm ơn cho lấy 8 gà rán
+tôi muốn hủy phở bò
+cho thêm 12 phở bò thịt
+làm ơn cho tôi hủy bún chả trong đơn hàng
+cho thêm 7 ổ gà rán
+cho thêm năm phần gà rán thịt
+làm ơn cho tôi bỏ gà rán trong đơn hàng
+làm ơn cho đặt 11 phần phở bò 5 giờ chiều
+làm ơn cho tôi cho tám tô nem không cay
+làm ơn cho cho 1 nem
+tôi muốn hủy món cơm rang trong đơn hàng
+làm ơn cho hủy bún chả
+cho tôi lấy mười hai ly trà sữa
+cho tôi hủy bún chả
+làm ơn cho xóa gà rán
+tôi muốn đặt 5 tô gà rán
+tôi muốn lấy bốn bát phở bò thịt
+thêm hai bánh mì nhiều rau vào đơn
+làm ơn cho tôi hủy món nem vào đơn
+thêm vào một suất bánh mì
+cho tôi lấy tám cái bánh mì ít đường mười giờ sáng
+thêm vào bốn gà rán hải sản
+cho tôi hủy gà rán giúp tôi
+làm ơn cho tôi đặt 6 trà sữa nhiều đá vào bảy giờ
+tôi muốn cho 7 bát gà rán
+làm ơn cho tôi lấy 8 phở bò vào 1 giờ
+cho thêm năm cái bánh mì
+cho thêm bảy bánh mì ít đường
+cho tôi lấy 10 nem nhiều đá lúc 1 giờ chiều
+thêm vào mười phở bò
+thêm vào sáu bún chả nhiều rau vào đơn nhé
+cho tôi đặt 10 ly phở bò 12 giờ
+thêm vào 12 bánh mì vào đơn nhé
+thêm vào 5 bánh mì mặn vào đơn nhé
+trà sữa giá bao nhiêu
+thêm vào bảy bát cơm rang
+tôi muốn đặt 2 cơm rang trứng
+cho tôi bỏ nem vào đơn nhé
+làm ơn cho tôi cho 3 cái trà sữa không cay bảy giờ chiều
+thêm vào năm nem trong đơn hàng
+thêm 6 cốc nem trứng trong đơn hàng
+thêm sáu cơm rang hải sản vào đơn
+làm ơn cho bỏ bún chả trong đơn hàng
+cho tôi cho 10 tô phở bò vào lúc 6 giờ
+cho tôi hủy món nem vào đơn
+thêm hai nem cay
+thêm ba nem vào đơn
+thêm 7 cái phở bò thịt
+làm ơn cho tôi đặt chín suất trà sữa
+thêm 7 bánh mì thịt
+thêm hai cơm rang nhiều đá vào đơn
+tôi muốn lấy 4 cái phở bò chay lúc 10 giờ tối
+cho tôi lấy 8 cơm rang
+thêm vào mười phần bún chả mặn
+thêm 5 phần trà sữa giúp tôi
+thêm vào mười một bánh mì chay
+làm ơn cho đặt mười hai cơm rang tái giao lúc 2 giờ sáng
+tôi muốn đặt mười một phần gà rán
+làm ơn cho xóa phở bò giúp tôi
+làm ơn cho tôi cho sáu bánh mì
+cho thêm 2 cơm rang vào đơn
+làm ơn cho lấy tám bánh mì không cay
+thêm 8 bánh mì nhiều đá trong đơn hàng
+làm ơn cho tôi cho bảy phần nem một giờ
+thêm vào 6 tô trà sữa chay trong đơn hàng
+thêm hai bánh mì chay vào đơn
+thêm vào tám tô gà rán thịt
+thêm vào chín cơm rang hải sản vào đơn nhé
+cho thêm mười một bún chả tái vào đơn nhé
+làm ơn cho tôi bỏ món trà sữa vào đơn nhé
+thêm vào 1 phần bánh mì nhiều rau
+thêm 10 gà rán vào đơn
+làm ơn cho đặt một phần nem giao lúc mười một giờ tối
+làm ơn cho đặt 4 trà sữa chay
+thêm mười một tô nem tái vào đơn
+tôi muốn cho 3 phở bò hải sản
+tôi muốn xóa món bún chả vào đơn
+thêm vào bốn cái bánh mì nhiều rau giúp tôi
+cho tôi cho tám tô bánh mì
+thêm mười ổ bún chả
+thêm 5 phở bò nhiều đá
+cho thêm 7 ly bánh mì ít đường giúp tôi
+cho thêm 9 cốc phở bò thịt
+làm ơn cho tôi bỏ món trà sữa
+cho tôi xóa phở bò giúp tôi
+làm ơn cho đặt 11 trà sữa thịt
+làm ơn cho đặt tám phở bò giao lúc 1 giờ chiều
+thêm 12 bát cơm rang tái
+thêm 4 gà rán
+thêm vào bốn phở bò không cay
+làm ơn cho bỏ món nem trong đơn hàng
+thêm vào 5 cơm rang nhiều rau
+tôi muốn lấy chín bún chả cay mười giờ trưa
+làm ơn cho đặt 9 ổ trà sữa nhiều rau 1 giờ trưa
+tôi muốn xóa món cơm rang vào đơn nhé
+làm ơn cho tôi đặt năm bát trà sữa không cay vào lúc 4 giờ
+làm ơn cho lấy 5 trà sữa vào lúc ba giờ
+cho tôi đặt năm bát gà rán không cay
+tôi muốn hủy gà rán trong đơn hàng
+thêm vào mười hai phở bò cay
+tôi muốn lấy mười bánh mì cay giao 8 giờ sáng
+thêm mười ổ gà rán nhiều đá giúp tôi
+thêm vào 5 gà rán mặn
+cho tôi đặt 4 gà rán giao lúc 5 giờ
+làm ơn cho tôi hủy món gà rán vào đơn
+thêm 7 phở bò giúp tôi
+cho tôi bỏ trà sữa giúp tôi
+thêm 3 cốc phở bò trứng vào đơn
+thêm vào 8 ổ gà rán
+cho tôi xóa bún chả trong đơn hàng
+thêm vào mười hai phở bò trong đơn hàng
+thêm 8 tô bún chả chay vào đơn nhé
+cho tôi cho hai nem ít đường 12 giờ
+tôi muốn cho 12 cơm rang cay 1 giờ
+thêm năm tô bánh mì cay giúp tôi
+tôi muốn xóa món phở bò giúp tôi
+cho tôi đặt 4 cái bánh mì giao 1 giờ trưa
+làm ơn cho tôi lấy mười suất nem tái
+cho thêm 10 phở bò trứng trong đơn hàng
+thêm tám bún chả không cay trong đơn hàng
+tôi muốn cho 6 bún chả
+tôi muốn lấy 6 bánh mì
+làm ơn cho tôi lấy 4 phở bò thịt giao 3 giờ tối
+làm ơn cho tôi đặt 9 cốc bún chả cay
+tôi muốn hủy món nem giúp tôi
+tôi muốn hủy món trà sữa trong đơn hàng
+tôi muốn cho bảy cái trà sữa nhiều rau 4 giờ chiều
+thêm 11 ly bún chả
+làm ơn cho bỏ bún chả vào đơn
+cho thêm 10 gà rán giúp tôi
+tôi muốn lấy mười hai suất nem
+thêm 4 ly cơm rang nhiều đá
+cho tôi cho 2 bánh mì
+thêm mười hai bát gà rán tái
+thêm vào một phần nem cay
+tôi muốn lấy 4 ly gà rán mặn năm giờ
+tôi muốn lấy mười trà sữa
+làm ơn cho bỏ món cơm rang vào đơn
+làm ơn cho bỏ món bún chả
+làm ơn cho tôi bỏ bún chả
+cho tôi cho 12 nem giao bốn giờ
+làm ơn cho bỏ món bún chả vào đơn
+tôi muốn hủy món phở bò
+cho thêm 8 cái trà sữa không cay
+tôi muốn cho năm ổ cơm rang mặn
+làm ơn cho tôi xóa trà sữa trong đơn hàng
+cho thêm 11 phần bún chả mặn
+thêm sáu tô bánh mì không cay
+cho tôi đặt 2 tô trà sữa hải sản lúc một giờ
+cho tôi lấy hai ly gà rán thịt giao mười giờ trưa
+thêm vào bốn ổ trà sữa trong đơn hàng
+thêm bốn tô nem giúp tôi
+cho tôi lấy 5 phần cơm rang
+cho tôi cho 1 bát bánh mì
+tôi muốn đặt tám gà rán bảy giờ
+thêm vào bốn cơm rang
+cho tôi đặt sáu ổ bún chả hải sản
+tôi muốn lấy ba suất phở bò thịt
+thêm vào bốn ly bún chả giúp tôi
+tôi muốn xóa bún chả trong đơn hàng
+đơn hàng của tôi có gì
+thêm vào 12 cốc bún chả
+làm ơn cho bỏ món gà rán vào đơn
+thêm ba cái bún chả trứng giúp tôi
+cho tôi hủy gà rán vào đơn
+tôi muốn cho 12 nem ít đường ba giờ chiều
+cho thêm mười hai trà sữa nhiều rau
+thêm năm ly nem trứng
+làm ơn cho tôi lấy mười hai cái nem chay
+thêm vào một suất cơm rang nhiều đá vào đơn nhé
+cho tôi cho 6 tô bún chả
+làm ơn cho tôi cho hai cốc bánh mì vào 9 giờ
+cho thêm 8 phần gà rán giúp tôi
+làm ơn cho cho 9 bánh mì vào 8 giờ
+cho thêm hai bánh mì tái trong đơn hàng
+làm ơn cho lấy mười hai bún chả
+cho tôi cho 3 phần trà sữa ít đường
+cho tôi cho hai ly gà rán hải sản
+cho thêm năm cốc phở bò
+tôi muốn lấy mười hai cốc bún chả trứng
+làm ơn cho tôi cho 3 phở bò chay
+làm ơn cho tôi đặt 2 cái trà sữa tái
+tôi muốn cho mười một phần trà sữa 12 giờ
+tôi muốn cho 2 bún chả 12 giờ tối
+cho tôi lấy 5 ổ bún chả
+làm ơn cho tôi cho 2 gà rán cay
+thêm 12 ổ phở bò trứng trong đơn hàng
+thêm vào tám bát nem chay
+làm ơn cho tôi cho 6 trà sữa nhiều rau
+thêm bảy cơm rang
+thêm vào ba ổ bánh mì nhiều rau
+tôi muốn hủy cơm rang trong đơn hàng
+cho thêm mười hai bánh mì thịt
+thêm vào ba phần phở bò
+thêm 2 bún chả vào đơn nhé
+làm ơn cho tôi cho ba cái bánh mì mặn vào 5 giờ trưa
+cho thêm 9 tô bún chả vào đơn
+làm ơn cho tôi lấy 9 ổ trà sữa
+thêm vào 10 bánh mì hải sản
+làm ơn cho lấy 1 gà rán chay
+thêm vào 7 bún chả mặn trong đơn hàng
+thêm vào chín phần gà rán
+cho tôi cho sáu trà sữa trứng vào mười một giờ
+làm ơn cho tôi cho 11 cốc bánh mì
+cho tôi đặt chín trà sữa mười hai giờ
+làm ơn cho lấy 5 nem bốn giờ
+thêm 7 suất trà sữa mặn vào đơn
+làm ơn cho tôi lấy hai gà rán
+cho thêm mười hai bún chả
+cho tôi lấy 7 bún chả thịt
+làm ơn cho tôi cho 4 phần gà rán
+thêm mười nem hải sản vào đơn
+làm ơn cho tôi xóa món cơm rang giúp tôi
+làm ơn cho lấy bốn cốc bún chả
+thêm vào 5 bát bún chả vào đơn
+tôi muốn hủy bún chả vào đơn
+tôi muốn đặt 1 phần bánh mì thịt 2 giờ
+làm ơn cho đặt sáu ly trà sữa tái 1 giờ
+thêm vào 2 bún chả
+tôi muốn cho mười phần nem
+thêm 5 nem thịt
+cho thêm 12 ly bánh mì chay vào đơn
+tôi muốn lấy một bún chả chay
+làm ơn cho cho 12 cái bún chả
+làm ơn cho tôi lấy bốn nem nhiều đá
+thêm vào 6 nem trứng vào đơn nhé
+làm ơn cho đặt chín bánh mì hải sản
+tôi muốn xóa trà sữa vào đơn
+làm ơn cho tôi bỏ phở bò
+làm ơn cho hủy món phở bò trong đơn hàng
+tôi muốn đặt sáu cơm rang giao 5 giờ
+thêm vào sáu nem ít đường vào đơn
+tôi muốn lấy 2 ổ nem lúc 1 giờ
+tôi muốn xóa cơm rang vào đơn nhé
+thêm 3 cơm rang mặn
+tôi muốn xóa món nem
+làm ơn cho đặt một phở bò cay sáu giờ
+thêm vào 9 nem
+cho tôi xóa bún chả vào đơn
+thêm 5 cái phở bò cay trong đơn hàng
+tôi muốn xóa phở bò trong đơn hàng
+cho tôi lấy sáu tô cơm rang
+cho tôi hủy món bún chả vào đơn
+làm ơn cho đặt 1 bún chả
+tôi muốn đặt 8 bánh mì
+thêm 6 trà sữa trong đơn hàng
+làm ơn cho đặt hai phở bò
+làm ơn cho tôi lấy chín cốc nem
+tôi muốn bỏ món trà sữa giúp tôi
+thêm vào mười một trà sữa vào đơn
+thêm vào bảy phần cơm rang vào đơn
+làm ơn cho xóa món phở bò trong đơn hàng
+thêm 9 bánh mì
+cho tôi bỏ nem giúp tôi
+làm ơn cho tôi đặt bốn cơm rang không cay mười hai giờ
+thêm vào 3 tô bún chả vào đơn nhé
+cho thêm chín ly gà rán
+làm ơn cho tôi cho 5 cơm rang thịt 4 giờ trưa
+thêm vào năm ổ trà sữa trứng giúp tôi
+thêm bốn cơm rang
+làm ơn cho tôi xóa món bánh mì trong đơn hàng
+thêm 10 cốc gà rán trong đơn hàng
+cho thêm mười hai bát gà rán không cay vào đơn
+tôi muốn lấy sáu bún chả
+cho thêm bảy phần gà rán trong đơn hàng
+làm ơn cho tôi bỏ món nem vào đơn nhé
+cho tôi xóa nem trong đơn hàng
+làm ơn cho tôi cho 3 phở bò không cay
+cho tôi lấy 10 phần gà rán
+làm ơn cho đặt một bát bánh mì giao sáu giờ trưa
+làm ơn cho tôi đặt 12 cốc bánh mì bốn giờ
+làm ơn cho tôi lấy bảy cốc bún chả lúc năm giờ
+tôi muốn bỏ món gà rán giúp tôi
+làm ơn cho bỏ cơm rang
+cho thêm 2 ổ gà rán chay
+làm ơn cho đặt ba ly trà sữa mười một giờ
+cho thêm 12 nem giúp tôi
+làm ơn cho bỏ bánh mì
+cho thêm 9 trà sữa
+cho tôi lấy 3 ly nem 4 giờ
+cho tôi đặt năm cốc bánh mì nhiều đá
+tôi muốn cho 11 gà rán bốn giờ
+ở đây có trà sữa không
+làm ơn cho xóa món phở bò vào đơn
+làm ơn cho đặt một ly gà rán ít đường
+cho tôi đặt chín gà rán không cay vào mười hai giờ sáng
+làm ơn cho cho 12 cốc phở bò giao sáu giờ trưa
+tôi muốn lấy 5 phở bò nhiều rau
+làm ơn cho xóa món gà rán giúp tôi
+tôi muốn xóa phở bò giúp tôi
+cho tôi cho một phần gà rán nhiều đá
+làm ơn cho tôi đặt 1 cơm rang
+tôi muốn cho mười trà sữa vào 12 giờ trưa
+tôi muốn lấy bảy ly trà sữa
+thêm 8 bánh mì vào đơn nhé
+làm ơn cho tôi lấy 7 cốc gà rán hải sản
+tôi muốn cho ba cốc bún chả ít đường
+thêm tám bánh mì cay
+thêm vào 3 ổ gà rán hải sản
+làm ơn cho tôi đặt mười bánh mì nhiều rau 4 giờ tối
+quán có món bún chả không
+làm ơn cho tôi bỏ trà sữa giúp tôi
+thêm vào 7 ly gà rán nhiều đá trong đơn hàng
+cho tôi đặt một gà rán 10 giờ trưa
+thêm vào 10 cốc bún chả chay vào đơn nhé
+làm ơn cho đặt mười một gà rán chay lúc 11 giờ sáng
+tôi muốn cho 11 suất gà rán thịt vào lúc 8 giờ
+làm ơn cho tôi lấy một ly phở bò hải sản
+thêm chín cái cơm rang tái vào đơn nhé
+làm ơn cho đặt mười một suất cơm rang
+làm ơn cho cho hai bánh mì mặn bốn giờ
+thêm vào 6 ly bún chả vào đơn
+cho tôi bỏ món bún chả giúp tôi
+cho thêm 9 bánh mì ít đường
+thêm tám tô bánh mì vào đơn
+cho thêm 5 nem nhiều rau
+thêm vào hai ổ gà rán nhiều rau trong đơn hàng
+tôi muốn đặt chín nem
+làm ơn cho tôi cho 9 gà rán giao 7 giờ sáng
+cho thêm mười cơm rang vào đơn
+tôi muốn cho 10 cốc bún chả nhiều đá
+thêm hai tô bánh mì trứng
+làm ơn cho tôi cho mười một bún chả nhiều đá lúc 3 giờ
+thêm vào sáu nem ít đường
+cho tôi đặt 8 suất trà sữa trứng chín giờ trưa
+cho tôi cho hai ổ phở bò lúc ba giờ
+thêm 4 cơm rang trong đơn hàng
+thêm 11 bát trà sữa
+làm ơn cho cho chín bát cơm rang mười một giờ
+làm ơn cho cho năm gà rán
+làm ơn cho tôi lấy 11 phần gà rán
+làm ơn cho cho năm trà sữa một giờ tối
+tôi muốn lấy 8 ly cơm rang
+tôi muốn đặt 9 cơm rang thịt một giờ sáng
+thêm 2 gà rán thịt giúp tôi
+thêm 8 nem chay
+cho thêm 9 bún chả cay vào đơn nhé
+nhà hàng có cơm rang không
+làm ơn cho cho một bánh mì mười giờ trưa
+cho thêm 7 gà rán vào đơn
+cho thêm 10 phở bò vào đơn
+thêm 7 ly bún chả
+thêm vào 3 phần trà sữa
+thêm vào 12 ly nem
+thêm vào mười hai ly gà rán chay vào đơn
+thêm 1 cốc bánh mì
+cho tôi cho bốn bún chả cay
+cho tôi bỏ bánh mì trong đơn hàng
+làm ơn cho tôi đặt năm ổ bánh mì nhiều rau 5 giờ
+thêm vào mười bánh mì
+thêm hai bánh mì mặn
+cho thêm 4 trà sữa nhiều rau vào đơn
+tôi muốn cho 12 phở bò thịt vào 4 giờ sáng
+tôi muốn hủy bún chả
+thêm mười hai bát gà rán tái giúp tôi
+làm ơn cho tôi cho chín trà sữa cay giao lúc bảy giờ
+thêm vào 1 gà rán
+thêm vào 3 phở bò cay
+tôi muốn hủy phở bò trong đơn hàng
+thêm vào 12 bát cơm rang chay trong đơn hàng
+thêm vào 3 trà sữa trứng
+tôi muốn cho 2 tô nem mười giờ chiều
+làm ơn cho lấy 12 cốc phở bò cay mười giờ
+tôi muốn xóa trà sữa
+tôi muốn hủy món cơm rang
+thêm vào 3 trà sữa thịt
+thêm 1 bát bánh mì vào đơn
+làm ơn cho cho sáu nem năm giờ
+cho thêm sáu ly gà rán thịt giúp tôi
+làm ơn cho xóa cơm rang vào đơn
+cho thêm sáu tô phở bò tái
+làm ơn cho cho bảy trà sữa cay bốn giờ
+làm ơn cho tôi đặt 5 cốc bánh mì lúc 6 giờ tối
+cho tôi bỏ cơm rang giúp tôi
+làm ơn cho lấy mười một nem mặn
+làm ơn cho đặt 3 cơm rang không cay
+tôi muốn lấy 11 bún chả giao lúc 4 giờ sáng
+làm ơn cho tôi lấy năm suất cơm rang tái vào lúc 8 giờ
+làm ơn cho tôi đặt sáu suất bún chả nhiều đá
+làm ơn cho cho 3 phở bò không cay
+làm ơn cho xóa món bánh mì trong đơn hàng
+tôi muốn bỏ trà sữa vào đơn
+làm ơn cho lấy bốn cốc trà sữa
+làm ơn cho cho 9 tô cơm rang
+cho tôi lấy 8 tô nem trứng chín giờ
+cho tôi lấy 8 trà sữa không cay
+thêm vào bốn phở bò tái
+thêm bảy phần bánh mì vào đơn
+thêm vào bốn tô trà sữa trứng giúp tôi
+làm ơn cho tôi cho hai bún chả một giờ
+thêm 9 phần gà rán
+cho tôi cho 12 bún chả nhiều rau
+thêm 2 cốc gà rán mặn
+thêm ba trà sữa tái
+thêm vào năm ly cơm rang mặn
+cho thêm 7 tô gà rán
+thêm ba nem tái
+cho tôi xóa gà rán vào đơn
+thêm ba cơm rang giúp tôi
+thêm ba cơm rang không cay giúp tôi
+làm ơn cho tôi cho hai gà rán cay sáu giờ chiều
+cho thêm 1 trà sữa giúp tôi
+cho tôi lấy một bánh mì
+làm ơn cho tôi lấy 11 bát cơm rang 11 giờ sáng
+làm ơn cho cho mười cốc gà rán nhiều rau
+làm ơn cho lấy năm phần cơm rang
+làm ơn cho tôi đặt bảy bánh mì
+thêm một cơm rang vào đơn
+thêm vào ba suất nem mặn vào đơn
+làm ơn cho tôi bỏ món cơm rang trong đơn hàng
+thêm ba bánh mì thịt giúp tôi
+cho thêm mười một ly bánh mì
+cho thêm 2 ổ nem
+thêm vào 8 phở bò cay vào đơn
+thêm vào năm cốc cơm rang trứng
+cho tôi cho 8 cái nem nhiều rau 6 giờ tối
+cho tôi bỏ trà sữa
+làm ơn cho cho mười hai gà rán tái vào lúc 9 giờ trưa
+cho thêm 4 trà sữa trong đơn hàng
+thêm tám cơm rang tái
+thêm chín ly phở bò trong đơn hàng
+làm ơn cho lấy 11 ly phở bò chay năm giờ
+cho tôi đặt hai cốc bún chả trứng
+thêm 9 phở bò trứng trong đơn hàng
+tôi muốn đặt 3 trà sữa tái
+tôi muốn lấy 5 cốc trà sữa giao sáu giờ
+cho thêm năm tô trà sữa vào đơn nhé
+thêm 10 suất nem
+tôi muốn xóa trà sữa trong đơn hàng
+cho thêm 9 cơm rang hải sản vào đơn nhé
+tôi muốn đặt mười một cốc nem giao một giờ trưa
+cho tôi đặt sáu cơm rang cay
+tôi muốn đặt chín suất bánh mì hải sản giao lúc 4 giờ
+thêm hai bánh mì trứng trong đơn hàng
+làm ơn cho đặt 3 bát phở bò bảy giờ chiều
+thêm vào 1 tô bánh mì vào đơn nhé
+cho tôi lấy mười một cốc bánh mì giao 5 giờ trưa
+cho thêm hai trà sữa vào đơn
+làm ơn cho lấy 1 bánh mì chay
+cho thêm 7 bánh mì trong đơn hàng
+cho tôi lấy 10 phần nem
+tôi muốn đặt một trà sữa
+thêm 9 cốc bánh mì giúp tôi
+tôi muốn xóa món bánh mì vào đơn
+tôi muốn lấy bốn phần gà rán mặn
+làm ơn cho cho sáu gà rán vào lúc tám giờ
+cho tôi cho 5 cái cơm rang tái
+thêm vào mười hai tô bánh mì chay giúp tôi
+làm ơn cho tôi đặt 11 trà sữa 2 giờ
+thêm vào hai bát phở bò mặn vào đơn nhé
+thêm tám suất nem thịt trong đơn hàng
+thêm 5 phở bò mặn trong đơn hàng
+thêm hai ly nem trứng
+thêm 1 bánh mì ít đường vào đơn nhé
+làm ơn cho cho tám phần bún chả tái
+tôi muốn đặt 3 bánh mì mười một giờ
+cho tôi đặt 7 bát bánh mì
+tôi muốn đặt 5 ly gà rán
+làm ơn cho tôi xóa bánh mì
+cho thêm 11 phần phở bò cay
+thêm vào ba trà sữa
+thêm vào 12 phần bánh mì thịt vào đơn nhé
+cho tôi đặt 5 tô cơm rang
+tôi muốn lấy bảy ly phở bò
+tôi muốn cho tám gà rán hải sản
+cho tôi xóa cơm rang vào đơn
+thêm vào bốn bánh mì nhiều rau
+làm ơn cho tôi đặt tám phở bò
+thêm vào năm bánh mì ít đường
+thêm 6 bánh mì
+quán có cơm rang không
+thêm 6 phở bò trứng giúp tôi
+tôi muốn lấy 2 bánh mì tái hai giờ tối
+làm ơn cho tôi cho 8 bát phở bò mười giờ
+làm ơn cho tôi bỏ món bánh mì vào đơn
+cho thêm bảy bánh mì
+làm ơn cho bỏ món nem giúp tôi
+thêm vào sáu phở bò không cay vào đơn nhé
+cho tôi cho một suất cơm rang vào bốn giờ trưa
+tôi muốn lấy 4 suất gà rán mặn
+tôi muốn đặt 3 gà rán chay
+cho thêm mười hai phần phở bò cay
+làm ơn cho đặt 6 trà sữa nhiều rau vào lúc mười một giờ
+cho thêm chín ly trà sữa giúp tôi
+thêm bảy cốc bánh mì cay
+cho tôi đặt mười cơm rang mười một giờ
+thêm vào 12 bún chả cay
+thêm 3 tô trà sữa trong đơn hàng
+bún chả bao nhiêu tiền
+cho tôi hủy bún chả trong đơn hàng
+làm ơn cho cho ba tô bánh mì vào lúc 11 giờ trưa
+làm ơn cho tôi cho 10 bánh mì thịt vào lúc bốn giờ tối
+thêm vào mười cơm rang vào đơn
+làm ơn cho đặt mười hai cốc bánh mì giao lúc mười hai giờ
+thêm vào sáu gà rán vào đơn
+làm ơn cho xóa món phở bò
+làm ơn cho tôi đặt 12 trà sữa
+thêm vào 1 bánh mì giúp tôi
+cho tôi cho mười hai bún chả lúc bảy giờ
+cho thêm 12 ổ phở bò
+làm ơn cho đặt chín bát phở bò thịt
+làm ơn cho bỏ trà sữa vào đơn
+thêm vào 9 ly trà sữa
+cho thêm 8 tô phở bò hải sản
+cho thêm 7 cái bún chả nhiều rau
+cho tôi lấy mười phở bò vào lúc ba giờ chiều
+làm ơn cho tôi cho 11 bánh mì vào lúc 10 giờ chiều
+thêm 10 ly cơm rang tái trong đơn hàng
+cho tôi cho mười ly cơm rang lúc bốn giờ
+cho tôi lấy chín cốc cơm rang 1 giờ trưa
+cho tôi đặt ba bánh mì trứng giao 4 giờ
+cho thêm ba nem vào đơn
+làm ơn cho tôi xóa món cơm rang vào đơn
+cho tôi đặt bảy ổ trà sữa
+cho thêm tám phần trà sữa giúp tôi
+thêm 5 gà rán chay trong đơn hàng
+cho tôi cho 5 suất phở bò tái
+tôi muốn cho 7 trà sữa cay
+cho tôi bỏ cơm rang trong đơn hàng
+cho tôi cho tám suất bánh mì
+làm ơn cho hủy cơm rang vào đơn
+cho thêm mười hai ổ gà rán vào đơn nhé
+cho thêm 4 phở bò vào đơn nhé
+cho tôi lấy một gà rán trứng
+thêm vào 8 phở bò cay
+cho thêm 6 trà sữa nhiều rau
+làm ơn cho đặt 3 bún chả ba giờ
+thêm bảy ly nem
+làm ơn cho cho năm ly nem chay 4 giờ sáng
+cho tôi cho mười hai gà rán 4 giờ
+làm ơn cho hủy bún chả trong đơn hàng
+cho thêm 2 cơm rang cay
+thêm vào 1 ly bánh mì hải sản vào đơn nhé
+cho thêm 1 bún chả vào đơn nhé
+cho thêm 2 cốc trà sữa nhiều rau vào đơn nhé
+thêm vào 9 bún chả nhiều đá vào đơn nhé
+làm ơn cho tôi cho 3 trà sữa trứng
+cho tôi hủy món trà sữa giúp tôi
+thêm vào năm bún chả giúp tôi
+tôi muốn đặt năm bún chả vào 4 giờ tối
+làm ơn cho hủy cơm rang
+thêm vào mười một tô bún chả
+cho thêm 6 trà sữa trong đơn hàng
+thêm vào 2 ổ phở bò trong đơn hàng
+cho tôi bỏ phở bò
+cho thêm mười hai bún chả vào đơn
+thêm mười hai cốc bún chả không cay
+làm ơn cho đặt một tô cơm rang
+tôi muốn bỏ món phở bò vào đơn nhé
+làm ơn cho tôi lấy mười phần cơm rang trứng giao lúc 5 giờ tối
+cho thêm 2 cốc cơm rang vào đơn
+cho tôi cho 12 gà rán
+thêm vào ba cốc cơm rang vào đơn
+thêm 7 nem chay
+thêm 5 bún chả cay vào đơn nhé
+cho tôi hủy món gà rán
+có những món nào trong menu
+làm ơn cho bỏ món phở bò trong đơn hàng
+cho tôi đặt 6 tô trà sữa hải sản năm giờ trưa
+làm ơn cho tôi đặt 2 cốc bún chả
+cho thêm 10 cái trà sữa nhiều đá trong đơn hàng
+thêm 9 phở bò thịt
+cho thêm 5 trà sữa thịt
+thêm vào bảy bánh mì cay vào đơn
+tôi muốn cho 3 bún chả hải sản
+thêm 2 bánh mì
+thêm vào tám cái bánh mì trong đơn hàng
+làm ơn cho lấy mười hai cốc trà sữa
+thêm vào 11 bún chả chay giúp tôi
+thêm vào chín cơm rang
+cho tôi cho 10 gà rán sáu giờ sáng
+làm ơn cho cho bảy ly phở bò tái
+thêm vào 10 ổ phở bò giúp tôi
+cho thêm bốn phần trà sữa trứng
+tôi muốn đặt 10 bún chả
+cho tôi cho 5 tô bún chả ít đường vào tám giờ
+cho tôi cho 10 tô bánh mì
+thêm 1 ổ bánh mì ít đường trong đơn hàng
+làm ơn cho tôi cho 8 phần gà rán 4 giờ tối
+thêm vào hai tô bún chả
+cho tôi đặt 3 bát trà sữa ít đường bốn giờ sáng
+làm ơn cho tôi lấy 9 cái trà sữa
+cho tôi cho bốn bánh mì
+cho thêm năm gà rán tái vào đơn nhé
+cho thêm 4 ly cơm rang hải sản
+làm ơn cho tôi đặt hai gà rán trứng vào bảy giờ trưa
+cho thêm 11 ly bún chả nhiều rau giúp tôi
+làm ơn cho bỏ món nem
+thêm vào mười nem mặn giúp tôi
+tôi muốn đặt 2 phần cơm rang
+thêm vào 3 cái bánh mì ít đường vào đơn
+cho tôi lấy bảy phần cơm rang
+thêm mười một nem vào đơn nhé
+cho thêm mười bún chả thịt
+thêm chín ly gà rán ít đường vào đơn
+tôi muốn lấy 6 bánh mì tái
+tôi muốn lấy mười hai trà sữa ít đường
+cho thêm mười bún chả mặn
+thêm bốn cơm rang vào đơn
+làm ơn cho tôi cho tám bánh mì vào lúc 7 giờ
+tôi muốn lấy ba ly bánh mì ba giờ
+làm ơn cho cho năm cốc bún chả cay lúc mười một giờ
+cho tôi đặt 5 nem hải sản giao 5 giờ chiều
+làm ơn cho lấy chín suất trà sữa hải sản
+tôi muốn đặt bốn suất trà sữa
+làm ơn cho lấy mười hai phần phở bò
+cho thêm chín trà sữa nhiều đá giúp tôi
+thêm 2 bún chả mặn
+thêm vào bảy phần bún chả trứng vào đơn nhé
+cho thêm 5 phở bò tái
+làm ơn cho tôi xóa gà rán vào đơn
+tôi muốn đặt 10 phở bò nhiều đá bốn giờ tối
+cho tôi lấy mười hai suất cơm rang trứng
+cho tôi đặt 5 ổ phở bò ít đường 8 giờ
+làm ơn cho bỏ món trà sữa vào đơn nhé
+thêm vào 7 bánh mì ít đường vào đơn
+cho tôi đặt 5 bún chả
+tôi muốn bỏ gà rán
+làm ơn cho đặt ba nem
+cho thêm 11 cái bánh mì ít đường
+cho thêm 4 bát trà sữa mặn giúp tôi
+thêm một tô bánh mì chay
+thêm vào 7 gà rán chay
+tôi muốn cho 7 phở bò bốn giờ
+làm ơn cho tôi lấy 4 phần bún chả giao lúc 9 giờ sáng
+thêm ba ly bánh mì
+thêm vào tám cái bánh mì cay giúp tôi
+làm ơn cho lấy ba phần nem vào lúc tám giờ tối
+tôi muốn lấy 10 cốc bánh mì giao lúc mười hai giờ sáng
+làm ơn cho tôi lấy 7 bún chả thịt vào ba giờ chiều
+làm ơn cho lấy mười gà rán nhiều rau
+thêm vào năm ổ bánh mì nhiều đá
+thêm vào 1 tô cơm rang
+làm ơn cho tôi lấy 12 nem nhiều rau
+làm ơn cho tôi đặt 7 suất cơm rang
+làm ơn cho tôi đặt 11 trà sữa
+làm ơn cho tôi đặt 2 nem trứng
+tôi muốn xóa nem vào đơn
+cho tôi hủy bún chả giúp tôi
+làm ơn cho tôi hủy món cơm rang
+tôi muốn cho 6 suất phở bò vào 2 giờ sáng
+cho tôi lấy mười phần nem giao lúc 1 giờ chiều
+tôi muốn hủy món gà rán giúp tôi
+thêm vào 4 nem giúp tôi
+tôi muốn lấy 1 suất nem lúc 4 giờ
+làm ơn cho tôi cho năm cơm rang tái bảy giờ sáng
+cho tôi hủy món bánh mì giúp tôi
+làm ơn cho tôi cho ba bánh mì ít đường
+làm ơn cho cho một tô phở bò
+thêm vào một suất bún chả vào đơn nhé
+thêm mười hai phở bò giúp tôi
+làm ơn cho cho 4 nem chay
+làm ơn cho tôi đặt bốn gà rán mặn
+tôi muốn xóa cơm rang giúp tôi
+thêm 3 gà rán thịt
+cho tôi cho 2 gà rán ít đường
+cho tôi hủy nem vào đơn
+làm ơn cho xóa gà rán vào đơn nhé
+thêm 9 cơm rang
+tôi muốn lấy mười hai bún chả vào lúc năm giờ
+thêm vào 10 phần bánh mì tái vào đơn
+cho thêm tám cơm rang
+thêm vào ba phần nem cay giúp tôi
+thêm vào 4 phần bún chả ít đường giúp tôi
+thêm vào bảy gà rán
+cho tôi cho mười một bát bánh mì chay giao lúc sáu giờ trưa
+thêm tám bát bún chả giúp tôi
+làm ơn cho lấy 12 cơm rang
+cho thêm mười hai phở bò ít đường
+làm ơn cho xóa gà rán giúp tôi
+làm ơn cho đặt 11 gà rán
+thêm vào ba bát cơm rang trứng giúp tôi
+cơm rang giá bao nhiêu
+tôi muốn cho mười hai cốc cơm rang giao lúc ba giờ
+làm ơn cho cho 7 suất gà rán
+làm ơn cho lấy 10 ổ bánh mì cay 4 giờ
+làm ơn cho đặt mười một phần bún chả
+làm ơn cho tôi lấy 8 bát gà rán
+cho thêm chín phở bò tái vào đơn nhé
+làm ơn cho đặt mười hai phở bò vào 5 giờ tối
+làm ơn cho tôi lấy một bánh mì
+làm ơn cho tôi bỏ món phở bò trong đơn hàng
+làm ơn cho lấy 9 trà sữa trứng
+tôi muốn cho mười một tô cơm rang giao lúc 6 giờ tối
+cho tôi lấy 8 gà rán ít đường
+thêm 3 tô trà sữa
+làm ơn cho cho 10 cái bún chả 11 giờ
+thêm vào 12 ly nem giúp tôi
+tôi muốn lấy 2 cơm rang thịt vào 1 giờ tối
+làm ơn cho tôi lấy mười cơm rang
+làm ơn cho cho mười một nem ít đường lúc 5 giờ
+làm ơn cho tôi lấy ba ly gà rán nhiều đá
+tôi muốn cho mười bún chả vào 4 giờ
+tôi muốn xóa món cơm rang
+tôi muốn cho 1 suất bún chả ít đường 1 giờ
+thêm một phần bún chả vào đơn
+làm ơn cho lấy 5 bánh mì nhiều rau
+cho tôi cho 5 gà rán vào lúc 8 giờ trưa
+làm ơn cho tôi cho 1 phần cơm rang 9 giờ
+thêm vào 5 cơm rang vào đơn
+cho tôi bỏ gà rán
+làm ơn cho đặt 9 ổ cơm rang vào 3 giờ chiều
+làm ơn cho đặt 8 phần cơm rang
+làm ơn cho lấy 5 bún chả cay vào mười một giờ sáng
+làm ơn cho tôi hủy trà sữa giúp tôi
+làm ơn cho tôi cho một ly phở bò nhiều rau
+thêm 11 ly phở bò giúp tôi
+làm ơn cho tôi xóa bún chả trong đơn hàng
+tôi muốn xóa món bánh mì
+cho tôi lấy 4 ly phở bò
+làm ơn cho tôi lấy 5 bánh mì chay lúc sáu giờ
+làm ơn cho đặt hai nem 5 giờ
+làm ơn cho tôi bỏ bánh mì giúp tôi
+thêm hai nem vào đơn nhé
+quán có bún chả không
+cho tôi cho năm trà sữa tám giờ chiều
+làm ơn cho tôi hủy món nem
+làm ơn cho tôi cho mười hai cái nem
+thêm 7 bánh mì giúp tôi
+thêm 10 gà rán
+tôi muốn bỏ món cơm rang vào đơn
+làm ơn cho tôi cho 8 cốc nem
+tôi muốn cho mười bún chả nhiều rau
+thêm sáu bát nem không cay trong đơn hàng
+thêm sáu cơm rang vào đơn nhé
+thêm vào một bún chả
+tôi muốn xóa món bánh mì trong đơn hàng
+làm ơn cho tôi đặt 7 ổ bún chả giao chín giờ
+tôi muốn đặt 4 phần gà rán nhiều đá 6 giờ
+thêm 10 nem
+tôi muốn bỏ món gà rán
+làm ơn cho cho 7 cái bún chả thịt
+thêm vào 12 suất trà sữa không cay giúp tôi
+ở đây có phở bò không
+ở đây có món bánh mì không
+cho thêm ba gà rán mặn
+cho thêm 12 ly gà rán vào đơn
+làm ơn cho xóa món trà sữa giúp tôi
+cho thêm 4 cơm rang
+cho thêm 1 phần gà rán cay
+cho tôi cho 12 cốc phở bò
+tôi muốn cho mười cốc bánh mì vào 9 giờ sáng
+menu có gì
+cho tôi cho 2 bát bún chả
+thêm vào 9 gà rán vào đơn
+cho thêm 2 ổ phở bò trong đơn hàng
+thêm bốn nem cay giúp tôi
+thêm một cơm rang nhiều rau
+thêm vào hai phần trà sữa
+thêm vào mười một bát trà sữa
+làm ơn cho cho năm nem giao chín giờ
+cho tôi lấy 4 bánh mì
+cho tôi lấy 5 cơm rang không cay tám giờ tối
+làm ơn cho tôi cho mười tô trà sữa hai giờ trưa
+thêm vào ba ổ bánh mì chay giúp tôi
+có món bún chả không
+làm ơn cho tôi cho tám suất phở bò
+cho tôi cho 5 tô bánh mì thịt
+thêm 3 cơm rang trứng trong đơn hàng
+tôi muốn xóa gà rán vào đơn nhé
+thêm vào 9 trà sữa
+làm ơn cho tôi xóa món nem trong đơn hàng
+cho thêm sáu cơm rang nhiều đá vào đơn
+làm ơn cho tôi xóa gà rán trong đơn hàng
+làm ơn cho cho hai cái gà rán
+làm ơn cho đặt 10 phần bánh mì không cay
+thêm vào mười gà rán trong đơn hàng
+làm ơn cho tôi cho 10 bánh mì nhiều đá
+làm ơn cho tôi cho ba ly bánh mì
+tôi muốn cho 1 cơm rang giao hai giờ
+cho thêm năm ly trà sữa cay vào đơn nhé
+tôi muốn hủy món trà sữa giúp tôi
+cho thêm năm cơm rang vào đơn
+làm ơn cho lấy ba trà sữa hải sản
+làm ơn cho lấy 12 suất nem
+cho thêm 4 cái phở bò trong đơn hàng
+cho thêm 10 nem nhiều rau vào đơn
+thêm hai tô nem nhiều đá trong đơn hàng
+cho thêm 3 bánh mì vào đơn
+thêm 1 phần gà rán
+làm ơn cho cho 1 tô gà rán trứng ba giờ
+tôi muốn đặt 5 phần trà sữa
+thêm vào bốn ly bánh mì
+cho tôi xóa gà rán
+làm ơn cho cho 11 phở bò
+cho thêm sáu cốc cơm rang trứng
+làm ơn cho đặt 4 bún chả trứng 11 giờ trưa
+thêm 3 cái bánh mì vào đơn
+cho tôi cho 1 ly cơm rang
+món bún chả giá bao nhiêu
+làm ơn cho tôi hủy món phở bò giúp tôi
+tôi muốn lấy 8 cốc nem giao lúc 11 giờ trưa
+làm ơn cho tôi hủy nem vào đơn nhé
+thêm 12 tô gà rán hải sản
+tôi muốn cho 6 tô phở bò chay
+cho thêm 8 ổ cơm rang ít đường
+cho thêm 6 ly phở bò trong đơn hàng
+làm ơn cho lấy 5 suất bánh mì nhiều đá 11 giờ
+cho thêm hai cơm rang trong đơn hàng
+tôi muốn lấy 2 bún chả
+tôi muốn cho 11 bát bún chả mặn mười một giờ trưa
+thêm 7 bún chả trong đơn hàng
+thêm vào 11 cốc cơm rang cay vào đơn
+làm ơn cho cho 12 bánh mì vào lúc 11 giờ sáng
+làm ơn cho đặt chín suất trà sữa nhiều đá vào lúc năm giờ tối
+cho thêm 12 tô cơm rang chay trong đơn hàng
+tôi muốn đặt 11 bún chả giao lúc hai giờ
+tôi muốn cho 1 phở bò cay
+cho thêm 3 ly cơm rang cay giúp tôi
+làm ơn cho tôi hủy gà rán vào đơn nhé
+thêm ba phần gà rán
+cho tôi cho 9 cái phở bò nhiều rau
+tôi muốn lấy mười ổ nem chay sáu giờ chiều
+tôi muốn xóa món bún chả trong đơn hàng
+thêm năm bún chả chay
+tôi muốn đặt 5 phần gà rán nhiều đá
+cho tôi lấy 7 ổ bánh mì nhiều đá
+làm ơn cho đặt 1 gà rán tái
+làm ơn cho hủy bánh mì trong đơn hàng
+làm ơn cho đặt 1 cái bánh mì năm giờ chiều
+làm ơn cho tôi lấy 7 bún chả giao lúc bốn giờ trưa
+cho tôi lấy chín cái cơm rang 8 giờ
+cho tôi hủy món phở bò vào đơn
+cho tôi đặt 2 cơm rang chay 3 giờ
+làm ơn cho tôi lấy 4 suất gà rán
+nhà hàng có gà rán không
+làm ơn cho xóa nem vào đơn
+thêm một nem hải sản trong đơn hàng
+tôi muốn lấy một cơm rang nhiều rau
+thêm vào mười ly trà sữa trong đơn hàng
+cho tôi đặt mười phở bò nhiều rau
+tôi muốn đặt ba ly trà sữa
+tôi muốn cho 8 suất bánh mì chay giao bốn giờ tối
+làm ơn cho hủy món cơm rang
+thêm vào mười hai phần bánh mì giúp tôi
+thêm vào mười một bánh mì trứng
+thêm mười bánh mì tái trong đơn hàng
+cho tôi cho 4 bánh mì không cay lúc mười giờ sáng
+tôi muốn lấy 11 gà rán 11 giờ
+tôi muốn cho 6 tô cơm rang
+thêm vào tám phở bò chay giúp tôi
+làm ơn cho bỏ gà rán trong đơn hàng
+cho thêm 12 tô trà sữa trứng vào đơn
+cho thêm hai phần bánh mì trứng giúp tôi
+thêm mười cốc bún chả thịt
+thêm mười hai bát trà sữa trong đơn hàng
+làm ơn cho lấy ba nem nhiều rau
+cho thêm 4 tô bún chả
+tôi muốn đặt 5 ổ bánh mì giao lúc mười hai giờ sáng
+làm ơn cho cho mười hai cơm rang hải sản giao tám giờ tối
+tôi muốn đặt năm bánh mì nhiều rau mười hai giờ sáng
+tôi muốn cho 10 nem hải sản
+cho tôi đặt 2 gà rán lúc 12 giờ chiều
+làm ơn cho cho 3 bánh mì 12 giờ
+tôi muốn đặt bảy phở bò hải sản
+cho thêm 1 gà rán cay
+cho thêm mười hai ổ cơm rang giúp tôi
+làm ơn cho tôi cho 10 trà sữa nhiều đá
+làm ơn cho tôi đặt mười phở bò ít đường 6 giờ tối
+làm ơn cho tôi xóa bún chả
+thêm vào năm nem
+cho tôi cho 10 gà rán năm giờ
+thêm vào bốn bánh mì giúp tôi
+thêm 8 tô nem
+làm ơn cho tôi lấy mười một cơm rang không cay ba giờ tối
+tôi muốn bỏ món nem
+làm ơn cho hủy món cơm rang giúp tôi
+làm ơn cho đặt 1 suất bún chả cay giao lúc chín giờ
+thêm vào bốn trà sữa giúp tôi
+làm ơn cho cho 10 tô nem
+thêm 4 ổ bún chả vào đơn
+thêm 4 trà sữa mặn
+cho tôi bỏ món trà sữa trong đơn hàng
+làm ơn cho hủy món cơm rang vào đơn
+thêm vào bảy bánh mì
+thêm 2 ổ nem trứng trong đơn hàng
+thêm vào ba cái nem chay
+làm ơn cho lấy 4 trà sữa nhiều rau 11 giờ trưa
+cho thêm ba bát bánh mì
+cho tôi hủy phở bò
+làm ơn cho cho năm gà rán lúc năm giờ chiều
+làm ơn cho lấy 2 phần phở bò mặn năm giờ chiều
+cho tôi bỏ món trà sữa giúp tôi
+cho thêm 10 cái trà sữa không cay
+tôi muốn đặt 10 ly gà rán
+tôi muốn cho bốn bún chả mười một giờ sáng
+làm ơn cho tôi xóa món nem
+cho tôi đặt 7 bún chả lúc 2 giờ trưa
+thêm vào 3 cơm rang trứng vào đơn nhé
+tôi muốn lấy 4 gà rán vào 12 giờ
+làm ơn cho xóa món cơm rang vào đơn
+thêm bốn phần bún chả trứng
+thêm vào 2 gà rán
+thêm vào sáu gà rán thịt
+thêm 11 bát bún chả không cay giúp tôi
+thêm vào mười hai phần bánh mì vào đơn
+cho thêm ba cốc bánh mì giúp tôi
+tôi muốn đặt chín cái bánh mì nhiều rau chín giờ sáng
+làm ơn cho tôi lấy bảy cơm rang chay 3 giờ
+cho tôi đặt 10 suất cơm rang giao lúc mười một giờ
+cho thêm 2 cốc bánh mì hải sản trong đơn hàng
+cho thêm 8 bún chả vào đơn nhé
+làm ơn cho tôi cho sáu ly cơm rang năm giờ sáng
+cho thêm ba bát phở bò vào đơn
+thêm vào mười bát bánh mì chay vào đơn nhé
+thêm 7 suất bún chả chay
+thêm 7 cơm rang chay trong đơn hàng
+làm ơn cho hủy món phở bò vào đơn
+cho tôi đặt 2 cái nem 8 giờ sáng
+cho tôi cho chín bát gà rán cay
+làm ơn cho tôi cho ba bún chả
+làm ơn cho lấy 4 gà rán một giờ trưa
+cho tôi đặt 8 suất nem 3 giờ
+làm ơn cho tôi đặt 8 phần cơm rang
+làm ơn cho đặt 12 ổ phở bò thịt vào lúc ba giờ tối
+cho thêm 6 ổ nem vào đơn
+thêm vào 3 bánh mì giúp tôi
+cho tôi cho 3 bánh mì mặn 10 giờ
+làm ơn cho tôi lấy mười hai ổ trà sữa 6 giờ
+thêm 1 tô phở bò trong đơn hàng
+làm ơn cho xóa món bún chả
+cho tôi hủy gà rán trong đơn hàng
+cho tôi lấy bốn bún chả thịt tám giờ
+làm ơn cho tôi lấy 11 nem
+cho thêm ba trà sữa trứng
+cho tôi lấy mười gà rán nhiều rau
+thêm vào bốn suất nem trong đơn hàng
+cho tôi đặt tám ly nem giao lúc mười hai giờ
+cho tôi đặt 2 nem hải sản
+cho thêm một nem
+tôi muốn đặt chín cơm rang
+làm ơn cho tôi bỏ phở bò giúp tôi
+thêm 10 cái nem tái
+tôi muốn bỏ món nem trong đơn hàng
+làm ơn cho tôi đặt 6 ly trà sữa chay 1 giờ tối
+cho thêm 4 phở bò thịt vào đơn nhé
+tôi muốn lấy 2 cơm rang nhiều đá hai giờ
+thêm vào 6 bún chả
+tôi muốn cho sáu phở bò trứng vào lúc mười một giờ
+tôi muốn cho 7 cơm rang thịt
+thêm vào mười tô trà sữa
+thêm vào 4 nem vào đơn nhé
+tôi muốn lấy mười hai bát phở bò thịt
+làm ơn cho lấy 5 suất nem cay
+thêm 1 bún chả
+làm ơn cho tôi lấy 11 ly nem vào 3 giờ
+tôi muốn bỏ cơm rang vào đơn nhé
+cho thêm tám bánh mì
+làm ơn cho tôi cho bảy ly phở bò
+thêm vào mười một suất cơm rang
+cho thêm 9 tô nem tái vào đơn
+tôi muốn lấy 3 nem 2 giờ
+cho thêm 4 tô phở bò
+cho tôi cho mười một nem trứng
+cho thêm 12 cái bánh mì
+cho tôi bỏ bún chả giúp tôi
+làm ơn cho tôi xóa gà rán vào đơn nhé
+thêm vào bảy phở bò
+cho tôi lấy 6 bún chả
+thêm vào 7 cốc nem
+thêm một nem nhiều rau trong đơn hàng
+thêm vào hai ly trà sữa mặn giúp tôi
+làm ơn cho bỏ cơm rang giúp tôi
+cho thêm bốn trà sữa vào đơn nhé
+làm ơn cho bỏ món cơm rang
+thêm vào 1 suất nem
+thêm 2 cơm rang cay
+thêm vào 12 bát phở bò mặn
+nhà hàng có món nem không
+thêm ba cốc gà rán trong đơn hàng
+thêm vào hai ly trà sữa trứng
+thêm bảy phở bò
+làm ơn cho cho chín tô bánh mì
+làm ơn cho đặt 12 ổ phở bò cay lúc hai giờ
+cho thêm sáu tô phở bò cay vào đơn nhé
+làm ơn cho tôi lấy ba cái cơm rang tái
+làm ơn cho tôi bỏ món bánh mì
+làm ơn cho tôi lấy mười một bánh mì mặn lúc 6 giờ trưa
+làm ơn cho cho bảy bánh mì ít đường
+thêm 11 ổ trà sữa nhiều đá vào đơn
+thêm 3 cái cơm rang
+cho tôi xóa món gà rán giúp tôi
+thêm hai ổ cơm rang vào đơn nhé
+làm ơn cho tôi cho 5 bát bún chả
+tôi muốn hủy phở bò giúp tôi
+thêm 9 suất trà sữa tái trong đơn hàng
+làm ơn cho tôi hủy món phở bò
+làm ơn cho đặt 8 bánh mì trứng
+cho thêm 8 suất phở bò mặn giúp tôi
+tôi muốn đặt 6 gà rán cay
+làm ơn cho hủy trà sữa trong đơn hàng
+thêm 12 cơm rang tái vào đơn
+làm ơn cho cho 3 cái gà rán hải sản
+cho thêm mười hai phở bò trong đơn hàng
+tôi muốn xóa món bún chả vào đơn nhé
+nhà hàng có món cơm rang không
+thêm chín cơm rang mặn vào đơn
+thêm vào 1 nem thịt vào đơn
+thêm 12 ổ bún chả
+cho thêm 1 phần phở bò
+cho thêm mười trà sữa mặn
+cho tôi cho 9 ly bánh mì trứng
+thêm vào 7 phở bò
+làm ơn cho đặt 2 phần gà rán nhiều đá
+làm ơn cho xóa món cơm rang
+làm ơn cho cho mười một cơm rang mặn
+thêm chín trà sữa giúp tôi
+cho tôi cho tám ly phở bò nhiều đá 6 giờ
+tôi muốn lấy chín ly gà rán nhiều rau 2 giờ trưa
+làm ơn cho đặt 11 tô bánh mì hải sản lúc 11 giờ chiều
+thêm bốn phần trà sữa trứng
+làm ơn cho đặt 7 suất trà sữa thịt
+thêm vào chín bát gà rán thịt vào đơn
+thêm vào hai cái cơm rang cay
+làm ơn cho lấy ba bún chả chín giờ tối
+thêm vào bốn trà sữa trong đơn hàng
+tôi muốn đặt mười hai gà rán lúc 12 giờ
+làm ơn cho bỏ bún chả
+thêm 6 suất trà sữa
+thêm 6 cơm rang trong đơn hàng
+làm ơn cho tôi hủy trà sữa trong đơn hàng
+làm ơn cho đặt 4 gà rán mặn
+làm ơn cho đặt sáu bánh mì
+làm ơn cho tôi lấy 9 suất cơm rang
+cho thêm mười một bát trà sữa
+cho tôi đặt năm cơm rang nhiều đá
+làm ơn cho đặt sáu bún chả lúc 12 giờ chiều
+cho thêm 2 phần trà sữa
+làm ơn cho hủy món cơm rang vào đơn nhé
+làm ơn cho tôi lấy 4 phở bò
+thêm mười một cơm rang vào đơn nhé
+làm ơn cho tôi cho 5 ổ cơm rang vào bốn giờ sáng
+thêm 9 trà sữa ít đường vào đơn
+cho thêm 5 phở bò không cay giúp tôi
+tôi muốn lấy năm nem mười giờ
+thêm 7 phở bò vào đơn nhé
+làm ơn cho bỏ món gà rán vào đơn nhé
+cho tôi đặt năm tô nem không cay mười giờ tối
+làm ơn cho tôi đặt bảy nem
+tôi muốn đặt năm cơm rang
+làm ơn cho đặt 7 bát phở bò tái
+cho thêm tám bún chả không cay
+làm ơn cho xóa món trà sữa vào đơn
+làm ơn cho lấy 11 suất bún chả nhiều rau
+tôi muốn đặt chín tô trà sữa chay
+cho thêm 11 cốc cơm rang ít đường
+làm ơn cho tôi đặt 2 bánh mì tái
+làm ơn cho cho 4 bún chả hải sản 8 giờ chiều
+làm ơn cho đặt 4 trà sữa nhiều rau lúc bảy giờ
+tôi muốn lấy tám bánh mì giao ba giờ trưa
+thêm 3 cái nem vào đơn nhé
+tôi muốn lấy ba trà sữa tái
+làm ơn cho tôi cho 12 nem
+cho tôi lấy 11 gà rán giao lúc 10 giờ sáng
+thêm vào 2 trà sữa hải sản
+làm ơn cho tôi đặt sáu bánh mì nhiều đá hai giờ sáng
+làm ơn cho tôi lấy 9 cái phở bò mặn
+tôi muốn cho một suất nem chín giờ sáng
+cho tôi bỏ món phở bò
+thêm vào 8 bánh mì trứng vào đơn
+làm ơn cho tôi cho 8 ly gà rán ít đường
+cho thêm 10 trà sữa nhiều rau
+làm ơn cho tôi cho 5 suất trà sữa ít đường vào lúc 9 giờ
+tôi muốn đặt mười gà rán chay
+thêm vào 3 cơm rang vào đơn
+cho tôi đặt năm ly cơm rang
+cho tôi lấy bốn phở bò
+tôi muốn đặt bảy suất nem chay hai giờ
+tôi muốn đặt mười phần bún chả mặn
+tôi muốn bỏ món bánh mì trong đơn hàng
+làm ơn cho hủy bánh mì giúp tôi
+làm ơn cho tôi lấy 1 ly nem
+thêm 4 bát phở bò
+thêm vào 7 gà rán
+cho tôi đặt mười bát phở bò vào lúc 9 giờ tối
+cho tôi lấy ba cốc trà sữa thịt
+thêm vào tám bún chả vào đơn
+làm ơn cho tôi cho bảy trà sữa 12 giờ trưa
+tôi muốn xóa món phở bò vào đơn
+thêm bốn ly phở bò
+cho tôi lấy mười phở bò
+làm ơn cho cho bảy bánh mì giao ba giờ tối
+tôi muốn lấy 9 tô cơm rang cay
+làm ơn cho tôi đặt 10 ổ cơm rang trứng
+tôi muốn đặt 2 nem chay giao lúc bốn giờ sáng
+thêm vào 5 ly cơm rang
+tôi muốn bỏ trà sữa trong đơn hàng
+cho tôi bỏ món bún chả vào đơn
+cho tôi lấy 2 ổ gà rán chay ba giờ sáng
+cho thêm 11 cốc gà rán ít đường giúp tôi
+làm ơn cho tôi đặt 12 bát cơm rang giao lúc một giờ
+làm ơn cho tôi lấy sáu nem thịt bốn giờ trưa
+làm ơn cho tôi đặt bốn ổ gà rán tái
+cho thêm tám phần nem vào đơn
+cho thêm chín gà rán trong đơn hàng
+làm ơn cho xóa món bún chả vào đơn nhé
+làm ơn cho hủy nem
+thêm 4 bát bún chả không cay
+cho thêm một tô cơm rang ít đường vào đơn nhé
+làm ơn cho hủy phở bò
+làm ơn cho đặt tám ly phở bò
+thêm vào sáu phần trà sữa
+cho thêm mười hai gà rán giúp tôi
+làm ơn cho tôi đặt 5 cái bún chả
+có cơm rang không
+cho tôi lấy 2 bánh mì giao lúc 4 giờ
+làm ơn cho tôi cho 3 bát phở bò
+tôi muốn bỏ cơm rang trong đơn hàng
+thêm vào 6 cốc nem
+cho thêm 9 suất trà sữa giúp tôi
+tôi muốn cho tám bánh mì ít đường
+làm ơn cho lấy 9 gà rán
+cho tôi hủy món bánh mì vào đơn nhé
+cho tôi bỏ món cơm rang trong đơn hàng
+làm ơn cho tôi xóa món phở bò giúp tôi
+thêm 7 bún chả giúp tôi
+cho tôi cho 7 ly cơm rang
+thêm hai phở bò vào đơn nhé
+thêm mười bát trà sữa
+làm ơn cho tôi cho mười một ly bánh mì
+cho tôi lấy tám bánh mì
+làm ơn cho hủy gà rán trong đơn hàng
+làm ơn cho tôi xóa món gà rán trong đơn hàng
+làm ơn cho hủy cơm rang giúp tôi
+nhà hàng có phở bò không
+làm ơn cho tôi đặt tám ly gà rán không cay
+cho thêm hai nem trong đơn hàng
+cho thêm 9 cái nem nhiều đá vào đơn
+thêm năm tô phở bò trong đơn hàng
+cho thêm hai trà sữa
+thêm sáu phở bò trứng trong đơn hàng
+làm ơn cho tôi đặt sáu cơm rang hải sản
+cho tôi hủy món phở bò giúp tôi
+tôi muốn xóa phở bò vào đơn nhé
+thêm vào sáu bát trà sữa nhiều rau
+thêm vào hai ly phở bò giúp tôi
+cho tôi đặt 11 cốc cơm rang giao lúc năm giờ chiều
+thêm vào 9 ổ gà rán
+làm ơn cho tôi đặt sáu cái phở bò nhiều đá
+làm ơn cho tôi lấy 8 bánh mì
+làm ơn cho tôi đặt 5 suất trà sữa lúc chín giờ
+thêm vào 4 cái bánh mì giúp tôi
+món gà rán giá bao nhiêu
+tôi muốn đặt tám ổ cơm rang lúc 10 giờ tối
+tôi muốn lấy một bún chả trứng
+món phở bò bao nhiêu tiền
+làm ơn cho xóa món gà rán vào đơn nhé
+làm ơn cho bỏ món bánh mì trong đơn hàng
+cho tôi hủy món trà sữa vào đơn
+làm ơn cho tôi cho 11 ly cơm rang không cay bảy giờ trưa
+làm ơn cho tôi lấy 3 bát trà sữa giao lúc 6 giờ trưa
+làm ơn cho đặt bảy ly bún chả không cay 8 giờ
+làm ơn cho hủy món gà rán vào đơn nhé
+làm ơn cho tôi cho 12 tô nem
+cho thêm 7 ổ nem mặn
+làm ơn cho tôi cho 4 bánh mì nhiều đá
+thêm bốn tô trà sữa vào đơn nhé
+tôi muốn đặt 4 phần phở bò
+tôi muốn lấy mười hai phở bò mặn
+làm ơn cho tôi đặt 10 phở bò mặn
+thêm vào 10 nem giúp tôi
+tôi muốn cho hai cốc phở bò nhiều đá bảy giờ
+thêm mười hai cơm rang cay
+thêm vào hai bánh mì giúp tôi
+cho tôi hủy gà rán
+làm ơn cho cho 8 cơm rang thịt giao 11 giờ sáng
+tôi muốn đặt 10 cơm rang
+cho tôi lấy bảy trà sữa tái
+cho tôi lấy 12 phở bò mặn
+làm ơn cho tôi hủy món bánh mì giúp tôi
+làm ơn cho tôi hủy cơm rang
+cho thêm ba bát gà rán ít đường vào đơn
+làm ơn cho cho 2 trà sữa
+thêm bảy ổ bún chả giúp tôi
+cho tôi bỏ bánh mì vào đơn
+tôi muốn cho năm cơm rang lúc 9 giờ
+cho thêm một tô phở bò nhiều rau
+thêm 4 trà sữa
+làm ơn cho tôi cho bảy ổ bánh mì
+cho thêm bảy bát bánh mì
+làm ơn cho tôi hủy bánh mì giúp tôi
+thêm 4 suất gà rán tái trong đơn hàng
+cho thêm năm phần nem chay vào đơn
+thêm 3 bánh mì
+thêm vào một tô cơm rang giúp tôi
+cho tôi lấy 4 phần gà rán ít đường
+cho thêm 12 cốc trà sữa
+làm ơn cho tôi lấy hai cơm rang mặn
+làm ơn cho tôi đặt 6 ổ bún chả
+làm ơn cho hủy gà rán giúp tôi
+làm ơn cho lấy mười một bánh mì thịt 11 giờ
+tôi muốn cho một phở bò
+cho tôi bỏ món bún chả vào đơn nhé
+tôi muốn đặt 5 nem 3 giờ tối
+thêm vào 9 phần gà rán thịt
+thêm vào 6 bún chả nhiều rau trong đơn hàng
+thêm một cơm rang trong đơn hàng
+làm ơn cho lấy chín ly bánh mì
+cho tôi hủy món bún chả giúp tôi
+cho tôi lấy 9 cơm rang mười một giờ
+làm ơn cho tôi hủy món nem giúp tôi
+làm ơn cho đặt 12 nem hai giờ sáng
+tôi muốn xóa món nem giúp tôi
+tôi muốn đặt bốn cái bánh mì 8 giờ
+thêm vào tám suất nem giúp tôi
+thêm 2 cốc cơm rang thịt giúp tôi
+tôi muốn đặt mười bún chả cay một giờ
+tôi muốn hủy món nem
+cho tôi lấy ba trà sữa nhiều rau 4 giờ
+thêm vào mười một cơm rang trứng trong đơn hàng
+quán có bánh mì không
+cho tôi hủy món gà rán trong đơn hàng
+làm ơn cho cho hai phần bánh mì thịt
+cho thêm một bánh mì giúp tôi
+làm ơn cho cho 2 bát bánh mì ít đường
+cho thêm 8 suất bún chả
+thêm bốn tô bánh mì
+thêm vào sáu bát bánh mì vào đơn
+thêm vào một tô gà rán thịt
+thêm vào 10 cơm rang vào đơn
+làm ơn cho cho tám bát phở bò nhiều đá 9 giờ
+thêm vào mười tô trà sữa trong đơn hàng
+thêm chín phở bò
+làm ơn cho tôi đặt 8 ly gà rán chín giờ
+làm ơn cho tôi cho 10 gà rán cay
+cho tôi đặt 5 suất trà sữa tám giờ sáng
+làm ơn cho lấy một tô phở bò 5 giờ trưa
+làm ơn cho tôi lấy một cốc trà sữa không cay
+thêm vào 2 cốc phở bò hải sản
+thêm 4 bánh mì không cay
+tôi muốn cho 5 cốc phở bò trứng mười một giờ sáng
+làm ơn cho cho bốn suất gà rán
+làm ơn cho lấy 6 bún chả thịt
+thêm 12 bún chả giúp tôi
+thêm bảy phở bò vào đơn nhé
+cho thêm 1 suất cơm rang ít đường vào đơn
+làm ơn cho đặt 5 bánh mì
+cho thêm 3 nem ít đường
+làm ơn cho tôi bỏ phở bò trong đơn hàng
+làm ơn cho tôi hủy món bún chả
+tôi muốn đặt 5 bún chả tái
+cho tôi cho 8 cốc bún chả sáu giờ tối
+tôi muốn đặt 9 bát nem giao lúc 5 giờ chiều
+thêm chín bánh mì
+tôi muốn cho 7 cơm rang nhiều đá
+thêm vào sáu trà sữa trứng
+thêm chín ly bún chả giúp tôi
+cho thêm 1 bún chả thịt
+cho thêm 5 tô trà sữa chay vào đơn
+cho tôi xóa món nem
+thêm vào 7 bún chả
+làm ơn cho tôi đặt hai ổ gà rán mười giờ
+làm ơn cho hủy món bánh mì vào đơn
+thêm vào 9 phần cơm rang
+làm ơn cho lấy hai cơm rang thịt
+thêm vào mười một suất nem nhiều đá
+tôi muốn lấy 5 nem vào chín giờ
+cho tôi hủy món gà rán vào đơn
+cho tôi đặt 8 tô nem nhiều rau năm giờ chiều
+làm ơn cho tôi đặt 1 suất bánh mì
+làm ơn cho tôi cho bốn cơm rang
+tôi muốn cho 9 bánh mì chay
+làm ơn cho bỏ gà rán
+ở đây có gà rán không
+làm ơn cho tôi xóa cơm rang giúp tôi
+cho tôi đặt mười một trà sữa lúc sáu giờ
+cho tôi cho 11 phần bún chả hải sản
+cho tôi lấy hai nem chay
+cho tôi đặt 11 ổ gà rán không cay
+cho tôi xóa món phở bò vào đơn nhé
+thêm 4 cốc phở bò thịt
+làm ơn cho hủy món trà sữa
+làm ơn cho tôi cho 5 ổ nem
+làm ơn cho đặt mười cái bún chả ba giờ tối
+thêm vào 10 trà sữa ít đường
+làm ơn cho lấy 11 nem ít đường
+làm ơn cho tôi đặt 6 cái bún chả ít đường
+cho thêm 6 suất bánh mì nhiều rau vào đơn nhé
+làm ơn cho tôi đặt 3 trà sữa cay 2 giờ chiều
+cho tôi đặt 10 bún chả hải sản sáu giờ
+cho thêm năm bát trà sữa
+cho tôi đặt 3 phần nem
+thêm vào ba trà sữa giúp tôi
+cho tôi bỏ món bún chả trong đơn hàng
+thêm vào sáu gà rán
+cho tôi xóa phở bò
+cho thêm mười một tô trà sữa nhiều đá vào đơn nhé
+thêm vào sáu gà rán nhiều rau
+thêm vào mười suất gà rán ít đường trong đơn hàng
+cho tôi đặt 9 phần gà rán không cay sáu giờ tối
+làm ơn cho tôi đặt mười một nem
+cho thêm 2 bánh mì
+làm ơn cho cho một ổ bánh mì không cay vào lúc ba giờ
+tôi muốn cho bốn phở bò nhiều rau
+cho thêm một nem vào đơn
+làm ơn cho lấy tám nem nhiều rau
+thêm vào 8 bát nem
+cho thêm 8 cốc bún chả trong đơn hàng
+thêm vào 6 cốc cơm rang cay vào đơn nhé
+làm ơn cho tôi đặt chín ly gà rán trứng giao lúc năm giờ trưa
+thêm vào tám trà sữa tái
+cho thêm 6 cái nem
+cho tôi cho 6 cơm rang thịt 3 giờ
+tôi muốn bỏ món bún chả
+quán có gà rán không
+thêm vào ba cơm rang mặn giúp tôi
+làm ơn cho lấy một ổ nem
+tôi muốn đặt ba phần nem 10 giờ
+thêm vào 4 gà rán trứng
+cho tôi cho 12 bún chả nhiều rau 10 giờ
+thêm 9 bánh mì giúp tôi
+cho thêm 7 bún chả
+tôi muốn lấy sáu cốc phở bò thịt hai giờ
+làm ơn cho lấy mười phần bánh mì thịt 5 giờ chiều
+tôi muốn đặt mười ổ bún chả cay
+làm ơn cho tôi đặt 5 ly gà rán giao mười hai giờ
+làm ơn cho lấy mười bánh mì ít đường
+cho thêm mười trà sữa cay
+món trà sữa bao nhiêu tiền
+thêm vào 5 suất phở bò giúp tôi
+thêm tám ổ cơm rang
+thêm vào 7 ly bún chả hải sản vào đơn
+cho thêm 1 cơm rang ít đường vào đơn nhé
+tôi muốn cho ba cơm rang hải sản
+thêm vào 10 tô gà rán
+thêm vào một ổ bánh mì cay
+thêm 5 ổ cơm rang trong đơn hàng
+thêm vào bảy phần bánh mì trong đơn hàng
+tôi muốn lấy mười hai tô phở bò trứng
+thêm bốn ly bún chả
+thêm vào 9 ly cơm rang giúp tôi
+tôi muốn lấy sáu nem
+quán có món cơm rang không
+làm ơn cho đặt 1 nem
+cho tôi hủy món trà sữa trong đơn hàng
+thêm mười cái gà rán
+tôi muốn đặt 2 bánh mì nhiều đá
+cho tôi xóa bún chả giúp tôi
+làm ơn cho tôi cho 3 suất nem hải sản
+cơm rang bao nhiêu tiền
+cho thêm mười hai phở bò giúp tôi
+nem giá bao nhiêu
+thêm tám bát gà rán
+cho tôi lấy tám ổ trà sữa hải sản
+thêm hai cốc phở bò
+làm ơn cho tôi cho bảy phở bò không cay 12 giờ
+cho thêm 12 cái phở bò
+làm ơn cho hủy món gà rán vào đơn
+tôi muốn cho sáu cơm rang
+thêm 6 phần bánh mì
+tôi muốn đặt tám gà rán nhiều rau bốn giờ trưa
+làm ơn cho lấy bảy tô phở bò hải sản
+cho thêm mười suất gà rán hải sản
+cho thêm hai bát phở bò
+làm ơn cho hủy món phở bò
+cho tôi cho 4 ổ bánh mì tám giờ
+cho tôi đặt 9 trà sữa nhiều rau
+tôi muốn hủy trà sữa giúp tôi
+cho tôi đặt mười một ổ cơm rang chay vào lúc mười hai giờ trưa
+thêm vào 5 phở bò trứng
+tôi muốn xóa bánh mì
+cho thêm hai suất bánh mì trong đơn hàng
+thêm vào 3 phần phở bò nhiều đá vào đơn nhé
+tôi muốn lấy 5 gà rán ít đường ba giờ chiều
+cho thêm 12 gà rán
+thêm chín nem mặn trong đơn hàng
+cho thêm chín gà rán vào đơn
+thêm 2 phở bò
+làm ơn cho cho 11 gà rán
+tôi muốn xóa cơm rang
+tôi muốn đặt 5 cốc gà rán mặn
+làm ơn cho cho chín ổ bánh mì vào hai giờ tối
+cho tôi hủy món cơm rang vào đơn
+tôi muốn lấy bốn tô nem
+phở bò giá bao nhiêu
+thêm vào 5 nem ít đường
+thêm vào 10 nem
+tôi muốn bỏ món phở bò vào đơn
+thêm sáu cốc trà sữa
+cho tôi đặt 8 ly gà rán không cay
+thêm tám suất phở bò vào đơn
+tôi muốn lấy mười một phần gà rán bảy giờ trưa
+thêm vào 7 gà rán trứng vào đơn
+thêm 11 ly cơm rang không cay giúp tôi
+cho tôi cho 9 suất gà rán nhiều đá
+cho thêm mười phần nem
+thêm chín bún chả
+thêm vào ba ly cơm rang chay vào đơn nhé
+cho thêm 8 cốc gà rán thịt trong đơn hàng
+tôi muốn đặt 11 cơm rang
+thêm vào năm bát trà sữa nhiều rau
+cho tôi cho mười một tô nem
+cho thêm mười ly trà sữa trứng
+làm ơn cho đặt 3 cốc nem 9 giờ chiều
+tôi muốn đặt bốn suất trà sữa mặn lúc 11 giờ sáng
+thêm năm ổ bánh mì chay trong đơn hàng
+cho thêm 3 phở bò nhiều rau trong đơn hàng
+cho tôi đặt bốn phần cơm rang
+thêm vào 3 cốc cơm rang chay trong đơn hàng
+cho thêm sáu bánh mì
+tôi muốn đặt tám gà rán chay
+làm ơn cho tôi xóa phở bò vào đơn nhé
+thêm bốn phở bò
+thêm vào năm phở bò không cay trong đơn hàng
+tôi muốn lấy 5 nem lúc 3 giờ tối
+làm ơn cho tôi đặt một bánh mì hải sản
+thêm vào mười hai cốc gà rán
+cho thêm 1 suất gà rán trứng
+làm ơn cho xóa món trà sữa
+làm ơn cho tôi đặt 8 cái bún chả không cay
+làm ơn cho tôi bỏ món bún chả trong đơn hàng
+làm ơn cho tôi xóa bún chả vào đơn nhé
+làm ơn cho tôi đặt mười cái nem ít đường vào lúc sáu giờ
+làm ơn cho tôi đặt mười một cơm rang
+làm ơn cho cho 2 ly bánh mì
+cho tôi đặt năm trà sữa không cay
+thêm vào 6 bún chả vào đơn
+cho tôi xóa gà rán vào đơn nhé
+thêm sáu nem mặn
+tôi muốn cho 1 trà sữa không cay
+làm ơn cho tôi cho ba cái trà sữa chay
+làm ơn cho lấy mười một gà rán bảy giờ
+cho tôi lấy chín gà rán ít đường vào lúc 4 giờ trưa
+thêm vào 8 ly phở bò ít đường vào đơn nhé
+thêm vào 3 cái phở bò
+cho thêm chín bánh mì chay
+làm ơn cho lấy bảy cái phở bò hải sản 12 giờ
+tôi muốn bỏ nem trong đơn hàng
+cho tôi cho 5 cơm rang
+làm ơn cho đặt mười hai bát cơm rang thịt
+thêm 11 phở bò trong đơn hàng
+thêm hai trà sữa mặn
+thêm ba gà rán
+làm ơn cho tôi hủy món bún chả giúp tôi
+làm ơn cho tôi đặt mười hai gà rán giao năm giờ
+thêm vào năm bánh mì
+thêm vào hai suất phở bò nhiều rau
+cho thêm mười gà rán hải sản
+cho thêm mười một bún chả nhiều rau vào đơn
+món bánh mì bao nhiêu tiền
+làm ơn cho tôi đặt bảy cái cơm rang hải sản mười giờ trưa
+thêm vào năm cốc bánh mì ít đường trong đơn hàng
+làm ơn cho tôi cho 8 phở bò chay
+làm ơn cho lấy 4 phở bò
+cho thêm 11 phở bò
+làm ơn cho tôi cho sáu nem giao lúc năm giờ chiều
+tôi muốn lấy 6 phở bò không cay tám giờ
+thêm vào bảy bún chả chay vào đơn nhé
+tôi muốn lấy 8 tô nem thịt
+thêm vào mười một bún chả nhiều rau giúp tôi
+thêm mười hai bánh mì chay
+làm ơn cho lấy chín bánh mì cay
+thêm vào 8 phần cơm rang nhiều rau
+làm ơn cho lấy chín bát gà rán tái lúc ba giờ sáng
+thêm vào 11 phần nem thịt giúp tôi
+thêm vào 12 phần cơm rang chay
+cho thêm chín phở bò không cay trong đơn hàng
+làm ơn cho đặt 11 cái phở bò trứng
+tôi muốn lấy một tô gà rán một giờ
+làm ơn cho cho mười gà rán
+thêm vào 2 bát bún chả nhiều đá vào đơn
+làm ơn cho lấy mười hai phở bò nhiều đá
+làm ơn cho cho một bát bún chả
+thêm vào một ổ cơm rang tái
+thêm vào mười một cơm rang hải sản
+thêm 5 gà rán thịt vào đơn
+thêm vào mười hai ổ bánh mì mặn
+tôi muốn bỏ gà rán vào đơn
+thêm vào tám bát bánh mì
+cho tôi lấy 11 bát bún chả năm giờ trưa
+tôi muốn bỏ bánh mì trong đơn hàng
+cho tôi bỏ trà sữa vào đơn nhé
+làm ơn cho đặt sáu phần nem
+cho thêm 3 gà rán nhiều rau
+làm ơn cho hủy món bún chả trong đơn hàng
+cho tôi cho chín trà sữa nhiều rau
+làm ơn cho đặt năm nem giao bốn giờ trưa
+cho tôi đặt 12 cái trà sữa nhiều đá vào 12 giờ tối
+cho thêm 4 trà sữa ít đường trong đơn hàng
+cho thêm 7 bún chả trong đơn hàng
+làm ơn cho tôi cho 8 bánh mì cay giao lúc 12 giờ
+làm ơn cho tôi cho chín tô nem giao lúc chín giờ trưa
+cho thêm 4 tô gà rán không cay giúp tôi
+làm ơn cho hủy gà rán
+tôi muốn đặt 1 bát trà sữa mặn
+thêm vào 1 cơm rang không cay trong đơn hàng
+làm ơn cho đặt mười một ly bún chả
+làm ơn cho tôi xóa phở bò
+thêm vào 4 ổ cơm rang giúp tôi
+cho thêm chín cái bánh mì mặn
+thêm chín trà sữa hải sản vào đơn nhé
+làm ơn cho đặt 10 bát bún chả giao lúc 6 giờ
+cho thêm 2 bún chả
+cho thêm bốn cốc trà sữa
+làm ơn cho xóa cơm rang trong đơn hàng
+cho tôi đặt năm bát bánh mì bốn giờ
+làm ơn cho tôi hủy món cơm rang giúp tôi
+thêm tám nem trứng vào đơn nhé
+làm ơn cho tôi lấy bảy ổ nem tái
+tôi muốn bỏ bánh mì giúp tôi
+cho tôi cho hai nem
+làm ơn cho tôi xóa món phở bò vào đơn
+tôi muốn đặt 4 cốc bún chả 1 giờ
+làm ơn cho tôi cho 2 trà sữa giao mười một giờ trưa
+làm ơn cho tôi lấy 12 ổ nem ít đường 7 giờ
+thêm 3 cơm rang
+làm ơn cho cho chín bánh mì trứng giao 12 giờ
+tôi muốn xóa bánh mì vào đơn nhé
+thêm tám suất nem
+thêm 8 bánh mì
+làm ơn cho đặt 7 ly bánh mì hải sản vào lúc 9 giờ tối
+thêm vào mười tô cơm rang
+thêm vào 7 cơm rang
+cho tôi xóa món cơm rang vào đơn
+cho tôi hủy nem
+tôi muốn hủy phở bò vào đơn
+làm ơn cho tôi đặt 11 tô gà rán 10 giờ tối
+thêm vào năm ly gà rán giúp tôi
+thêm 4 ổ bánh mì
+cho tôi hủy nem vào đơn nhé
+thêm vào mười hai nem hải sản vào đơn
+tôi muốn cho bốn bánh mì cay 1 giờ chiều
+tôi muốn xóa món bún chả giúp tôi
+làm ơn cho cho 1 cốc bánh mì thịt
+thêm vào 4 phở bò
+làm ơn cho tôi lấy một cốc trà sữa chay
+làm ơn cho tôi lấy mười một ly nem trứng sáu giờ tối
+làm ơn cho bỏ món bún chả giúp tôi
+thêm vào 2 suất trà sữa vào đơn
+cho tôi xóa món phở bò vào đơn
+thêm chín trà sữa nhiều đá
+làm ơn cho bỏ món trà sữa
+cho tôi lấy sáu cốc gà rán 10 giờ
+tôi muốn đặt bảy cốc cơm rang
+thêm vào ba ly phở bò nhiều rau
+làm ơn cho tôi cho 9 ly phở bò
+tôi muốn bỏ món phở bò giúp tôi
+cho thêm 3 phở bò trong đơn hàng
+cho thêm 1 gà rán trong đơn hàng
+thêm vào sáu bát nem trong đơn hàng
+thêm vào 11 ly bánh mì
+cho thêm 11 trà sữa nhiều rau
+cho tôi hủy bánh mì
+làm ơn cho tôi đặt 12 nem
+cho tôi cho sáu ly cơm rang
+thêm vào 2 cốc gà rán
+làm ơn cho đặt 3 suất trà sữa nhiều đá tám giờ trưa
+thêm chín bát nem cay vào đơn
+làm ơn cho lấy 1 tô nem nhiều rau
+làm ơn cho tôi bỏ món nem vào đơn
+cho thêm 7 trà sữa vào đơn nhé
+tôi muốn bỏ phở bò vào đơn
+thêm năm cơm rang thịt
+thêm tám gà rán không cay giúp tôi
+tôi muốn đặt 5 trà sữa
+làm ơn cho tôi bỏ nem vào đơn
+cho tôi cho hai suất cơm rang vào chín giờ
+làm ơn cho tôi hủy bánh mì
+làm ơn cho tôi xóa món bún chả
+cho tôi xóa món trà sữa vào đơn
+làm ơn cho cho 12 phở bò không cay
+ở đây có món trà sữa không
+thêm vào 3 phần bánh mì trong đơn hàng
+thêm 4 bún chả cay
+làm ơn cho tôi xóa món nem vào đơn
+làm ơn cho tôi bỏ cơm rang
+làm ơn cho tôi đặt 1 nem
+cho thêm bảy bún chả
+làm ơn cho đặt sáu suất phở bò mặn
+làm ơn cho tôi cho 2 tô trà sữa không cay giao lúc một giờ tối
+cho thêm 6 tô cơm rang
+thêm vào bốn cốc bánh mì nhiều rau
+tôi muốn xóa món phở bò
+làm ơn cho hủy cơm rang vào đơn nhé
+cho thêm 11 nem
+cho thêm mười một bánh mì không cay
+làm ơn cho lấy mười hai phở bò giao chín giờ
+làm ơn cho tôi cho bốn cơm rang cay
+thêm ba bát cơm rang hải sản
+tôi muốn cho 7 ly gà rán
+cho tôi cho 10 bát phở bò hải sản
+cho thêm 10 nem mặn
+làm ơn cho đặt 3 phần phở bò vào lúc một giờ chiều
+cho thêm 10 nem
+thêm 11 tô trà sữa vào đơn
+tôi muốn bỏ món bánh mì
+cho tôi xóa món cơm rang giúp tôi
+cho tôi lấy 1 bún chả
+thêm 2 phở bò giúp tôi
+làm ơn cho cho 1 cốc bún chả chay giao lúc chín giờ
+thêm vào ba cơm rang
+cho tôi lấy chín cơm rang vào lúc 5 giờ chiều
+làm ơn cho tôi cho 7 tô trà sữa trứng giao lúc năm giờ tối
+cho tôi cho 3 ly cơm rang
+làm ơn cho tôi lấy 2 bát phở bò lúc 8 giờ
+làm ơn cho cho 9 suất cơm rang nhiều đá
+tôi muốn đặt 9 ly phở bò hai giờ sáng
+làm ơn cho cho sáu bánh mì hải sản
+làm ơn cho xóa nem giúp tôi
+thêm vào 4 cốc bún chả tái vào đơn
+làm ơn cho tôi đặt bảy tô trà sữa thịt
+cho tôi lấy 3 nem mặn 4 giờ chiều
+thêm 12 nem không cay trong đơn hàng
+cho tôi đặt mười một phở bò nhiều đá
+cho tôi lấy 3 tô phở bò vào 1 giờ trưa
+thêm vào 10 suất trà sữa tái
+thêm vào 3 phở bò giúp tôi
+tôi muốn hủy bánh mì trong đơn hàng
+thêm vào chín phở bò
+làm ơn cho tôi bỏ món phở bò vào đơn nhé
+thêm vào bảy ly trà sữa trứng
+cho thêm 5 suất nem
+cho thêm 12 cái cơm rang giúp tôi
+làm ơn cho tôi cho 12 tô trà sữa
+cho tôi cho ba phở bò lúc bốn giờ
+làm ơn cho tôi cho 9 cốc bún chả
+làm ơn cho đặt 11 cốc nem trứng
+cho tôi cho 12 nem
+cho tôi cho một phở bò thịt
+cho thêm 4 bát cơm rang
+cho thêm 9 gà rán
+cho thêm 8 gà rán vào đơn nhé
+tôi muốn cho mười một bún chả
+cho tôi đặt mười hai bún chả
+tôi muốn đặt sáu cơm rang
+thêm vào tám phần phở bò hải sản
+thêm vào 10 ổ cơm rang
+thêm vào mười hai nem
+làm ơn cho tôi đặt năm bát trà sữa tái
+làm ơn cho đặt 11 ổ phở bò mặn giao mười một giờ trưa
+cho thêm mười hai bát cơm rang hải sản vào đơn nhé
+tôi muốn cho 9 ly phở bò
+làm ơn cho đặt 5 phở bò chay giao một giờ
+cho tôi đặt ba phở bò
+tôi muốn lấy chín nem
+tôi muốn lấy mười một cơm rang không cay giao lúc 8 giờ tối
+làm ơn cho tôi cho mười hai cái cơm rang vào bảy giờ chiều
+làm ơn cho tôi xóa món bún chả vào đơn nhé
+cho tôi cho 12 phở bò cay
+cho thêm 6 bánh mì trong đơn hàng
+cho tôi cho năm bát bánh mì 9 giờ trưa
+thêm vào 7 cơm rang mặn vào đơn
+làm ơn cho đặt bảy suất trà sữa 9 giờ
+làm ơn cho đặt 2 ly phở bò nhiều đá
+thêm một gà rán
+cho tôi hủy cơm rang vào đơn nhé
+tôi muốn lấy mười trà sữa mười giờ
+tôi muốn cho 6 cái trà sữa nhiều rau lúc 10 giờ
+nhà hàng có món gà rán không
+tôi muốn đặt 5 cơm rang vào 1 giờ
+làm ơn cho tôi lấy 11 cái trà sữa chay 8 giờ chiều
+tôi muốn lấy năm cái phở bò tái
+thêm một ổ bún chả trong đơn hàng
+thêm chín ly phở bò
+cho tôi đặt năm ổ gà rán cay
+thêm mười hai trà sữa thịt vào đơn nhé
+thêm vào mười trà sữa trong đơn hàng
+cho thêm chín bún chả trong đơn hàng
+thêm năm tô gà rán thịt trong đơn hàng
+làm ơn cho tôi lấy tám bún chả nhiều đá chín giờ
+thêm vào sáu ổ phở bò trong đơn hàng
+thêm 4 cơm rang nhiều rau
+thêm 8 bát bánh mì nhiều đá
+thêm vào 10 phần nem
+cho tôi bỏ món bánh mì giúp tôi
+cho thêm 4 bánh mì trong đơn hàng
+làm ơn cho tôi cho 8 bát trà sữa nhiều rau
+cho tôi đặt sáu cái bún chả trứng
+tôi muốn bỏ bún chả
+tôi muốn lấy 3 ly phở bò cay 6 giờ sáng
+làm ơn cho hủy món trà sữa vào đơn nhé
+làm ơn cho tôi đặt ba suất bánh mì 3 giờ chiều
+cho thêm năm cơm rang nhiều đá
+tôi muốn bỏ món nem vào đơn nhé
+thêm vào hai ổ gà rán
+cho thêm hai bát trà sữa thịt vào đơn
+làm ơn cho tôi lấy 11 bát nem
+cho tôi đặt 7 cái trà sữa bốn giờ sáng
+cho tôi lấy mười cốc gà rán ít đường
+cho tôi xóa món bánh mì
+cho thêm tám phần phở bò cay vào đơn
+cho tôi đặt 7 bún chả không cay vào lúc bốn giờ chiều
+thêm hai tô cơm rang nhiều rau giúp tôi
+cho tôi lấy 11 bún chả giao lúc hai giờ
+thêm 6 cái cơm rang mặn
+tôi muốn cho 1 bún chả ít đường
+làm ơn cho tôi đặt 5 cơm rang trứng sáu giờ trưa
+cho tôi lấy 3 phở bò cay
+thêm vào 9 bát gà rán nhiều đá
+cho tôi lấy 4 cốc nem nhiều đá bốn giờ trưa
+cho tôi đặt 12 phở bò mặn 9 giờ tối
+cho thêm 1 bát gà rán
+làm ơn cho tôi hủy món cơm rang vào đơn nhé
+cho thêm 11 bát phở bò trong đơn hàng
+tôi muốn đặt 7 phần bún chả vào chín giờ chiều
+thêm 6 cốc trà sữa tái
+làm ơn cho tôi cho ba bún chả tái
+cho thêm bốn nem thịt vào đơn
+tôi muốn cho mười một phở bò ít đường 10 giờ sáng
+thêm vào tám cái nem giúp tôi
+làm ơn cho cho chín ly phở bò trứng
+tôi muốn lấy 11 cơm rang chay
+làm ơn cho tôi lấy bốn bánh mì lúc mười hai giờ
+làm ơn cho tôi bỏ bánh mì
+thêm ba trà sữa không cay vào đơn
+tôi muốn đặt 11 trà sữa vào lúc 11 giờ
+thêm vào 10 cơm rang ít đường
+làm ơn cho đặt 11 ổ gà rán không cay
+làm ơn cho tôi xóa món gà rán vào đơn nhé
+làm ơn cho cho 3 nem vào lúc 8 giờ
+thêm 3 cốc trà sữa thịt trong đơn hàng
+cho tôi cho 5 ly trà sữa thịt mười hai giờ
+thêm 1 ly trà sữa vào đơn
+làm ơn cho lấy một cơm rang thịt
+tôi muốn hủy món gà rán vào đơn nhé
+cho tôi xóa món phở bò giúp tôi
+làm ơn cho cho một tô bún chả bảy giờ
+làm ơn cho tôi bỏ gà rán vào đơn nhé
+cho tôi lấy chín bánh mì một giờ
+làm ơn cho đặt tám suất trà sữa giao 3 giờ chiều
+làm ơn cho tôi hủy món nem trong đơn hàng
+cho tôi đặt 1 gà rán
+cho tôi đặt bảy nem
+cho thêm mười hai gà rán chay vào đơn
+thêm năm bún chả
+làm ơn cho tôi đặt mười hai gà rán 5 giờ
+tôi muốn đặt mười phần phở bò cay
+tôi muốn lấy bốn cơm rang
+thêm 7 cốc cơm rang
+tôi muốn lấy 8 gà rán
+làm ơn cho bỏ món bún chả trong đơn hàng
+thêm 3 tô nem giúp tôi
+tôi muốn lấy 1 phần gà rán
+thêm vào sáu tô gà rán cay giúp tôi
+làm ơn cho tôi hủy món gà rán vào đơn nhé
+làm ơn cho đặt 6 cái phở bò giao lúc mười hai giờ chiều
+cho tôi đặt mười hai cốc bún chả nhiều rau 9 giờ trưa
+tôi muốn xóa nem
+tôi muốn cho bốn bún chả nhiều đá tám giờ
+cho thêm chín cốc gà rán vào đơn nhé
+cho tôi lấy 6 tô phở bò sáu giờ chiều
+thêm vào 12 phở bò thịt vào đơn
+thêm 4 ly gà rán giúp tôi
+cho tôi hủy trà sữa trong đơn hàng
+cho tôi cho 9 bánh mì trứng hai giờ
+cho tôi cho bảy cốc cơm rang
+tôi muốn bỏ món trà sữa
+cho tôi đặt mười hai ổ gà rán vào lúc một giờ
+cho tôi lấy 2 tô gà rán tái
+cho thêm 5 tô bánh mì
+cho tôi đặt 5 suất trà sữa
+cho thêm mười hai ly bánh mì vào đơn nhé
+cho tôi đặt 11 phần bánh mì ít đường
+cho thêm năm nem
+thêm mười hai bún chả hải sản trong đơn hàng
+thêm vào 9 phở bò trứng
+tôi muốn lấy một bánh mì
+cho tôi lấy 12 suất nem
+làm ơn cho tôi cho 5 cơm rang
+thêm 3 suất nem
+tôi muốn cho 5 phở bò ít đường
+làm ơn cho tôi xóa món bún chả trong đơn hàng
+làm ơn cho tôi lấy bảy gà rán nhiều rau hai giờ tối
+cho tôi xóa món trà sữa trong đơn hàng
+thêm vào 10 cơm rang thịt vào đơn nhé
+làm ơn cho tôi lấy một gà rán trứng
+cho tôi hủy gà rán vào đơn nhé
+tôi muốn lấy một ly cơm rang tái bảy giờ
+cho tôi đặt 11 trà sữa
+món trà sữa giá bao nhiêu
+thêm vào 8 bát bún chả
+thêm bốn tô trà sữa không cay vào đơn nhé
+cho tôi cho 7 cốc bánh mì ít đường
+làm ơn cho đặt mười hai cốc bún chả giao lúc 11 giờ
+thêm 7 gà rán
+làm ơn cho lấy 2 phần nem mặn
+làm ơn cho tôi đặt 12 cái phở bò trứng vào hai giờ
+cho tôi đặt 6 tô bánh mì bảy giờ
+thêm năm phần bánh mì tái trong đơn hàng
+làm ơn cho tôi đặt bảy ly nem cay
+cho tôi hủy món nem giúp tôi
+thêm vào mười cốc gà rán ít đường vào đơn
+thêm vào mười một trà sữa thịt
+làm ơn cho đặt 2 tô gà rán cay lúc 9 giờ
+làm ơn cho lấy ba trà sữa vào lúc chín giờ trưa
+cho tôi cho 2 cái bánh mì chín giờ
+cho tôi lấy 11 gà rán
+thêm vào sáu cơm rang cay
+làm ơn cho lấy 5 trà sữa
+cho tôi bỏ món nem
+thêm 5 cốc bánh mì không cay
+cho thêm năm bát cơm rang hải sản
+thêm vào 8 suất gà rán nhiều đá
+tôi muốn cho tám bánh mì hải sản tám giờ trưa
+thêm 6 cái bún chả
+làm ơn cho tôi đặt 1 ổ phở bò tái
+thêm vào ba phở bò giúp tôi
+cho tôi đặt chín trà sữa
+thêm năm trà sữa
+làm ơn cho tôi đặt 12 phần bánh mì chay giao lúc sáu giờ
+thêm vào một phở bò hải sản
+làm ơn cho tôi cho 1 tô nem không cay 8 giờ tối
+cho thêm hai bún chả không cay
+tôi muốn đặt 2 phở bò tái
+làm ơn cho đặt 3 cơm rang
+cho thêm 11 ly phở bò giúp tôi
+cho tôi cho mười hai bát trà sữa giao lúc 12 giờ
+cho thêm chín trà sữa giúp tôi
+làm ơn cho cho 8 ổ cơm rang 1 giờ
+làm ơn cho tôi đặt một tô nem thịt vào lúc 10 giờ tối
+tôi muốn xóa món trà sữa trong đơn hàng
+tôi muốn lấy hai bát nem mặn lúc 1 giờ
+làm ơn cho cho 1 tô cơm rang 2 giờ tối
+tôi muốn lấy tám phần phở bò thịt 9 giờ trưa
+thêm vào bốn gà rán không cay
+làm ơn cho bỏ món trà sữa trong đơn hàng
+cho tôi đặt 11 ổ phở bò tái
+làm ơn cho bỏ nem
+làm ơn cho xóa món bánh mì vào đơn
+làm ơn cho hủy món bún chả vào đơn nhé
+làm ơn cho cho bảy bún chả tái 11 giờ trưa
+thêm vào một nem chay
+làm ơn cho lấy tám phần bánh mì giao 1 giờ
+cho thêm 11 ổ trà sữa không cay vào đơn nhé
+tôi muốn đặt năm ly phở bò
+làm ơn cho tôi cho một ổ bún chả vào lúc mười hai giờ trưa
+làm ơn cho tôi đặt 4 bún chả nhiều rau 11 giờ
+tôi muốn đặt 1 cái bánh mì
+làm ơn cho cho một tô cơm rang chay 7 giờ
+ở đây có món gà rán không
+thêm vào hai ly cơm rang vào đơn nhé
+cho thêm 3 phần gà rán nhiều rau
+cho thêm mười hai ly nem vào đơn
+thêm vào 1 nem chay giúp tôi
+làm ơn cho tôi đặt 9 bát phở bò lúc 7 giờ trưa
+tôi muốn lấy 5 bánh mì 11 giờ chiều
+thêm vào 4 nem mặn
+làm ơn cho tôi cho 1 phở bò
+thêm mười phở bò trứng vào đơn
+cho thêm hai phần bánh mì cay
+cho thêm chín tô trà sữa chay trong đơn hàng
+cho thêm chín bún chả
+làm ơn cho tôi hủy trà sữa vào đơn
+cho thêm 2 phở bò
+cho tôi hủy nem trong đơn hàng
+cho thêm 4 bánh mì trứng
+tôi muốn cho bốn bún chả tái
+thêm 9 gà rán trong đơn hàng
+món gà rán bao nhiêu tiền
+tôi muốn đặt 11 trà sữa chay
+cho tôi đặt chín phở bò
+phở bò bao nhiêu tiền
+cho tôi đặt 7 ly bún chả thịt
+thêm ba bánh mì trứng
+cho thêm 5 trà sữa ít đường vào đơn
+cho thêm 10 gà rán cay vào đơn nhé
+làm ơn cho tôi cho một trà sữa
+cho thêm bảy tô nem nhiều đá trong đơn hàng
+cho thêm hai bánh mì
+tôi muốn đặt mười một bát cơm rang vào 4 giờ chiều
+tôi muốn lấy 9 bánh mì không cay chín giờ chiều
+làm ơn cho tôi đặt tám nem vào lúc mười giờ sáng
+tôi muốn lấy 12 trà sữa nhiều đá
+thêm 9 ổ phở bò chay
+thêm vào 4 tô phở bò vào đơn
+làm ơn cho xóa trà sữa trong đơn hàng
+thêm một cái bún chả
+thêm chín trà sữa
+thêm mười một phần phở bò cay trong đơn hàng
+làm ơn cho lấy mười một ổ phở bò
+làm ơn cho tôi cho ba bánh mì
+làm ơn cho tôi cho mười hai phở bò mặn
+cho tôi đặt 11 bún chả thịt năm giờ tối
+cho tôi lấy 5 gà rán tái
+làm ơn cho tôi xóa món bánh mì giúp tôi
+thêm sáu ly trà sữa ít đường vào đơn
+thêm 5 tô trà sữa thịt giúp tôi
+cho tôi cho 12 ly cơm rang chay mười hai giờ tối
+thêm vào bốn cốc bánh mì thịt
+cho thêm mười một bát gà rán vào đơn
+làm ơn cho tôi đặt mười hai cơm rang
+cho tôi hủy bánh mì trong đơn hàng
+làm ơn cho đặt 2 bánh mì không cay
+thêm vào 12 trà sữa giúp tôi
+làm ơn cho tôi bỏ món bánh mì giúp tôi
+cho tôi lấy 10 bún chả mặn
+thêm vào mười hai gà rán tái
+thêm vào năm bún chả chay trong đơn hàng
+thêm vào mười một tô phở bò nhiều đá vào đơn
+tôi muốn lấy 12 ly trà sữa
+cho thêm 5 bánh mì giúp tôi
+thêm vào 7 tô phở bò thịt trong đơn hàng
+làm ơn cho tôi hủy món gà rán trong đơn hàng
+làm ơn cho hủy trà sữa
+thêm vào 5 cơm rang trứng vào đơn
+thêm vào 12 bún chả giúp tôi
+ở đây có món bún chả không
+làm ơn cho bỏ nem vào đơn
+cho tôi lấy 12 ly nem vào 4 giờ
+cho thêm 8 cơm rang trong đơn hàng
+cho tôi cho 5 nem hải sản giao 8 giờ chiều
+thêm 3 bún chả không cay
+thêm 1 phở bò hải sản
+tôi muốn lấy 4 phần trà sữa
+tôi muốn lấy 11 cái trà sữa
+làm ơn cho tôi bỏ nem trong đơn hàng
+tôi muốn đặt 4 ly cơm rang 4 giờ sáng
+cho tôi đặt 6 nem
+làm ơn cho tôi cho 5 nem
+làm ơn cho bỏ món trà sữa vào đơn
+cho tôi xóa món cơm rang trong đơn hàng
+cho thêm mười cơm rang nhiều rau trong đơn hàng
+tôi muốn cho ba ly gà rán không cay
+làm ơn cho cho 6 bánh mì 11 giờ
+thêm năm ly cơm rang
+làm ơn cho hủy món phở bò vào đơn nhé
+cho thêm 5 bánh mì vào đơn
+cho thêm sáu nem cay
+cho tôi cho 6 trà sữa 6 giờ
+cho thêm mười một nem hải sản vào đơn
+cho thêm 5 phần nem thịt
+tôi muốn hủy bánh mì vào đơn nhé
+thêm vào mười một cái nem ít đường vào đơn
+tôi muốn cho 4 nem 3 giờ
+làm ơn cho đặt sáu cốc gà rán nhiều đá
+cho tôi hủy món bún chả trong đơn hàng
+cho tôi đặt năm cơm rang thịt giao lúc một giờ sáng
+thêm vào hai phần bún chả vào đơn nhé
+làm ơn cho xóa món bánh mì
+cho thêm tám cái phở bò vào đơn nhé
+thêm vào 6 phần bánh mì vào đơn
+làm ơn cho tôi hủy bánh mì trong đơn hàng
+thêm bốn phở bò vào đơn
+làm ơn cho tôi lấy 10 ly phở bò lúc 5 giờ chiều
+cho thêm 3 ổ bún chả cay
+tôi muốn xóa món cơm rang trong đơn hàng
+thêm vào 9 cơm rang
+cho thêm mười hai cốc gà rán
+thêm mười ổ nem trứng trong đơn hàng
+thêm 11 phần trà sữa trứng
+làm ơn cho đặt một nem 9 giờ
+thêm mười một cơm rang hải sản
+cho tôi cho bảy cơm rang 6 giờ sáng
+làm ơn cho tôi lấy ba ổ cơm rang nhiều rau
+tôi muốn đặt 3 suất phở bò ít đường vào lúc chín giờ
+cho tôi bỏ phở bò vào đơn
+làm ơn cho lấy mười hai ổ bánh mì ít đường
+làm ơn cho tôi lấy mười một phở bò cay 7 giờ
+tôi muốn đặt 12 cốc gà rán nhiều đá
+cho thêm sáu nem ít đường trong đơn hàng
+thêm 2 cơm rang vào đơn
+thêm 2 gà rán
+làm ơn cho tôi lấy bảy cái bánh mì 7 giờ
+cho tôi xóa nem giúp tôi
+làm ơn cho tôi đặt 7 suất phở bò trứng giao 3 giờ tối
+cho tôi hủy món gà rán giúp tôi
+cho thêm 7 cái phở bò
+cho tôi cho hai phở bò thịt
+cho thêm 5 phở bò
+thêm vào ba cơm rang nhiều rau trong đơn hàng
+cho thêm 5 trà sữa giúp tôi
+thêm vào bốn suất trà sữa vào đơn nhé
+làm ơn cho đặt 3 nem thịt
+làm ơn cho tôi cho 8 bún chả
+thêm chín bún chả trứng
+thêm sáu bánh mì ít đường
+cho thêm 3 bánh mì nhiều rau vào đơn
+tôi muốn cho 6 cốc bánh mì không cay
+tôi muốn đặt một bánh mì không cay
+làm ơn cho tôi đặt bốn cái bún chả
+cho thêm chín ly nem nhiều đá giúp tôi
+cho tôi đặt mười ly bánh mì chay vào tám giờ
+làm ơn cho cho 8 phần bánh mì giao lúc 12 giờ
+cho thêm 5 cốc bún chả mặn
+làm ơn cho xóa trà sữa vào đơn nhé
+cho thêm năm phần trà sữa
+thêm mười hai cái nem cay trong đơn hàng
+làm ơn cho tôi đặt 2 cơm rang
+làm ơn cho xóa bún chả vào đơn nhé
+thêm 2 tô cơm rang hải sản
+cho thêm 10 phần phở bò trong đơn hàng
+làm ơn cho tôi lấy 5 bát trà sữa
+cho thêm sáu bánh mì thịt vào đơn nhé
+thêm hai phần gà rán trứng
+cho thêm hai bún chả nhiều rau vào đơn
+cho tôi cho 2 nem mặn vào hai giờ sáng
+thêm vào tám ly cơm rang
+làm ơn cho lấy 6 nem
+cho tôi đặt 6 trà sữa tái
+làm ơn cho đặt ba ổ phở bò giao bảy giờ tối
+tôi muốn hủy món bánh mì vào đơn
+thêm vào 1 ổ phở bò ít đường giúp tôi
+thêm vào 11 ly phở bò chay giúp tôi
+tôi muốn lấy sáu bát nem vào lúc bảy giờ chiều
+cho tôi xóa trà sữa vào đơn nhé
+cho thêm 10 suất bánh mì cay trong đơn hàng
+tôi muốn lấy 7 phở bò
+thêm mười hai cơm rang vào đơn nhé
+làm ơn cho bỏ món gà rán giúp tôi
+làm ơn cho tôi cho mười một trà sữa
+cho thêm 4 bún chả
+làm ơn cho xóa món bánh mì giúp tôi
+cho tôi đặt 12 phở bò ít đường vào lúc tám giờ
+tôi muốn đặt mười trà sữa trứng
+tôi muốn lấy tám ổ nem trứng vào 2 giờ tối
+thêm vào chín cái bún chả thịt
+thêm 11 tô nem trứng
+tôi muốn cho năm bát trà sữa hai giờ
+làm ơn cho cho mười một cái gà rán giao lúc ba giờ
+thêm 8 phần bánh mì
+tôi muốn bỏ bánh mì
+làm ơn cho đặt 5 ly bún chả cay
+cho thêm mười một cơm rang cay vào đơn
+làm ơn cho bỏ món phở bò giúp tôi
+tôi muốn bỏ trà sữa vào đơn nhé
+cho thêm mười ổ gà rán nhiều rau giúp tôi
+thêm 10 bún chả mặn
+cho tôi cho ba ly gà rán không cay giao 3 giờ
+tôi muốn hủy món phở bò vào đơn
+cho tôi đặt 4 tô gà rán cay
+thêm 6 bún chả trong đơn hàng
+thêm năm bún chả hải sản
+thêm vào mười một bánh mì
+tôi muốn lấy 12 gà rán
+tôi muốn cho mười một tô nem
+tôi muốn xóa bún chả
+tôi muốn đặt 5 bún chả chay giao lúc tám giờ chiều
+thêm vào 1 trà sữa
+làm ơn cho tôi lấy 12 gà rán thịt 10 giờ
+thêm vào tám bún chả thịt vào đơn
+thêm vào năm phở bò trứng
+cho thêm chín bát bánh mì thịt
+thêm vào mười một phở bò giúp tôi
+tôi muốn lấy 9 bún chả
+tôi muốn lấy chín bún chả nhiều đá 10 giờ trưa
+làm ơn cho đặt 1 cơm rang nhiều đá 12 giờ
+cho tôi đặt tám phở bò cay giao ba giờ
+làm ơn cho tôi đặt 10 cốc cơm rang không cay hai giờ chiều
+làm ơn cho tôi lấy chín trà sữa ít đường
+làm ơn cho lấy mười trà sữa 3 giờ trưa
+tôi muốn bỏ món gà rán vào đơn
+làm ơn cho lấy bảy phần cơm rang
+thêm 6 tô trà sữa cay
+làm ơn cho bỏ bún chả vào đơn nhé
+cho thêm năm ổ gà rán mặn giúp tôi
+cho thêm bảy phần trà sữa tái vào đơn
+làm ơn cho lấy 11 tô bánh mì 10 giờ
+làm ơn cho đặt 4 ổ bánh mì
+thêm vào hai gà rán mặn trong đơn hàng
+cho thêm 10 phở bò không cay
+làm ơn cho xóa bánh mì
+thêm tám bát cơm rang
+có món gà rán không
+cho thêm 5 bánh mì cay
+làm ơn cho tôi cho 1 trà sữa
+thêm vào 10 gà rán
+làm ơn cho lấy 4 nem cay
+làm ơn cho tôi hủy món bún chả vào đơn nhé
+tôi muốn cho mười hai bánh mì
+làm ơn cho lấy 3 bánh mì không cay giao lúc 9 giờ
+tôi muốn đặt một gà rán trứng giao lúc bảy giờ tối
+tôi muốn bỏ món nem giúp tôi
+cho tôi cho 2 suất gà rán 5 giờ sáng
+làm ơn cho đặt 4 trà sữa tái
+bánh mì giá bao nhiêu
+cho tôi đặt bốn gà rán mười giờ
+tôi muốn lấy ba bún chả cay bảy giờ
+tôi muốn cho chín suất cơm rang thịt ba giờ sáng
+tôi muốn cho bốn cái bún chả
+cho thêm 4 phần bún chả giúp tôi
+thêm mười hai bánh mì
+cho tôi hủy món phở bò trong đơn hàng
+làm ơn cho xóa bún chả vào đơn
+thêm 10 ly nem trứng
+thêm 6 phần gà rán vào đơn nhé
+thêm vào 3 bún chả chay
+cho tôi đặt 1 trà sữa
+thêm bảy cốc bún chả mặn vào đơn nhé
+thêm 6 gà rán
+thêm sáu phần cơm rang vào đơn nhé
+cho tôi bỏ món gà rán
+cho thêm ba bánh mì giúp tôi
+thêm 11 trà sữa hải sản
+quán có món gà rán không
+làm ơn cho bỏ món gà rán
+thêm vào một phần phở bò ít đường
+làm ơn cho đặt 1 gà rán nhiều đá giao 11 giờ sáng
+làm ơn cho tôi lấy năm cơm rang ba giờ sáng
+tôi muốn đặt 6 trà sữa giao lúc chín giờ trưa
+thêm 12 bát trà sữa
+tôi muốn đặt mười hai nem giao tám giờ sáng
+thêm bốn gà rán trứng
+làm ơn cho tôi đặt 5 phở bò nhiều đá
+thêm 8 bát trà sữa hải sản
+làm ơn cho tôi cho 5 gà rán trứng bảy giờ sáng
+thêm tám ổ trà sữa trong đơn hàng
+làm ơn cho cho 9 nem không cay
+tôi muốn lấy 9 tô trà sữa
+thêm mười một ly trà sữa ít đường
+cho tôi cho bốn cái cơm rang 1 giờ
+làm ơn cho cho 7 bánh mì
+tôi muốn bỏ cơm rang vào đơn
+cho thêm bốn suất bún chả
+thêm 7 cơm rang giúp tôi
+tôi muốn hủy món nem vào đơn
+món cơm rang giá bao nhiêu
+làm ơn cho lấy 2 cơm rang trứng mười giờ
+làm ơn cho tôi lấy sáu bát phở bò tái
+tôi muốn đặt sáu suất phở bò nhiều rau lúc 10 giờ
+tôi muốn xóa món bánh mì vào đơn nhé
+làm ơn cho tôi cho bốn gà rán ít đường
+tôi muốn hủy trà sữa
+thêm mười hai phần bánh mì vào đơn
+cho thêm ba suất cơm rang
+làm ơn cho cho chín ly cơm rang vào lúc 3 giờ sáng
+tôi muốn hủy gà rán giúp tôi
+cho thêm mười hai cơm rang vào đơn
+làm ơn cho lấy mười hai nem
+thêm vào ba ổ cơm rang cay vào đơn
+cho tôi xóa phở bò vào đơn
+làm ơn cho tôi cho bảy bát bánh mì
+cho thêm 2 trà sữa không cay trong đơn hàng
+cho tôi cho 9 bún chả giao lúc 2 giờ tối
+cho tôi cho mười một cái phở bò nhiều đá 3 giờ
+làm ơn cho đặt 11 gà rán chay chín giờ tối
+thêm mười hai gà rán hải sản
+thêm vào sáu cái gà rán ít đường vào đơn nhé
+thêm 7 tô nem
+tôi muốn đặt 11 nem mặn lúc 10 giờ
+thêm vào hai phở bò không cay giúp tôi
+làm ơn cho tôi hủy trà sữa vào đơn nhé
+làm ơn cho tôi lấy 12 phở bò không cay giao 4 giờ
+thêm vào ba nem nhiều rau
+làm ơn cho tôi lấy 3 phở bò
+thêm 7 phở bò không cay
+cho tôi lấy 1 suất bún chả nhiều đá lúc 3 giờ trưa
+nhà hàng có bánh mì không
+cho tôi cho sáu bát nem
+làm ơn cho tôi cho bảy bát phở bò nhiều rau
+thêm vào 1 cái nem vào đơn
+làm ơn cho tôi lấy mười hai bún chả cay
+tôi muốn cho 8 phở bò thịt
+làm ơn cho tôi đặt ba gà rán hai giờ sáng
+cho tôi lấy 7 bánh mì chín giờ chiều
+làm ơn cho tôi bỏ cơm rang vào đơn
+làm ơn cho tôi cho bảy phần trà sữa
+cho tôi lấy ba phở bò
+thêm 6 suất cơm rang vào đơn
+thêm 7 cốc trà sữa vào đơn
+thêm 1 nem ít đường vào đơn nhé
+làm ơn cho tôi bỏ nem
+làm ơn cho tôi đặt hai ly gà rán
+làm ơn cho tôi bỏ bún chả trong đơn hàng
+làm ơn cho xóa bánh mì giúp tôi
+thêm vào tám trà sữa nhiều rau
+làm ơn cho tôi hủy bún chả
+tôi muốn cho tám phở bò mặn
+tôi muốn lấy 4 phở bò nhiều đá
+cho thêm 12 bát bún chả
+thêm vào 2 bát trà sữa hải sản
+món phở bò giá bao nhiêu
+làm ơn cho tôi lấy sáu nem không cay
+cho tôi đặt 6 ổ phở bò chay
+cho thêm chín trà sữa chay
+thêm 12 phần bánh mì trong đơn hàng
+tôi muốn cho 6 tô nem cay
+tôi muốn cho 4 phở bò
+cho tôi đặt chín bát cơm rang nhiều đá
+làm ơn cho tôi cho 3 ly nem trứng vào 4 giờ
+thêm vào một ly bánh mì chay
+làm ơn cho tôi lấy chín gà rán hải sản
+thêm vào 3 phở bò trong đơn hàng
+thêm vào sáu phần phở bò
+làm ơn cho xóa món trà sữa vào đơn nhé
+làm ơn cho đặt 1 bún chả ba giờ chiều
+tôi muốn đặt bảy trà sữa cay lúc bốn giờ
+làm ơn cho cho bảy nem nhiều đá
+làm ơn cho cho năm gà rán vào lúc 11 giờ trưa
+cho thêm năm suất nem trứng
+tôi muốn cho mười hai trà sữa ít đường 12 giờ
+cho thêm bảy bát cơm rang
+cho tôi đặt 2 gà rán nhiều rau ba giờ
+cho tôi đặt 9 bát nem hải sản bảy giờ
+cho thêm 9 bún chả ít đường
+cho tôi đặt ba phần phở bò trứng 10 giờ tối
+làm ơn cho bỏ bánh mì giúp tôi
+tôi muốn đặt chín cái gà rán không cay
+thêm vào 1 phần bánh mì hải sản trong đơn hàng
+tôi muốn đặt một bánh mì thịt giao lúc 1 giờ tối
+làm ơn cho tôi cho 6 phở bò
+thêm mười một suất cơm rang
+thêm 11 ly bánh mì
+cho tôi cho tám cái phở bò bốn giờ
+thêm vào mười hai cái cơm rang trong đơn hàng
+làm ơn cho tôi lấy 9 cốc cơm rang
+cho thêm 4 cái bánh mì trong đơn hàng
+thêm 12 cái cơm rang giúp tôi
+thêm vào 7 cái nem trứng
+thêm vào bốn trà sữa ít đường
+tôi muốn cho 4 suất phở bò giao lúc sáu giờ sáng
+tôi muốn xóa món bánh mì giúp tôi
+cho tôi cho mười hai ly bánh mì cay giao một giờ trưa
+thêm 12 bát bánh mì tái
+thêm bốn bún chả giúp tôi
+làm ơn cho xóa bánh mì trong đơn hàng
+làm ơn cho cho một ổ bánh mì không cay vào 10 giờ chiều
+cho tôi đặt 6 bát cơm rang vào lúc một giờ
+cho tôi bỏ trà sữa vào đơn
+làm ơn cho đặt 10 bánh mì nhiều đá
+thêm vào mười một ổ trà sữa thịt giúp tôi
+tôi muốn lấy chín ổ cơm rang vào 10 giờ
+tôi muốn đặt 8 cái phở bò chay một giờ
+tôi muốn lấy 4 bún chả thịt
+thêm 8 tô gà rán vào đơn
+làm ơn cho lấy mười bún chả tái
+làm ơn cho tôi cho bốn bát trà sữa tái
+làm ơn cho tôi lấy 6 cái trà sữa không cay giao lúc hai giờ
+cho thêm mười hai tô nem
+tôi muốn hủy món gà rán vào đơn
+làm ơn cho tôi đặt 9 tô bánh mì thịt
+làm ơn cho cho bảy suất trà sữa nhiều rau
+thêm mười hai ly phở bò nhiều rau
+làm ơn cho đặt 8 ly nem mười hai giờ
+thêm vào mười trà sữa giúp tôi
+cho tôi cho mười cốc nem cay vào bảy giờ
+làm ơn cho tôi đặt 5 cốc gà rán
+cho tôi xóa bánh mì
+cho tôi đặt một suất bánh mì 4 giờ
+có trà sữa không
+thêm vào 6 tô trà sữa ít đường
+cho tôi hủy phở bò giúp tôi
+tôi muốn đặt 12 phở bò hải sản 11 giờ
+làm ơn cho tôi bỏ món cơm rang vào đơn
+thêm vào tám phần phở bò tái trong đơn hàng
+cho tôi lấy 4 phần phở bò cay
+cho tôi đặt 11 suất bún chả vào lúc chín giờ
+thêm vào 10 bún chả
+làm ơn cho tôi đặt tám bánh mì bảy giờ chiều
+thêm mười một gà rán thịt
+tôi muốn xóa bún chả vào đơn
+tôi muốn hủy gà rán
+cho tôi lấy 12 trà sữa 7 giờ chiều
+cho tôi bỏ món gà rán giúp tôi
+làm ơn cho cho 6 bún chả không cay
+cho thêm mười một trà sữa ít đường vào đơn
+làm ơn cho bỏ trà sữa trong đơn hàng
+làm ơn cho tôi bỏ trà sữa
+cho thêm 4 bát cơm rang trong đơn hàng
+làm ơn cho cho 7 ổ bánh mì giao lúc 10 giờ tối
+cho thêm 8 nem vào đơn
+cho tôi lấy mười một cái cơm rang tám giờ
+làm ơn cho tôi hủy món phở bò vào đơn
+thêm vào tám trà sữa
+cho thêm một ổ nem nhiều rau
+làm ơn cho cho năm trà sữa chay một giờ chiều
+làm ơn cho xóa món gà rán
+làm ơn cho tôi lấy 7 bát phở bò
+thêm vào bốn ly nem
+thêm vào 9 nem ít đường
+tôi muốn cho 12 phở bò
+tôi muốn lấy hai trà sữa không cay mười một giờ tối
+ở đây có món cơm rang không
+tôi muốn cho hai cái trà sữa
+tôi muốn hủy bún chả vào đơn nhé
+cho thêm 7 phần trà sữa chay giúp tôi
+làm ơn cho đặt 9 ly nem chay
+cho tôi đặt 5 cái bún chả chay
+tôi muốn lấy 1 gà rán 6 giờ
+thêm 2 phở bò nhiều rau vào đơn
+tôi muốn cho sáu gà rán nhiều rau giao 7 giờ sáng
+làm ơn cho lấy 11 cơm rang tái vào lúc 12 giờ chiều
+thêm 2 ổ nem mặn trong đơn hàng
+làm ơn cho tôi cho 1 ly nem
+thêm mười một phở bò vào đơn nhé
+thêm vào tám phở bò giúp tôi
+làm ơn cho xóa trà sữa
+cho thêm 8 gà rán nhiều rau vào đơn nhé
+làm ơn cho tôi lấy ba phở bò trứng
+thêm một bát phở bò
+thêm vào 3 bát bún chả
+thêm 6 ly cơm rang trứng vào đơn
+tôi muốn lấy 8 phần phở bò chay chín giờ
+làm ơn cho đặt bốn tô nem mặn 5 giờ
+cho tôi hủy trà sữa vào đơn
+cho tôi bỏ bánh mì
+làm ơn cho lấy 2 bát bún chả trứng giao 6 giờ
+thêm mười gà rán ít đường
+làm ơn cho tôi lấy 10 phần bánh mì cay 2 giờ
+thêm vào mười một cái cơm rang vào đơn
+thêm vào hai bánh mì trứng giúp tôi
+tôi muốn bỏ nem giúp tôi
+thêm 7 tô gà rán thịt trong đơn hàng
+làm ơn cho tôi xóa phở bò giúp tôi
+thêm chín gà rán tái trong đơn hàng
+thêm vào mười hai phở bò giúp tôi
+tôi muốn lấy 2 trà sữa
+trà sữa bao nhiêu tiền
+cho tôi xóa nem vào đơn
+cho tôi xóa món cơm rang vào đơn nhé
+tôi muốn cho 9 bún chả
+tôi muốn cho 8 suất bánh mì ít đường giao ba giờ sáng
+thêm hai trà sữa ít đường vào đơn nhé
+làm ơn cho tôi hủy phở bò trong đơn hàng
+làm ơn cho đặt 2 tô bún chả một giờ
+thêm vào 3 phở bò nhiều rau vào đơn nhé
+cho thêm 12 suất bánh mì giúp tôi
+cho tôi cho 6 nem ít đường
+cho thêm năm tô trà sữa
+có món cơm rang không
+cho tôi đặt một ổ gà rán giao lúc tám giờ
+tôi muốn bỏ món phở bò trong đơn hàng
+làm ơn cho cho bốn cơm rang giao 1 giờ chiều
+thêm 5 nem ít đường giúp tôi
+tôi muốn cho ba ly bánh mì vào lúc 7 giờ tối
+nhà hàng có nem không
+thêm vào 12 suất gà rán giúp tôi
+làm ơn cho tôi đặt bảy phở bò nhiều rau
+cho tôi lấy 9 suất nem nhiều đá
+thêm vào 2 bát cơm rang nhiều đá
+thêm vào 1 ly phở bò nhiều đá
+cho thêm 9 suất bánh mì
+làm ơn cho tôi cho 4 bún chả
+làm ơn cho tôi xóa món bánh mì vào đơn
+cho tôi lấy 5 bánh mì trứng
+tôi muốn lấy 3 bánh mì không cay
+làm ơn cho tôi lấy 9 suất trà sữa
+cho thêm 7 trà sữa
+cho thêm tám phở bò trứng
+cho thêm ba nem vào đơn nhé
+làm ơn cho tôi xóa cơm rang
+thêm vào hai trà sữa trứng
+cho thêm hai tô phở bò
+cho tôi cho hai cái phở bò
+thêm vào 1 suất nem cay
+làm ơn cho tôi đặt chín bún chả
+làm ơn cho tôi đặt 3 bát nem vào lúc 2 giờ trưa
+cho tôi bỏ nem
+thêm 7 bát bún chả giúp tôi
+cho thêm một trà sữa nhiều rau
+tôi muốn đặt bốn tô nem cay
+cho thêm một bát bánh mì chay
+làm ơn cho tôi cho 1 phần trà sữa thịt tám giờ
+làm ơn cho tôi bỏ món phở bò
+tôi muốn cho 9 ly nem chay
+cho thêm ba nem
+thêm vào năm phần bún chả vào đơn
+làm ơn cho hủy trà sữa vào đơn
+làm ơn cho tôi xóa món phở bò
+làm ơn cho đặt bảy bún chả
+làm ơn cho tôi cho 1 cái phở bò hải sản
+cho tôi cho 4 bát bún chả
+cho thêm 1 bún chả cay
+cho tôi lấy hai cốc bún chả vào 1 giờ chiều
+làm ơn cho tôi cho chín suất phở bò
+cho tôi đặt mười một ổ phở bò không cay
+thêm 6 trà sữa
+thêm vào tám ổ bún chả trong đơn hàng
+thêm một tô bún chả thịt
+làm ơn cho cho 10 bún chả ít đường
+làm ơn cho bỏ phở bò
+cho thêm mười hai ổ nem trứng
+tôi muốn bỏ bún chả giúp tôi
+cho tôi xóa món cơm rang
+làm ơn cho tôi đặt 11 suất gà rán chín giờ
+làm ơn cho tôi đặt 2 phở bò
+cho thêm mười gà rán mặn vào đơn
+làm ơn cho tôi đặt hai ổ bánh mì chay
+cho tôi hủy phở bò trong đơn hàng
+tôi muốn lấy hai cơm rang
+thêm mười một ly bún chả ít đường giúp tôi
+thêm vào một suất phở bò trứng
+cho tôi lấy ba ly trà sữa nhiều đá giao 7 giờ tối
+cho tôi đặt chín bát cơm rang
+nhà hàng có bún chả không
+tôi muốn đặt 11 suất bún chả
+cho thêm 10 cốc phở bò trong đơn hàng
+cho thêm mười một cơm rang chay
+thêm vào bốn nem trong đơn hàng
+thêm vào sáu cái trà sữa trong đơn hàng
+thêm vào 6 bánh mì giúp tôi
+cho tôi hủy món cơm rang
+tôi muốn xóa gà rán
+thêm vào sáu suất phở bò vào đơn nhé
+thêm vào 9 cốc bún chả vào đơn nhé
+làm ơn cho tôi cho hai nem trứng
+tôi muốn lấy 6 phần cơm rang
+thêm mười ổ gà rán tái giúp tôi
+cho thêm mười suất bánh mì
+tôi muốn lấy mười hai ổ nem giao 3 giờ
+làm ơn cho tôi cho bốn bún chả cay một giờ sáng
+tôi muốn đặt hai cơm rang bảy giờ trưa
+thêm vào 12 phở bò
+thêm sáu trà sữa giúp tôi
+làm ơn cho bỏ món bún chả vào đơn nhé
+cho tôi xóa trà sữa trong đơn hàng
+thêm vào 4 suất bún chả giúp tôi
+làm ơn cho hủy món nem trong đơn hàng
+tôi muốn hủy món gà rán
+cho thêm mười một gà rán giúp tôi
+cho thêm một phở bò giúp tôi
+làm ơn cho tôi cho 4 ly nem nhiều đá mười hai giờ
+tôi muốn bỏ trà sữa giúp tôi
+cho tôi đặt một phở bò hải sản
+thêm sáu ly phở bò trong đơn hàng
+tôi muốn lấy tám bánh mì
+thêm vào 7 trà sữa trứng
+cho thêm bốn nem
+cho thêm 7 cơm rang
+tôi muốn cho 11 cái bún chả
+làm ơn cho tôi lấy 1 suất cơm rang 9 giờ trưa
+thêm năm bánh mì nhiều đá
+cho tôi đặt 1 ổ gà rán
+cho tôi bỏ phở bò trong đơn hàng
+thêm 8 bún chả trong đơn hàng
+làm ơn cho tôi cho 4 phần bún chả nhiều đá
+thêm 12 cốc bún chả hải sản trong đơn hàng
+thêm chín cái trà sữa trứng
+làm ơn cho xóa bún chả
+tôi muốn lấy sáu cái cơm rang
+quán có món trà sữa không
+tôi muốn xóa món gà rán vào đơn
+cho tôi cho 5 bánh mì
+làm ơn cho tôi đặt 3 gà rán trứng
+thêm vào tám bánh mì
+cho tôi xóa gà rán giúp tôi
+làm ơn cho cho 12 ổ gà rán sáu giờ chiều
+thêm ba bún chả nhiều rau
+cho tôi đặt ba ổ bún chả vào bốn giờ
+làm ơn cho tôi lấy 5 phần cơm rang nhiều đá
+tôi muốn lấy mười một phở bò chay
+thêm vào bảy ly nem trong đơn hàng
+thêm vào sáu cái nem không cay trong đơn hàng
+làm ơn cho tôi đặt sáu cốc cơm rang vào lúc tám giờ trưa
+cho thêm 6 phở bò
+làm ơn cho tôi hủy món trà sữa giúp tôi
+cho thêm chín nem tái vào đơn
+ở đây có cơm rang không
+làm ơn cho bỏ món phở bò vào đơn
+làm ơn cho tôi cho 3 cái bánh mì tám giờ
+thêm sáu ly trà sữa nhiều rau vào đơn
+thêm 9 phở bò không cay
+làm ơn cho cho 5 phở bò không cay giao lúc hai giờ
+cho thêm tám gà rán
+cho thêm năm cốc bánh mì
+thêm mười bát cơm rang ít đường
+thêm 10 phần nem chay vào đơn nhé
+làm ơn cho tôi đặt 9 cái nem ba giờ
+tôi muốn cho 7 cái trà sữa 12 giờ
+cho tôi lấy 5 cốc phở bò không cay năm giờ tối
+tôi muốn lấy chín cốc bún chả
+làm ơn cho cho hai trà sữa lúc bảy giờ trưa
+tôi muốn lấy tám ly gà rán chay năm giờ sáng
+thêm vào 9 ly nem
+cho thêm sáu phở bò
+tôi muốn cho 1 phở bò ít đường
+tôi muốn cho 12 nem
+cho thêm 5 bánh mì thịt
+cho tôi cho bảy bánh mì nhiều rau
+làm ơn cho cho chín bún chả trứng
+làm ơn cho tôi xóa trà sữa giúp tôi
+cho tôi đặt 12 bún chả
+làm ơn cho lấy mười cái cơm rang 8 giờ chiều
+làm ơn cho tôi lấy 5 nem giao năm giờ
+thêm vào 5 cốc cơm rang trứng vào đơn
+thêm sáu cái bánh mì thịt
+thêm 1 gà rán nhiều rau
+làm ơn cho đặt mười một bát phở bò trứng
+làm ơn cho hủy phở bò giúp tôi
+thêm vào sáu bát phở bò nhiều rau giúp tôi
+làm ơn cho tôi đặt chín phở bò mặn 1 giờ
+thêm một phần gà rán
+làm ơn cho tôi đặt 9 suất bánh mì một giờ chiều
+cho tôi xóa món gà rán vào đơn
+cho tôi cho 8 gà rán lúc 2 giờ tối
+tôi muốn lấy 8 phần gà rán thịt mười một giờ chiều
+làm ơn cho tôi lấy 4 cơm rang ít đường
+thêm 10 bát bún chả cay
+thêm bảy cái cơm rang
+thêm vào 11 bún chả nhiều đá vào đơn nhé
+thêm vào 2 bát cơm rang hải sản
+làm ơn cho tôi đặt sáu tô cơm rang
+làm ơn cho tôi cho 4 ly phở bò mặn
+thêm chín bát gà rán
+thêm 6 ổ gà rán nhiều đá
+tôi muốn lấy 2 phần bún chả hải sản
+thêm năm cái nem cay
+cho thêm 11 phở bò vào đơn
+cho tôi lấy mười hai gà rán cay giao 8 giờ tối
+làm ơn cho tôi lấy bảy bún chả nhiều đá vào lúc sáu giờ trưa
+tôi muốn đặt mười một bún chả mười hai giờ sáng
+cho thêm 2 nem thịt vào đơn
+thêm 1 phở bò cay trong đơn hàng
+thêm vào hai cốc gà rán vào đơn nhé
+làm ơn cho tôi cho ba phở bò vào lúc 6 giờ chiều
+cho tôi cho mười một ổ gà rán chay 1 giờ
+tôi muốn hủy trà sữa vào đơn nhé
+thêm vào 4 bát phở bò
+cho tôi lấy 9 gà rán thịt
+tôi muốn hủy nem
+cho thêm mười một suất gà rán ít đường trong đơn hàng
+làm ơn cho tôi cho 1 bát gà rán trứng 10 giờ
+cho tôi xóa trà sữa vào đơn
+thêm 1 suất bún chả ít đường
+tôi muốn cho 8 cốc trà sữa hải sản
+làm ơn cho đặt bốn phần cơm rang thịt
+tôi muốn đặt 1 suất trà sữa ít đường
+cho thêm 7 ly bánh mì tái vào đơn nhé
+làm ơn cho lấy sáu tô bún chả nhiều đá
+làm ơn cho cho 3 cái nem vào lúc mười giờ tối
+làm ơn cho cho 2 cơm rang chay
+thêm vào mười một nem tái
+làm ơn cho lấy 9 bát nem tám giờ
+cho thêm 9 ly bánh mì ít đường vào đơn nhé
+thêm vào mười một phần phở bò ít đường giúp tôi
+thêm vào 4 nem nhiều đá
+thêm 1 phở bò trong đơn hàng
+thêm vào 11 phần gà rán
+làm ơn cho cho 11 cốc gà rán lúc mười giờ chiều
+tôi muốn xóa món cơm rang vào đơn
+tôi muốn đặt mười bánh mì không cay 9 giờ sáng
+cho tôi đặt tám cốc nem một giờ tối
+thêm vào hai cốc phở bò mặn
+làm ơn cho tôi xóa món cơm rang trong đơn hàng
+thêm vào hai phần bánh mì giúp tôi
+cho tôi cho 12 bún chả giao lúc 8 giờ trưa
+thêm vào 2 cái gà rán chay
+tôi muốn xóa cơm rang vào đơn
+làm ơn cho lấy 8 cơm rang mặn
+thêm một nem
+thêm sáu suất gà rán chay
+tôi muốn bỏ cơm rang
+làm ơn cho xóa món gà rán vào đơn
+thêm 1 bánh mì
+cho tôi lấy một phần phở bò ít đường
+làm ơn cho tôi đặt sáu phở bò nhiều rau giao ba giờ trưa
+tôi muốn xóa món gà rán vào đơn nhé
+cho tôi đặt 5 suất gà rán thịt
+thêm vào ba phở bò vào đơn nhé
+tôi muốn cho 6 tô bún chả không cay 8 giờ chiều
+cho tôi lấy 10 bánh mì thịt giao 9 giờ
+làm ơn cho lấy 8 gà rán bốn giờ
+làm ơn cho đặt bốn phở bò sáu giờ
+tôi muốn hủy món phở bò vào đơn nhé
+làm ơn cho cho tám cơm rang 2 giờ tối
+làm ơn cho đặt 8 bát bánh mì
+cho thêm sáu cơm rang thịt
+cho tôi đặt 7 bún chả thịt vào lúc 4 giờ trưa
+làm ơn cho tôi xóa món nem vào đơn nhé
+làm ơn cho lấy 4 gà rán ba giờ
+làm ơn cho tôi đặt 4 ly bánh mì ít đường
+tôi muốn cho năm ổ bún chả không cay ba giờ trưa
+làm ơn cho tôi lấy 11 nem thịt giao lúc mười giờ tối
+cho thêm 8 suất cơm rang
+làm ơn cho tôi đặt mười phở bò nhiều đá
+tôi muốn đặt 2 suất nem 5 giờ
+cho tôi hủy phở bò vào đơn
+thêm vào bốn gà rán cay vào đơn
+cho thêm mười một cơm rang cay giúp tôi
+thêm vào 3 bún chả không cay vào đơn nhé
+làm ơn cho đặt 1 ly gà rán nhiều rau
+cho tôi lấy chín cơm rang cay
+cho tôi cho mười nem
+cho thêm 10 phần trà sữa vào đơn nhé
+tôi muốn cho 1 cơm rang mặn
+tôi muốn đặt 8 phở bò chay
+tôi muốn hủy món bánh mì
+tôi muốn lấy 5 ổ gà rán lúc 9 giờ
+cho thêm 1 phần bánh mì trứng giúp tôi
+cho tôi cho 11 trà sữa
+tôi muốn cho chín phở bò
+cho tôi cho 7 ly gà rán trứng
+làm ơn cho bỏ món bánh mì vào đơn
+làm ơn cho xóa nem
+thêm một cơm rang
+làm ơn cho bỏ món cơm rang vào đơn nhé
+tôi muốn đặt 5 cốc cơm rang không cay lúc 12 giờ trưa
+thêm vào hai phở bò vào đơn

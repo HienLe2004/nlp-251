@@ -1,4 +1,28 @@
+import io
+import json
+def write_grammar(GRAMMAR_FILE):
+    """
+    Định nghĩa CFG và lưu vào file output/grammar.txt.
+    """
+    print(f"--- 2.1: Viết grammar ra file {GRAMMAR_FILE} ---")
+    
+    # Đọc dữ liệu từ data.json
+    with open("data/data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
 
+    # Trích xuất dữ liệu
+
+    foods = [item["name"] for item in data["menu"]]
+    food_rules = " | ".join(f'"{food}"' for food in foods)
+
+    attributes = set(opt for item in data["menu"] for opt in item["options"])
+    attribute_rules = " | ".join(f'"{attr}"' for attr in attributes)
+
+    unit_rules = " | ".join(f'"{unit}"' for unit in data["unit"])
+
+    number_rules = " | ".join(f'"{num}"' for num in data["number"])
+
+    grammar_str = r"""
     # --- START ---
     S -> CMD | QRY
 
@@ -59,16 +83,16 @@
     ITEM_PREFIX -> "món"
 
     # Danh sách món ăn
-    FOOD -> "phở bò" | "bún chả" | "trà sữa" | "gà rán" | "cơm rang" | "nem" | "bánh mì"
+    FOOD -> %s
 
     # Số lượng
-    NUMBER -> "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" | "một" | "hai" | "ba" | "bốn" | "năm" | "sáu" | "bảy" | "tám" | "chín" | "mười" | "mười một" | "mười hai"
+    NUMBER -> %s
 
     # Đơn vị
-    UNIT -> "phần" | "ly" | "suất" | "cốc" | "cái" | "ổ" | "tô" | "bát"
+    UNIT -> %s
 
     # Thuộc tính món
-    ATTRIBUTE -> "nhiều rau" | "thịt" | "tái" | "mặn" | "trứng" | "chay" | "không cay" | "hải sản" | "cay" | "nhiều đá" | "ít đường"
+    ATTRIBUTE -> %s
 
     # Hậu tố thời gian
     TIME_SUFFIX_0 -> "giờ"
@@ -76,4 +100,11 @@
 
     # Tiền tố thời gian
     TIME_PREFIX -> "giao lúc" | "vào lúc" | "vào" | "lúc" | "giao"
-    
+    """%(food_rules, number_rules, unit_rules, attribute_rules)
+
+    # Ghi văn phạm ra file
+    with io.open(GRAMMAR_FILE, "w", encoding="utf-8") as f:
+        f.write(grammar_str)
+        
+    print(f"Đã viết grammar thành công vào file: {GRAMMAR_FILE}\n")
+    return grammar_str
