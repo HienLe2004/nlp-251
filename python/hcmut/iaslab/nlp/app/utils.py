@@ -1,5 +1,6 @@
 import re
 from nltk import CFG
+
 def get_terminals(grammar:CFG):
     """
     Trích xuất tất cả các từ vựng (terminals) từ văn phạm.
@@ -21,7 +22,7 @@ def preprocess_text(text:str):
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-def custom_tokenizer(sentence:str, terminals:list[str])->list[str]:
+def custom_tokenizer(sentence:str, terminals):
     """
     Hàm tham lam để tokenize câu dựa trên các
     từ vựng đã định nghĩa trong văn phạm.

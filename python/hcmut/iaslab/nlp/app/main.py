@@ -1,6 +1,5 @@
 from nltk import CFG
 import os
-import io
 from grammar import write_grammar
 from generator import generate_sentences
 from parser import build_parser

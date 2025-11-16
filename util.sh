@@ -9,7 +9,7 @@
 #		./util.sh submit
 
 # please provide info
-STUDENT_ID="student-id"
+STUDENT_ID="2211024"
 
 # python or java
 PROJ_P_LANG="python"
@@ -29,8 +29,8 @@ function run_test {
 	
 	cur=`pwd`
 	cd $PROJ_P_LANG
-	docker build --network=host -t nlp222 .
-	docker run --rm -v $S_OUT:/nlp/output -v $S_IN:/nlp/input nlp222
+	docker build --network=host -t nlp251 .
+	docker run --rm -v $S_OUT:/nlp/output -v $S_IN:/nlp/input nlp251
 	cd $cur
 	echo "please check output in $S_OUT"
 }
