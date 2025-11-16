@@ -23,7 +23,7 @@ The project leverages the NLTK library for grammar handling and parsing. It is d
 ├── input/                  # Input directory (sentences.txt for parsing)
 ├── output/                 # Output directory (grammar.txt, samples.txt, parse-results.txt)
 ├── python/                 # Python source code
-│   ├── conf/               # Configuration (if any)
+│   ├── conf/               # Configuration 
 │   └── hcmut_iaslab/
 │       └── nlp/
 │           └── app/
@@ -45,10 +45,10 @@ The project leverages the NLTK library for grammar handling and parsing. It is d
 ## Requirements
 - Python 3.12+ (tested on 3.12.3)
 - NLTK library
-- Other dependencies: Listed in `requirements.txt` (basic libraries like json, os, re)
+- Other dependencies: Listed in `requirements.txt` 
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository[https://github.com/HienLe2004/nlp-251] (if not have):
    ```
    git clone <repository-url>
    cd <project-directory>

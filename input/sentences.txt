@@ -21,6 +21,7 @@ Hủy món trà sữa trong đơn hàng.
 Cho tôi 1 bát bún chả nhiều rau.
 Menu có gì?
 Thêm 2 suất cơm rang thịt giúp tôi.
+Làm ơn cho giao lúc 11 giờ 1 phần phở bò tái.
 Xóa món bánh mì trứng khỏi đơn.
 Có món trà sữa ít đường không?
 Tôi muốn đặt 3 ly trà sữa nhiều đá giao vào lúc 2 giờ chiều.

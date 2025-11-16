@@ -67,7 +67,7 @@
     ITEM_PREFIX -> "món"
 
     # Danh sách món ăn
-    FOOD -> "phở bò" | "bún chả" | "trà sữa" | "gà rán" | "cơm rang" | "nem" | "bánh mì"
+    FOOD -> "phở bò" | "bún chả" | "trà sữa" | "gà rán" | "cơm rang" | "nem" | "bánh mì" | "cà phê sữa đá" | "bánh cuốn" | "chả giò" | "cơm tấm" | "hủ tiếu" | "mì xào" | "bánh xèo" | "sinh tố dâu" | "nước ép cam" | "cơm chiên dương châu" | "lẩu thái" | "bò kho" | "cá kho tộ" | "thịt nướng" | "salad trộn" | "súp cua" | "chè ba màu" | "bánh flan" | "kem vani" | "trà chanh" | "cơm gà xối mỡ" | "bánh canh" | "mì quảng" | "bún bò huế" | "cơm cháy" | "gỏi cuốn" | "bánh tráng nướng" | "tôm chiên xù" | "cánh gà chiên nước mắm" | "khoai tây chiên" | "trà đào" | "sữa chua mít" | "bánh tiramisu"
 
     # Số lượng
     NUMBER -> "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" | "một" | "hai" | "ba" | "bốn" | "năm" | "sáu" | "bảy" | "tám" | "chín" | "mười" | "mười một" | "mười hai"
@@ -76,7 +76,7 @@
     UNIT -> "phần" | "ly" | "suất" | "cốc" | "cái" | "ổ" | "tô" | "bát"
 
     # Thuộc tính món
-    ATTRIBUTE -> "nhiều đá" | "cay" | "mặn" | "trứng" | "nhiều rau" | "chay" | "tái" | "hải sản" | "thịt" | "ít đường" | "không cay"
+    ATTRIBUTE -> "cay" | "gầu" | "bánh mì" | "không cay" | "heo" | "thịt" | "nhiều ngô" | "kho quẹt" | "tái" | "matcha" | "muối ớt" | "thịt heo" | "nhiều đá" | "giò heo" | "chay" | "da mềm" | "phô mai" | "cà phê" | "bì" | "caramel" | "trứng" | "topping" | "có đá" | "dâu" | "ít đá" | "sườn" | "da giòn" | "mặn" | "hủ tiếu" | "sốt me" | "chà bông" | "ít ngô" | "nạm" | "gà" | "sốt trứng muối" | "tôm" | "chả" | "socola" | "ít đường" | "không đá" | "bò" | "không topping" | "hải sản" | "nhiều rau"
 
     # Hậu tố thời gian
     TIME_SUFFIX_0 -> "giờ"

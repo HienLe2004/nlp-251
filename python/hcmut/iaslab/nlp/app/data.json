@@ -34,6 +34,171 @@
       "name": "bánh mì",
       "price": 15000,
       "options": ["thịt", "trứng"]
+    },
+    {
+      "name": "cà phê sữa đá",
+      "price": 25000,
+      "options": ["ít đá", "nhiều đá"]
+    },
+    {
+      "name": "bánh cuốn",
+      "price": 45000,
+      "options": ["thịt", "chay"]
+    },
+    {
+      "name": "chả giò",
+      "price": 30000,
+      "options": ["chay", "mặn"]
+    },
+    {
+      "name": "cơm tấm",
+      "price": 40000,
+      "options": ["sườn", "bì", "chả"]
+    },
+    {
+      "name": "hủ tiếu",
+      "price": 45000,
+      "options": ["nạm", "gầu", "tái"]
+    },
+    {
+      "name": "mì xào",
+      "price": 38000,
+      "options": ["bò", "gà", "hải sản"]
+    },
+    {
+      "name": "bánh xèo",
+      "price": 35000,
+      "options": ["tôm", "thịt"]
+    },
+    {
+      "name": "sinh tố dâu",
+      "price": 28000,
+      "options": ["ít đá", "nhiều đá"]
+    },
+    {
+      "name": "nước ép cam",
+      "price": 25000,
+      "options": ["có đá", "không đá"]
+    },
+    {
+      "name": "cơm chiên dương châu",
+      "price": 42000,
+      "options": ["tôm", "thịt"]
+    },
+    {
+      "name": "lẩu thái",
+      "price": 180000,
+      "options": ["tôm", "bò", "gà"]
+    },
+    {
+      "name": "bò kho",
+      "price": 55000,
+      "options": ["bánh mì", "hủ tiếu"]
+    },
+    {
+      "name": "cá kho tộ",
+      "price": 48000,
+      "options": ["cay", "không cay"]
+    },
+    {
+      "name": "thịt nướng",
+      "price": 70000,
+      "options": ["bò", "heo"]
+    },
+    {
+      "name": "salad trộn",
+      "price": 32000,
+      "options": ["gà", "tôm"]
+    },
+    {
+      "name": "súp cua",
+      "price": 35000,
+      "options": ["nhiều ngô", "ít ngô"]
+    },
+    {
+      "name": "chè ba màu",
+      "price": 20000,
+      "options": ["nhiều đá", "ít đá"]
+    },
+    {
+      "name": "bánh flan",
+      "price": 15000,
+      "options": ["caramel", "dâu"]
+    },
+    {
+      "name": "kem vani",
+      "price": 18000,
+      "options": ["socola", "dâu"]
+    },
+    {
+      "name": "trà chanh",
+      "price": 20000,
+      "options": ["ít đá", "nhiều đá"]
+    },
+    {
+      "name": "cơm gà xối mỡ",
+      "price": 45000,
+      "options": ["da giòn", "da mềm"]
+    },
+    {
+      "name": "bánh canh",
+      "price": 40000,
+      "options": ["giò heo", "tôm"]
+    },
+    {
+      "name": "mì quảng",
+      "price": 42000,
+      "options": ["tôm", "thịt heo"]
+    },
+    {
+      "name": "bún bò huế",
+      "price": 50000,
+      "options": ["cay", "không cay"]
+    },
+    {
+      "name": "cơm cháy",
+      "price": 30000,
+      "options": ["kho quẹt", "chà bông"]
+    },
+    {
+      "name": "gỏi cuốn",
+      "price": 25000,
+      "options": ["tôm", "thịt"]
+    },
+    {
+      "name": "bánh tráng nướng",
+      "price": 20000,
+      "options": ["phô mai", "trứng"]
+    },
+    {
+      "name": "tôm chiên xù",
+      "price": 65000,
+      "options": ["sốt me", "sốt trứng muối"]
+    },
+    {
+      "name": "cánh gà chiên nước mắm",
+      "price": 55000,
+      "options": ["cay", "không cay"]
+    },
+    {
+      "name": "khoai tây chiên",
+      "price": 25000,
+      "options": ["phô mai", "muối ớt"]
+    },
+    {
+      "name": "trà đào",
+      "price": 28000,
+      "options": ["ít đá", "nhiều đá"]
+    },
+    {
+      "name": "sữa chua mít",
+      "price": 22000,
+      "options": ["topping", "không topping"]
+    },
+    {
+      "name": "bánh tiramisu",
+      "price": 35000,
+      "options": ["cà phê", "matcha"]
     }
   ],
   "unit": ["phần", "ly", "suất", "cốc", "cái", "ổ", "tô", "bát"],
