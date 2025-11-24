@@ -108,7 +108,7 @@ The program runs from `main.py`, which executes all steps sequentially.
    ```
 ### Part II - Semantic representation and Q&A
 The program runs from `cli.py`, which executes all steps sequentially.
-
+Video demo [here](https://drive.google.com/drive/folders/1ioEUve28QJ6qsz62Uxd7MPH_jlc4Yx9S?usp=sharing)
 1. Ensure input files are prepared:
    - `input/sample-queries.txt`: Add sentences (one per line) to parse, e.g.:
      ```
