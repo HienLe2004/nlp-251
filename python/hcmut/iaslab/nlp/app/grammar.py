@@ -56,8 +56,8 @@ def write_grammar(GRAMMAR_FILE):
     Q_MENU -> Q_PREFIX Q_MENU_SUFFIX | Q_MENU_SUFFIX
     
     # 2.4. Hỏi trạng thái đơn (ORDER STATUS)
-    Q_STATUS -> Q_STATUS_PREFIX Q_STATUS_SUFFIX | Q_STATUS_PREFIX
-    Q_STATUS_PREFIX -> "tôi đã đặt những món gì" | "tôi đã đặt những gì" | "đơn hàng của tôi có gì" | "đơn hàng của tôi có những gì" | "đơn hàng của tôi có những món gì"
+    Q_STATUS -> Q_STATUS_PREFIX Q_STATUS_SUFFIX | Q_STATUS_PREFIX | ORDER Q_STATUS_PREFIX Q_STATUS_SUFFIX | ORDER Q_STATUS_PREFIX 
+    Q_STATUS_PREFIX -> "tôi đã đặt những món gì" | "tôi đã đặt những gì" | "có gì" | "có những gì" | "có những món gì"
     Q_STATUS_SUFFIX -> "rồi"
 
     # --- 3. CÁC THÀNH PHẦN CÚ PHÁP (CONSTITUENTS) ---
@@ -82,11 +82,11 @@ def write_grammar(GRAMMAR_FILE):
     REMOVE_SUFFIX -> REMOVE_SUFFIX_1 ORDER SUFFIX | REMOVE_SUFFIX_1 ORDER | SUFFIX
     REMOVE_SUFFIX_1 -> "khỏi" | "ra khỏi" | "trong" 
     SUFFIX -> "nhé" | "dùm tôi" | "giúp tôi" | "ạ" | "đi" 
-    Q_PREFIX -> "quán" | "nhà hàng" | "ở đây"
+    Q_PREFIX -> "quán" | "nhà hàng" | "ở đây" | ""
     Q_PRICE_SUFFIX -> "giá bao nhiêu" | "bao nhiêu tiền"
     Q_AVAIL_SUFFIX -> "không"
     Q_AVAIL_INFIX -> "có"
-    Q_MENU_SUFFIX -> "menu có gì" | "có những món nào" | "có những món nào trong menu"
+    Q_MENU_SUFFIX -> "menu có gì" | "có những món nào" | "có những món gì" | "có món nào" | "có món gì" | "có những món nào trong menu" | "có những món gì trong menu"
     
     # Tiền tố món
     ITEM_PREFIX -> "món"
@@ -111,7 +111,7 @@ def write_grammar(GRAMMAR_FILE):
     TIME_PREFIX -> "giao lúc" | "vào lúc" | "vào" | "lúc" | "giao" | "giao vào lúc"
 
     # Từ chỉ đơn hàng
-    ORDER -> "đơn hàng" | "đơn" | "đơn hàng của tôi" | "đơn của tôi"
+    ORDER -> "đơn hàng" | "đơn" | "đơn hàng của tôi" | "đơn của tôi" | "đơn hàng tôi" | "đơn tôi"
     """%(food_rules, number_rules, unit_rules, attribute_rules)
 
     # Ghi văn phạm ra file

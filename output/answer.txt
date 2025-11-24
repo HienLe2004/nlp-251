@@ -1,0 +1,17 @@
+=== TRẢ LỜI NGƯỜI DÙNG (answer.txt) ===
+
+Q: Có những món nào trong menu?
+A: Menu có: phở bò (50000đ), bún chả (40000đ), trà sữa (30000đ), gà rán (60000đ), cơm rang (35000đ), nem (20000đ), bánh mì (15000đ), cà phê sữa đá (25000đ), bánh cuốn (45000đ), chả giò (30000đ), cơm tấm (40000đ), hủ tiếu (45000đ), mì xào (38000đ), bánh xèo (35000đ), sinh tố dâu (28000đ), nước ép cam (25000đ), cơm chiên dương châu (42000đ), lẩu thái (180000đ), bò kho (55000đ), cá kho tộ (48000đ), thịt nướng (70000đ), salad trộn (32000đ), súp cua (35000đ), chè ba màu (20000đ), bánh flan (15000đ), kem vani (18000đ), trà chanh (20000đ), cơm gà xối mỡ (45000đ), bánh canh (40000đ), mì quảng (42000đ), bún bò huế (50000đ), cơm cháy (30000đ), gỏi cuốn (25000đ), bánh tráng nướng (20000đ), tôm chiên xù (65000đ), cánh gà chiên nước mắm (55000đ), khoai tây chiên (25000đ), trà đào (28000đ), sữa chua mít (22000đ), bánh tiramisu (35000đ).
+
+Q: Phở bò giá bao nhiêu?
+A: Phở bò giá 50.000 VND.
+
+Q: Có món gà rán không?
+A: Có món gà rán.
+
+Q: Tôi đã đặt những món gì?
+A: Bạn chưa đặt món nào.
+
+Q: Thêm 1 ly trà sữa vào đơn.
+A: Đã thêm 1 trà sữa vào đơn hàng thành công!
+

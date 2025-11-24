@@ -9,7 +9,7 @@
 (S (CMD (VP_ADD (POLITE_PREFIX ) (V_ADD_ACTION (V_ADD_ACTION_PREFIX thêm)) (NP_QUANTIFIED (QUANTITY (NUMBER 1)) (UNIT ly) (FOOD trà sữa)) (ADD_SUFFIX (ADD_SUFFIX_1 vào) (ORDER đơn)))))
 (S (CMD (VP_ORDER (POLITE_PREFIX cho tôi) (V_ORDER_ACTION đặt) (NP_QUANTIFIED (QUANTITY (NUMBER 5)) (UNIT cái) (FOOD bánh mì)))))
 (S (QRY (Q_AVAIL (Q_PREFIX quán) (Q_AVAIL_INFIX có) (NP (FOOD cơm rang)) (Q_AVAIL_SUFFIX không))))
-(S (QRY (Q_STATUS (Q_STATUS_PREFIX đơn hàng của tôi có gì))))
+(S (QRY (Q_STATUS (ORDER đơn hàng của tôi) (Q_STATUS_PREFIX có gì))))
 (S (CMD (VP_REMOVE (POLITE_PREFIX tôi muốn) (V_REMOVE_ACTION hủy) (NP (ITEM_PREFIX món) (FOOD cơm rang)))))
 (S (CMD (VP_ADD (POLITE_PREFIX ) (V_ADD_ACTION (V_ADD_ACTION_PREFIX cho thêm)) (NP_QUANTIFIED (QUANTITY (NUMBER 2)) (UNIT ly) (FOOD trà sữa) (ATTRIBUTE ít đường)) (ADD_SUFFIX (ADD_SUFFIX_1 vào) (ORDER đơn) (SUFFIX nhé)))))
 (S (QRY (Q_PRICE (NP (FOOD bánh mì)) (Q_PRICE_SUFFIX giá bao nhiêu))))

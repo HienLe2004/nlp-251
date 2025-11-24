@@ -1,0 +1,17 @@
+=== QUAN HỆ VĂN PHẠM - DB (qhvp.txt) ===
+
+Câu: Có những món nào trong menu?
+→ SELECT name, price FROM menu
+
+Câu: Phở bò giá bao nhiêu?
+→ SELECT price FROM menu WHERE name = 'phở bò'
+
+Câu: Có món gà rán không?
+→ EXISTS IN MENU: gà rán
+
+Câu: Tôi đã đặt những món gì?
+→ SELECT * FROM current_order
+
+Câu: Thêm 1 ly trà sữa vào đơn.
+→ INSERT/UPDATE order: trà sữa × 1
+

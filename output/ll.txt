@@ -1,0 +1,17 @@
+=== DẠNG LUẬN LÝ (ll.txt) ===
+
+Câu: Có những món nào trong menu?
+→ menu()
+
+Câu: Phở bò giá bao nhiêu?
+→ price(phở bò)
+
+Câu: Có món gà rán không?
+→ avail(gà rán)
+
+Câu: Tôi đã đặt những món gì?
+→ status()
+
+Câu: Thêm 1 ly trà sữa vào đơn.
+→ add(trà sữa, 1, [], "")
+

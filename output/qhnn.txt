@@ -1,0 +1,17 @@
+=== QUAN HỆ NGỮ NGHĨA (qhnn.txt) ===
+
+Câu: Có những món nào trong menu?
+→ {'type': 'menu'}
+
+Câu: Phở bò giá bao nhiêu?
+→ {'type': 'price', 'food': 'phở bò'}
+
+Câu: Có món gà rán không?
+→ {'type': 'avail', 'food': 'gà rán'}
+
+Câu: Tôi đã đặt những món gì?
+→ {'type': 'status'}
+
+Câu: Thêm 1 ly trà sữa vào đơn.
+→ {'food': 'trà sữa', 'quantity': 1, 'type': 'add'}
+
